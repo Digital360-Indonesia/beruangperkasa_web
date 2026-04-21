@@ -1,10 +1,11 @@
 ---
-title: "Cara Efisiensi atau Menghemat Biaya Renovasi Rumah"
-slug: "cara-efisiensi-atau-menghemat-biaya-renovasi-rumah"
-date: "2022-02-02 15:31:03"
-excerpt: "Setiap orang yang sudah bosan atau memiliki masalah dengan rumahnya pasti memiliki keinginan untuk&nbsp; merenovasi, namun pasti ada beberapa kendala yang harus dipikirkan, termasuk salah satunya adal"
-wordpress_id: 3146
-image: "/uploads/2022/02/paint-brush-g840981ef7_1280.jpg"
+  category: "Renovasi & Konstruksi"
+  title: "Cara Efisiensi atau Menghemat Biaya Renovasi Rumah"
+  slug: "cara-efisiensi-atau-menghemat-biaya-renovasi-rumah"
+  date: "2022-02-02 15:31:03"
+  excerpt: "Setiap orang yang sudah bosan atau memiliki masalah dengan rumahnya pasti memiliki keinginan untuk&nbsp; merenovasi, namun pasti ada beberapa kendala yang harus dipikirkan, termasuk salah satunya adal"
+  wordpress_id: 3146
+  image: "/uploads/2022/02/paint-brush-g840981ef7_1280.jpg"
 ---
 
 <p>Setiap orang yang sudah bosan atau memiliki masalah dengan rumahnya pasti memiliki keinginan untuk&nbsp; merenovasi, namun pasti ada beberapa kendala yang harus dipikirkan, termasuk salah satunya adalah masalah biaya. Dalam beberapa kasus renovasi memang terkadang membutuhkan biaya yang cukup besar, bahkan biaya renovasi bisa melebihi biaya membangun dari awal.</p> <p>Untuk itu kami bagikan cara-cara untuk meminimalisir biaya renovasi rumah:</p> <ul type="1"><li>Jangan menggunakan sistem borongan</li></ul> <p>Jika Anda menggunakan sistem borongan pasti ada biaya perencanaan, yang pasti akan menambah biaya. Disarankan untuk memakai jasa tukang harian, namun yang menjadi catatan jangan sampai Anda ditipu oleh tukang, yang biasanya ada biaya tambahan yang tidak terduga. Cari tukang yang sudah kenal atau memiliki <em>record</em> yang bagus.</p> <ul><li>Pilih bahan bangunan kualitas menengah</li></ul> <p>Kenapa kami sarankan material dengan kualitas menengah? Jika Anda tipe orang yang mudah bosan dan suka renovasi, disarankan menggunakan material dengan kualitas menengah yang kira-kira bahan tersebut masih kuat dalam jangka masa bosan Anda. Jika Anda gunakan material kualitas bagus akan sangat <em>useless</em> jika dalam jangka waktu 2-5 tahun harus direnovasi. Tentu harga material yang bagus akan jauh lebih mahal.</p> <ul><li>Menggunakan material yang masih bisa dipakai</li></ul> <p>Menggunakan material yang bisa dipakai ulang tentu akan sangat menghemat biaya, seperti pintu, jendela, paving, dll yang masih dipakai, gunakan saja.</p> <ul><li><em>Restorasi</em> furnitur yang lama</li></ul> <p>Restorasi furnitur emang membutuhkan keterampilan, namun jika Anda bisa lakukan saja. Hal ini menghemat biaya cukup besar, karena memang harga furnitur saat ini cukup mahal. Tentunya me<em>restorasi</em> furnitur menyesuiakan dengan konsep rumah atau ruangan.</p> <ul><li>Beli Material Renovasi Sendiri</li></ul> <p>Jika Anda menggunakan jasa borongan dan tidak membeli material sendiri tentu akan beda hitungannya, untuk menghemat Anda bisa membeli material secara mandiri, disisi lain Anda juga bisa menentukan kualitas material yang sesuai kebutuhan Anda.</p> <p>Itu cara-cara yang bisa Anda terapkan jika Anda akan merenovasi rumah, tentu cara-cara diatas tidak semua bisa diterapkan ke semua jenis renovasi, namun paling tidak Anda bisa menerapkan salah satunya. Pastikan untuk selalu menggunakan produk Beruang Perkasa seperti semen, semen instant, plamir, perekat bata, dan lain-lain. Selamat menikmati rumah baru Anda!</p>

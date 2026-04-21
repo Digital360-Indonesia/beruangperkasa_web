@@ -1,10 +1,11 @@
 ---
-title: "Mengenal Acian Putih atau Acian Plester"
-slug: "mengenal-acian-putih-atau-acian-plester"
-date: "2021-05-19 05:35:18"
-excerpt: "Dalam dunia kontruksi secara umum dinding yang sudah dibangun dengan bata berdiri harus dilanjutkan dengan proses plester atau pelapisan untuk menutup permukaan bata yang telah tersusun. Plester harus"
-wordpress_id: 2797
-image: "/uploads/2021/05/acian.jpg"
+  category: "Bahan Bangunan"
+  title: "Mengenal Acian Putih atau Acian Plester"
+  slug: "mengenal-acian-putih-atau-acian-plester"
+  date: "2021-05-19 05:35:18"
+  excerpt: "Dalam dunia kontruksi secara umum dinding yang sudah dibangun dengan bata berdiri harus dilanjutkan dengan proses plester atau pelapisan untuk menutup permukaan bata yang telah tersusun. Plester harus"
+  wordpress_id: 2797
+  image: "/uploads/2021/05/acian.jpg"
 ---
 
 <p>Dalam dunia kontruksi secara umum dinding yang sudah dibangun dengan bata berdiri harus dilanjutkan dengan proses plester atau pelapisan untuk menutup permukaan bata yang telah tersusun. Plester harus diaplikasikan secara rata pada seluruh permukaan agar tidak bergelombang. Cara teknisnya sebelum proses “perataan” perlu dibuat “kelabangan” terlebih dahulu untuk acuan tebal plester sekaligus untuk acuan&nbsp; meratakan permukaannya. Setelah plester kering, proses ACI dilakukan hingga proses <em>finishing </em>atau penghalusan plester.</p> <p>Acian termasuk dalam kategori produk mortar yang memiliki kelebihan muai susut yang rendah sehingga dapat meminimalisir dampak keretakan pada dinding. Hal ini bukan berarti semen mortar bersifat anti retak, akan tetapi keretakan yang ditimbulkan tidak sebesar apabila menggunakan semen biasa untuk proses ACI. Mengapa demikian? Karena semen mortar memiliki campuran bahan lain seperti kapur dan mesh tertentu, dan tambahan bahan lainnya seperti pelengketan dan anti mlorot, sehingga adonan lebih mudah diaplikasikan pada permukaan dinding plester.</p> <p>Proses ACI harus dilakukan sesuai dengan tahapan prosedur yang benar dan disesuaikan dengan kebutuhan serta karakteristik bangunan. Sebisa mungkin hindari kondisi dimana adonan acian cepat mengering, karena dapat menimbulkan keretakan pada permukaannya. Acian yang ideal harus mengering secara perlahan agar kerekatan plesteran juga sempurna.</p> <p>Untuk mendapatkan produk acian yang berkualitas, Anda dapat memilih CV. Beruang Perkasa sebagai produsen dan supplier acian instan atau acian plester. Kami menyediakan semen mortar untuk membantu Anda mendapatkan proses ACI yang mudah dan menghasilkan permukaan dinding yang rata dan tahan lama. Segera hubungi kami melalui email atau nomor telepon pada kontak yang tertera untuk mendapatkan penawaran menarik.</p>

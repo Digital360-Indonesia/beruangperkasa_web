@@ -1,10 +1,11 @@
 ---
-title: "Tips Kamar Mandi Anti Bocor dan Rembes"
-slug: "tips-kamar-mandi-anti-bocor-dan-rembes"
-date: "2022-05-11 15:22:55"
-excerpt: "Kamar mandi adalah area di rumah yang sangat lembab dan sering basah karena fungsinya sebagai tempat untuk mandi atau membersihkan diri. Hal inilah yang membuat kamar mandi berpotensi terjadi bocor at"
-wordpress_id: 3244
-image: "/uploads/2022/05/shower-g1435b5abf_1280.jpg"
+  category: "Tips & Trick"
+  title: "Tips Kamar Mandi Anti Bocor dan Rembes"
+  slug: "tips-kamar-mandi-anti-bocor-dan-rembes"
+  date: "2022-05-11 15:22:55"
+  excerpt: "Kamar mandi adalah area di rumah yang sangat lembab dan sering basah karena fungsinya sebagai tempat untuk mandi atau membersihkan diri. Hal inilah yang membuat kamar mandi berpotensi terjadi bocor at"
+  wordpress_id: 3244
+  image: "/uploads/2022/05/shower-g1435b5abf_1280.jpg"
 ---
 
 <p>Kamar mandi adalah area di rumah yang sangat lembab dan sering basah karena fungsinya sebagai tempat untuk mandi atau membersihkan diri. Hal inilah yang membuat kamar mandi berpotensi terjadi bocor atau rembes pada bagian dinding dan lantainya. Kebocoran dan rembesan air terjad akibat pemipaan air bersih seperti shower, bathub, wastafel, kloset, dan bak mandi yang bermasalah. Akibatnya menjadi fatal ketika kebocoran dan rembesan menembus dinding dan lantai ruang lain di sekitar kamar mandi.</p> <p>Kebocoran dan rembesan tersebut menimbulkan noda yang menjadi tempat untuk jamur dan lumut tumbuh akibat tingginya kelembapan. Jamur dan lumut tentu akan membuat keindahan interior menjadi luntur dan dapat merusak material bangunan. Kali ini Beruang Perkasa akan berbagi tips agar kamar mandi tidak bocor dan rembes.</p> <ol><li>Pengaplikasian Konstruksi Kedap Air<br>Pembangunan kamar mandi harus disertai dengan konstruksi kedap air, mulai daro konstruksi bawah tanah hingga bak mandi. Pengerjaan konstruksi kedap air harus dilakukan dengan hati-hati agar tidak terjadi kebocoran atau rembesan air.</li><li>Pengaplikasian Lapisan Anti Rembes<br>Agar dinding akmat mandi tidak bocor dan rembes, Anda wajib melapisi dinding kamar mandi dengan plester, acian, dan cat pelapis terakhir. Gunakan bahan material seperti acian yang berkualitas yang dapat Anda temukan pada Acian Beruang Perkasa.</li><li>Pemilihan Aksesoris dan Material Berkualitas<br>Elemen dan material yang berada di kamar mandi seringkali menjadi penyebab kamar mandi rembes dan bocor. Contohnya saja pipa saluran air, kran, dan sanitasi. Gunakan bahan-bahan material perlengkapan kamar mandi yang berkualitas, jangan asal yang murah. Semakin berkualitas, maka semakin kecil kemungkinan kamar mandi akan bocor dan rembes.</li></ol> <p>Pastikan Anda menggunakan Acian Beruang Perkasa untuk dinding kamar mandi anti rembes dan bocor. Hubungi kami sekarang juga untuk mendapatkan penawaran menarik.</p>

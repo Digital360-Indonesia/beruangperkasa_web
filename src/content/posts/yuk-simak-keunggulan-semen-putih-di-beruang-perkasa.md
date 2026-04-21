@@ -1,10 +1,11 @@
 ---
-title: "Yuk Simak, Keunggulan Semen Putih di Beruang Perkasa"
-slug: "yuk-simak-keunggulan-semen-putih-di-beruang-perkasa"
-date: "2024-07-15 13:50:35"
-excerpt: "Semen putih merupakan salah satu material penting yang digunakan untuk membangun sebuah bangunan. Fungsinya yang penting menjadikan pemilihan produk semen putih yang berkualitas harus diperhatikan dan"
-wordpress_id: 4049
-image: "/uploads/2023/06/3.jpg"
+  category: "Bahan Bangunan"
+  title: "Yuk Simak, Keunggulan Semen Putih di Beruang Perkasa"
+  slug: "yuk-simak-keunggulan-semen-putih-di-beruang-perkasa"
+  date: "2024-07-15 13:50:35"
+  excerpt: "Semen putih merupakan salah satu material penting yang digunakan untuk membangun sebuah bangunan. Fungsinya yang penting menjadikan pemilihan produk semen putih yang berkualitas harus diperhatikan dan"
+  wordpress_id: 4049
+  image: "/uploads/2023/06/3.jpg"
 ---
 
 <p>Semen putih merupakan salah satu material penting yang digunakan untuk membangun sebuah bangunan. Fungsinya yang penting menjadikan pemilihan produk semen putih yang berkualitas harus diperhatikan dan dipikirkan matang-matang. Salah satu semen putih terbaik adalah produk dari CV. Beruang Perkasa. Produk semen putih CV. Beruang Perkasa memiliki banyak keunggulan dan juga sangat terjangkau. Apa saja keunggulan semen putih Beruang Perkasa? Simak pada penjelasan berikut.</p> <ol><li>Kualitas Terbaik dan Nomor 1</li></ol> <p>Produk semen putih Beruang Perkasa mengandung magnesium oksida dan besi yang rendah. &nbsp;Kandungan inilah yang membuat semen putih berkualitas dan cocok digunakan sebagai dekorasi bangunan bagian luar.</p> <p>2. Daya Rekat Baik</p> <p>Perbedaan yang mencolok antara semen putih dengan semen biasa adalah daya rekatnya yang sangat kuat. Semen putih memiliki daya silikat yang sangat tinggi, sehingga dalam proses pengaplikasian semennya menjadi lebih cepat.</p> <p>3. Dapat Mengatasi Tembok Retak dan Mengelupas</p> <p>Semen putih sering digunakan untuk mengatasi tembok yang retak dan mengelupas. Biasanya semen putih diaplikasikan sebelum dilakukan pengecatan ulang pada tembok. Untuk mengatasi tembok yang retak, semen putih berfungsi untuk menambal tembok agar Kembali seperti semula.</p> <p>4. Semen Putih Sebagai Plamir</p> <p>Plamir adalah proses meratakan permukaan tembok agar menjadi lebih halus dan untuk menutupi celah yang retak. Umumnya proses plamir menggunakan campuran semen putih sebagai bahan pengaplikasian.</p> <p>5. Digunakan Untuk Kreasi Keramik</p> <p>Suka berkreasi dengan keramik? Anda dapat mencoba menggunakan semen putih sebagai komponen untuk berkreasi dengan keramik. Dibanding material bangunan lainnya, semen putih Beruang Perkasa bersifat lebih kuat dan lebih rekat.</p>

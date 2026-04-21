@@ -1,10 +1,11 @@
 ---
-title: "Alternatif Interior, Intip Ide Menarik Dinding dari Semen"
-slug: "alternatif-interior-intip-ide-menarik-dinding-dari-semen"
-date: "2023-05-15 04:21:06"
-excerpt: "Akhir - akhir ini banyak interior rumah mengguanakan semen ekspos, terutama untuk rumah yang berkonsep industrial. Ide menggunakan semen ekspos akan memberikan kesan minimalis, alami, namun tetap koko"
-wordpress_id: 3629
-image: "/uploads/2023/05/bathroom-g0461167b1_1920.jpg"
+  category: "Bahan Bangunan"
+  title: "Alternatif Interior, Intip Ide Menarik Dinding dari Semen"
+  slug: "alternatif-interior-intip-ide-menarik-dinding-dari-semen"
+  date: "2023-05-15 04:21:06"
+  excerpt: "Akhir - akhir ini banyak interior rumah mengguanakan semen ekspos, terutama untuk rumah yang berkonsep industrial. Ide menggunakan semen ekspos akan memberikan kesan minimalis, alami, namun tetap koko"
+  wordpress_id: 3629
+  image: "/uploads/2023/05/bathroom-g0461167b1_1920.jpg"
 ---
 
 <p>Akhir - akhir ini banyak interior rumah mengguanakan semen ekspos, terutama untuk rumah yang berkonsep industrial. Ide menggunakan semen ekspos akan memberikan kesan minimalis, alami, namun tetap kokoh. Dinding semen ekspos juga memiliki kelebihan di mana warna yang natural membuat ruangan lebih fleksibel dipadukan dengan beragam furnitur dan memberikan kesan sejuk pada ruangan.</p> <p>Berikut beberapa ide desain yang cocok diterapkan di hunian anda jika tertarik dengan dinding semen ekspos.</p> <p>1. Dinding Semen Ekspos Alami</p> <p>Tampilan dinding ekspos di ruangan dengan konsep ini akan terlihat sangat alami. Hal ini dikarenakan warna semen yang sudah mengering terlihat bergradasi dan tidak rata. Bagi sebagian orang tampilan seperti inilah yang lebih menarik.</p> <p>2. Dinding Semen Bermotif Kotak</p> <p>Dinding semen ekspos ini bisa diterapkan pada kamar tidur di apartemen studio. Agar tidak monoton, Anda bisa memadukan dinding semen ekspos dengan lantai kayu agar kesannya tidak terlalu dingin. Kemudian berikan penerangan dengan lampu yang memiliki cahaya hangat. Jika ingin lebih sempurna, tambahkan pilar bata ekspos di sudut ruangan sebagai pemanis ruangan.</p> <p>3.Dinding Semen Ekspos Polos</p> <p>Model dinding semen ekspos yang sering dijumpai adalah dinding semen yang polos dan halus. Tampilan dinding ini tidak ada tekstur tambahan apapun di permukaannya. Biasanya dinding semen polos menggunakan bahan utama berupa semen instan atau yang biasa disebut mortar. Semen intan dipilih karena dapat menutup permukaan atay pori - pori tembok lebih halus dan resiko keretakan lebih kecil.</p> <p>4. Dinding Semen Ekspos Abu Gelap</p> <p>Apabila ingin tampilan ruangan yang agak gelap, Anda bisa bermain dengan campuran semen. Gunakan campuran semen biasa dan semen putih instan untuk mendapatkan hasil yang diinginkan. Agar menarik gunakan perabot rumah tangga Anda dengan elemen kayu serta besi agar tampilan ruangan lebih harmonis. Jangan lupa, lengkapi ruangan dengan bukaan besar agar suasana rumah tidak terlalu suram dan menyeramkan.</p>

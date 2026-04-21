@@ -1,10 +1,11 @@
 ---
-title: "Tak Perlu Ragu Pilih Semen Putih, Ini Dia Keunggulan Semen Putih Dari Semen Biasa"
-slug: "tak-perlu-ragu-pilih-semen-putih-ini-dia-keunggulan-semen-putih-dari-semen-biasa"
-date: "2023-01-17 01:39:05"
-excerpt: "Ada dua jenis semen yang pada umumnya digunakan untuk membuat bangunan, yaitu semen abu-abu dan putih. Semen putih biasanya digunakan untuk dekorasi luar ruangan, meskipun pada dasarnya penggunaan sem"
-wordpress_id: 3449
-image: "/uploads/2022/09/texture-gfb73e1d49_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Tak Perlu Ragu Pilih Semen Putih, Ini Dia Keunggulan Semen Putih Dari Semen Biasa"
+  slug: "tak-perlu-ragu-pilih-semen-putih-ini-dia-keunggulan-semen-putih-dari-semen-biasa"
+  date: "2023-01-17 01:39:05"
+  excerpt: "Ada dua jenis semen yang pada umumnya digunakan untuk membuat bangunan, yaitu semen abu-abu dan putih. Semen putih biasanya digunakan untuk dekorasi luar ruangan, meskipun pada dasarnya penggunaan sem"
+  wordpress_id: 3449
+  image: "/uploads/2022/09/texture-gfb73e1d49_1280.jpg"
 ---
 
 <p>Ada dua jenis semen yang pada umumnya digunakan untuk membuat bangunan, yaitu semen abu-abu dan putih. Semen putih biasanya digunakan untuk dekorasi luar ruangan, meskipun pada dasarnya penggunaan semen putih sama dengan semen biasa/ abu – abu.</p> <p>Semen putih memiliki beberapa keunggulan dibandikan semen biasa, berikut beberapa keunggulan :</p> <p><strong>1. Penggunaan yang Fleksibel<br></strong>Semen putih banyak diaplikasikan pada pekerjaan arsitektur, precast, dan beton. Setelah diaplikasikan, lapisan semen kemudian diperkuat lagi dengan beberapa material lain, seperti fiber, panel, permukaan teraso, stucco, cat semen, atau nat ubin/keramik serta struktur lainnya yang bersifat dekoratif.</p> <p><strong>2. Bahan Acian</strong><br>Semen putih banyak digunakan sebagai bahan untuk acian, misalnya untuk plesteran, acian, dan pasangan keramik. Acian berfungsi untuk menutup pori-pori yang terdapat pada plesteran, sehingga menjadi halus, rapi dan siap dicat.&nbsp;</p> <p><strong>3. Sebagai Plamir</strong><br>Plamir merupakan proses yang berfungsi untuk menutupi keretakan dan meratakan permukaan tembok yang tidak rata. Plamir biasanya digunakan pada permukaan interior dan diguankan untuk menutupi permukaan acian yang tidak rata.</p> <p><strong>4. Daya Rekat yang Tinggi</strong><br>Semen putih memiliki kandungan senyawa silikatnya yang tinggi sehinngga daya rekatnya tinggi pula. Komposisi di dalamnya tidak mudah retak dan terkelupas. Waktu pengerjaan dengan semen putih pun ternyata cenderung lebih cepat. Beberapa produk berkualitas yang dapat dijadikan pilihan di antaranya semen putih Black Bull, Elephant, Panda, dan juga Garuda yang didistribusikan oleh Beruang Perkasa.</p> <p><strong>5. Membuat Warna Dinding Lebih Cantik</strong><br>Warna pada semen putih menciptakan nuansa modern secara alami. Warna yang dihasilkan pun membuat dinding lebih cantik.</p> <p><strong>6. Mengatasi Tembok yang Lembap dan Mengelupas</strong><br>Semen putih dapat digunakan untuk mengatasi tembok yang lembap. Dengan melapisi tembok dengan semen putih kelembaban tidak terlihat lagi. Untuk tembok yang mengelupas sebelum melakukan pengecatan ulang sangat dianjurkan melapisi tembok dengan semen putih ini.</p>

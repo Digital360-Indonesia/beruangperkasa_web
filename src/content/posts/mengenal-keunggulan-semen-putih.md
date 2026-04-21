@@ -1,10 +1,11 @@
 ---
-title: "Mengenal Keunggulan Semen Putih"
-slug: "mengenal-keunggulan-semen-putih"
-date: "2024-07-14 08:28:39"
-excerpt: "Penggunaan semen putih di dunia konstruksi semakin populer. Semen putih dipilih karena hasilnya yang lebih halus daripada semen biasa. Semen putih dapat digunakan untuk acian dinding, finishing, hingg"
-wordpress_id: 4037
-image: "/uploads/2023/10/6.-istockphoto-476199756-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Mengenal Keunggulan Semen Putih"
+  slug: "mengenal-keunggulan-semen-putih"
+  date: "2024-07-14 08:28:39"
+  excerpt: "Penggunaan semen putih di dunia konstruksi semakin populer. Semen putih dipilih karena hasilnya yang lebih halus daripada semen biasa. Semen putih dapat digunakan untuk acian dinding, finishing, hingg"
+  wordpress_id: 4037
+  image: "/uploads/2023/10/6.-istockphoto-476199756-612x612-1.jpg"
 ---
 
 <p>Penggunaan semen putih di dunia konstruksi semakin populer. Semen putih dipilih karena hasilnya yang lebih halus daripada semen biasa. Semen putih dapat digunakan untuk acian dinding,<em> finishing,</em> hingga plamir tembok bangunan. Selain teksturnya yang lebih halus, semen putih memiliki daya rekat yang tinggi. Semen putih atau biasa disebut <em>white portland cement</em> memiliki sejumlah keunggulan dibandingkan semen putih membuat warna dinding yang lebih sempurna dan menghaluskan permukaan tembok lebih merata.</p> <p>Berikut beberapa keunggulan semen putih:</p> <ol type="1"><li>Penggunaan yang Fleksibel</li></ol> <p>Semen putih banyak diaplikasikan pada pekerjaan arsitektur, precast, dan beton.&nbsp;Setelah diaplikasikan, lapisan semen tersebut akan diperkuat lagi dengan beberapa material lain, seperti fiber, panel, hingga keramik serta struktur lainnya yang bersifat dekoratif.</p> <p>2. Memiliki Daya Rekat yang Tinggi</p> <p>Di dalam semen putih terdpat kandungan senyawa silika tinggi yang membuat semen putih memiliki daya rekat tinggi, tidak mudah retak, dan terkelupas. Selain itu, waktu pengerjaan dengan semen putih cenderung lebih cepat dibanding menggunakan semen biasa.&nbsp;</p> <p>3. Sebagai Penghalus Permukaan Dinding</p> <p>Jika butiran pada semen biasa besar-besar dan kasar, semen putih memiliki butiran-butiran yang sangat halus dan bersih.&nbsp;Teksturnya yang halus menjadikan semen putih cocok digunakan sebagai plester ataupun acian pada tembok.&nbsp;Dinding yang memakai acian semen putih bakal memiliki permukaan yang jauh lebih halus.&nbsp;</p> <p>4. Lebih Ekonomis</p> <p>Karena kualitasnya yang baik, pekerjaan bangunan yang memakai semen putih dapat lebih efisien.&nbsp;Penggunaan semen putih akan lebih sedikit dibandingkan dengan semen warna, sehingga kamu lebih hemat dan tidak mengeluarkan biaya yang banyak.&nbsp;</p> <p>5. Memiliki Warna yang Cerah dan Natural</p> <p>Selain memiliki daya rekat tinggi, semen putih juga mempunyai warna yang sempurna. Dinding bangunan yang memakai semen putih akan memunculkan warna yang lebih cerah dan natural sehingga bakal semakin bagus ketika dicat.</p> <p>Dapatkan produk semen putih berkualitas hanya di Beruang Perkasa.</p>

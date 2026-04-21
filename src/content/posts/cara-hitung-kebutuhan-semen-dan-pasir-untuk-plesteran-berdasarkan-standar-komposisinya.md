@@ -1,10 +1,11 @@
 ---
-title: "Cara Hitung Kebutuhan Semen dan Pasir untuk Plesteran, Berdasarkan Standar Komposisinya"
-slug: "cara-hitung-kebutuhan-semen-dan-pasir-untuk-plesteran-berdasarkan-standar-komposisinya"
-date: "2023-10-24 09:08:16"
-excerpt: "Setelah konstruksi bangunan atau lantai jadi, langkah selanjutnya adalah proses&nbsp;finishing. Proses ini dilakukan dalam beberapa tahapan, salah satunya adalah tahap plesteran. Untuk membuat plester"
-wordpress_id: 3770
-image: "/uploads/2023/10/2.-istockphoto-843297620-612x612-2.jpg"
+  category: "Bahan Bangunan"
+  title: "Cara Hitung Kebutuhan Semen dan Pasir untuk Plesteran, Berdasarkan Standar Komposisinya"
+  slug: "cara-hitung-kebutuhan-semen-dan-pasir-untuk-plesteran-berdasarkan-standar-komposisinya"
+  date: "2023-10-24 09:08:16"
+  excerpt: "Setelah konstruksi bangunan atau lantai jadi, langkah selanjutnya adalah proses&nbsp;finishing. Proses ini dilakukan dalam beberapa tahapan, salah satunya adalah tahap plesteran. Untuk membuat plester"
+  wordpress_id: 3770
+  image: "/uploads/2023/10/2.-istockphoto-843297620-612x612-2.jpg"
 ---
 
 <p>Setelah konstruksi bangunan atau lantai jadi, langkah selanjutnya adalah proses&nbsp;<em>finishing</em>. Proses ini dilakukan dalam beberapa tahapan, salah satunya adalah tahap plesteran. Untuk membuat plesteran yang baik, tahan lama, dan tidak mudah retak, kamu tentunya harus menggunakan semen dan pasir dengan komposisi yang pas.&nbsp;</p> <p>Nah, berikut ini cara menghitung kebutuhan semen (PC:&nbsp;<em>Portland Cement</em>) dan pasir (PP: Pasir Pasang atau agregat halus) untuk plesteran yang bisa kamu jadikan referensi:</p> <h3>a. Komposisi 1 PC: 4 PP</h3> <p>Berdasarkan komposisi ini, standar kebutuhannya adalah 6.24 kg/m2 untuk semen dan 0.024 m3/m2 untuk pasir. Misalnya, kamu ingin memplester area dinding berukuran 15 m x 6 m, maka:&nbsp;</p> <ul><li>Kebutuhan Portland Cement: (10 m x 5 m) x 6.24 kg/m2 = 312 kg atau 8 sak @40 kg&nbsp;&nbsp;</li><li>Kebutuhan Pasir Pasang: (10 m x 5 m) x 0.024 kg/m2 = 1.2 m3&nbsp;</li></ul> <h3>b. Komposisi 1 PC: 5 PP</h3> <p>Berdasarkan komposisi ini, standar kebutuhannya adalah 5.18 kg/m2 untuk semen dan 0.026 m3/m2 untuk pasir. Misalnya, kamu ingin memplester area dinding berukuran 10 m x 5 m, maka:&nbsp;</p> <ul><li>Kebutuhan&nbsp;<em>Portland Cement</em>: (10 m x 5 m) x 5.18 kg/m2 = 259 kg atau 7 sak @40 kg&nbsp;</li><li>Kebutuhan Pasir Pasang: (10 m x 5 m) x 0.026 kg/m2 = 1.3 m3&nbsp;</li></ul> <h3>c. Komposisi 1 PC: 6 PP</h3> <p>Berdasarkan komposisi ini, standar kebutuhannya adalah 4.42 kg/m2 untuk semen dan 0.027 m3/m2 untuk pasir. Misalnya, kamu ingin memplester area dinding berukuran 10 m x 5 m, maka:&nbsp;</p> <ul><li>Kebutuhan Portland Cement: (10 m x 5 m) x 4.42 kg/m2 = 221 kg atau 6 sak @40 kg&nbsp;</li><li>Kebutuhan Pasir Pasang: (10 m x 5 m) x 0.027 kg/m2 = 1.35 m3&nbsp;</li></ul> <p>Nah, itulah 3&nbsp;standar&nbsp;komposisi yang bisa kamu jadikan referensi untuk menghitung kebutuhan pasir dan semen untuk plesteran. Butuh supplier semen, semen instan, plamir instan, dan bahan acian untuk proyek konstruksi atau tokomu? Hubungi kami, Beruang Perkasa di:&nbsp;</p> <p><strong>Email: info@beruangperkasa.id</strong></p> <p><strong>Telp: 031-8704593 / 031-8721992 / 031-8796430</strong></p> <p><strong>Alamat : Jl. Rungkut mapan tengah 9 blok Ci no.30 Surabaya – Indonesia</strong></p>

@@ -1,10 +1,11 @@
 ---
-title: "Mengenal Acian Putih Dalam Dunia Konstruksi"
-slug: "mengenal-acian-putih-dalam-dunia-konstruksi"
-date: "2022-11-10 09:50:42"
-excerpt: "Semen putih meruapakan salah satu material bangunan yang biasa dipakai dalam dunia konstruksi. Sama seperti namanya, material acian putih atau yang lebih sering disebut dengan semen putih memberikan h"
-wordpress_id: 3403
-image: "/uploads/2022/11/art-ga88ea8a76_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Mengenal Acian Putih Dalam Dunia Konstruksi"
+  slug: "mengenal-acian-putih-dalam-dunia-konstruksi"
+  date: "2022-11-10 09:50:42"
+  excerpt: "Semen putih meruapakan salah satu material bangunan yang biasa dipakai dalam dunia konstruksi. Sama seperti namanya, material acian putih atau yang lebih sering disebut dengan semen putih memberikan h"
+  wordpress_id: 3403
+  image: "/uploads/2022/11/art-ga88ea8a76_1280.jpg"
 ---
 
 <p>Semen putih meruapakan salah satu material bangunan yang biasa dipakai dalam dunia konstruksi. Sama seperti namanya, material acian putih atau yang lebih sering disebut dengan semen putih memberikan hasil akhir berwarna putih dan memiliki tekstur halus. Acian putih mulai banyak digunakan dalam dunia konstruksi di masa sekarang karena memiliki nilai estetika yang tinggi.</p> <p>Selain memiliki nilai estetik,&nbsp;&nbsp;acian putih dianggap lebih bersih dibanding material lainnya. Hal ini karena acian putih mengandung material yang berbahan besi dan mangan yang lebih sedikit, dimana kandungan besi itulah yang mengasilkan warna cerah pada hasil akhir.</p> <p>Semen putih umumnya&nbsp;&nbsp;digunakan sebagai finishing atau pelapis di akhir, berbeda dengan semen konvensional lain yang&nbsp;&nbsp;digunakan sebagai keperluan lain seperti memasang keramik.</p> <p>Walau memilihi hasil akhir yang halus dan bersih, semen putih memiliki kekurangan tersendiri, yaitu harganya yang lebih mahal dibanding semen konvensional. Ini karena kualitas dan kemampuan yang dimiliki semen putih sangat menarik. Tidak jarang faktor inilah yang membuat kontraktor sangat berhati-hati dan perhitungan dalam pemakaiannya.</p> <p>Semen putih memberikan hasil akhir yang jauh lebih baik dibanding semen lainnya, namun waktu pengaplikasian yang diperlukan juga jaug lebih lama karena harus melalui proses pengeringan yang lebih lambat. Maka dari itu, Anda harus berhati-hati dalam memperkirakan waktu pengerjaan jika menggunalan semen putih sebagai bahan material. Meskipun pengerjaan lama, semen putih dinilai jauh lebih praktis karena Anda tidak memerlukan bahan campuran lainnya.&nbsp;</p> <p>Pemilihan semen putih sebagai bahan material harus disesuaikan dengan kebutuhan Anda. Anda perlu memikirkan dengan matang mengenai biaya dan durasi pengerjaan bangunan apabila ingin menggunakan semen putih ini.</p> <p>Dapatkan semen putih yang berkualitas dengan menggunakan Semen Putih Beruang Perkasa. Kami menyediakan semen putih yang bermutu dan dapat disesuaikan dengan kebutuhan Anda.&nbsp;</p>

@@ -1,10 +1,11 @@
 ---
-title: "Tips Memilih Plamir untuk Dempul Tembok, Ini Dia 4 Kategorinya"
-slug: "tips-memilih-plamir-untuk-dempul-tembok-ini-dia-4-kategorinya"
-date: "2023-11-23 09:48:35"
-excerpt: "Plamir atau dempul atau wall puffy merupakan material yang memiliki fungsi utama untuk memperhalus dan menutupi celah/retakan halus di tembok. Pengaplikasikan dempul ini biasanya digunakan setelah pro"
-wordpress_id: 3811
-image: "/uploads/2023/11/4.-istockphoto-1137610400-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Tips Memilih Plamir untuk Dempul Tembok, Ini Dia 4 Kategorinya"
+  slug: "tips-memilih-plamir-untuk-dempul-tembok-ini-dia-4-kategorinya"
+  date: "2023-11-23 09:48:35"
+  excerpt: "Plamir atau dempul atau wall puffy merupakan material yang memiliki fungsi utama untuk memperhalus dan menutupi celah/retakan halus di tembok. Pengaplikasikan dempul ini biasanya digunakan setelah pro"
+  wordpress_id: 3811
+  image: "/uploads/2023/11/4.-istockphoto-1137610400-612x612-1.jpg"
 ---
 
 <p>Plamir atau dempul atau <em>wall puffy</em> merupakan material yang memiliki fungsi utama untuk memperhalus dan menutupi celah/retakan halus di tembok. Pengaplikasikan dempul ini biasanya digunakan setelah proses acian atau plester dan sebelum pengaplikasian <em>primer</em>. Plamir juga mampu menutup pori-pori pada dinding sehingga teksturnya lebih halus, rata, rapi, dan tidak mudah rembes.&nbsp;</p> <p>Agar hasil pendempulan lebih sempurna, kamu harus memilih produk <em>wall puffy</em> yang tepat. Berikut ini beberapa tips memilih dempul yang tepat:&nbsp;</p> <h2><strong>1. Waktu Pengeringan&nbsp;</strong></h2> <p>Proses pengeringan dempul dibagi menjadi 3 tahapan, pertama adalah kering sentuh, kering keras, dan kering amplas. Pada tahap terakhir inilah, Anda bisa memperhalus permukaan tembok dengan amplas. Setiap produk <em>wall puffy</em> memiliki estimasi waktu keringnya sendiri-sendiri, jadi Anda bisa memilihnya sesuai dengan kebutuhan.&nbsp;</p> <h2><strong>2. Jumlah Lapisan&nbsp;</strong></h2> <p>Indikator kedua yang bisa Anda gunakan adalah jumlah lapisan yang harus diaplikasikan guna memperoleh ketebalan yang diinginkan. Jumlah lapisan ini dapat dipengaruhi oleh kekentalan dari dempul itu sendiri, makin kental maka lapisannya akan makin tebal. Tiap merk dempul dinding biasanya memiliki tingkat ketebalan per lapisannya masing-masing. Ada yang 1 kali lapis sudah cukup, namun ada juga yang harus 2-3 kali lapisan baru hasilnya sempurna.&nbsp;</p> <h2><strong>3. Daya Sebar&nbsp;</strong></h2> <p>Daya sebar ini berkaitan dengan estimasi biaya nantinya, makin rendah daya sebarnya maka Anda perlu membeli lebih banyak produk dan hal ini akan meningkatkan biayanya. Anda bisa memperoleh informasi mengenai daya sebar plamir ini pada kemasan produk. Umumnya, 1 kg plamir memiliki daya sebar 2-3 m2 dalam 1x lapisan.&nbsp;</p> <h2><strong>4. Penggunaan dan Kriteria Khusus&nbsp;</strong></h2> <p>Perhatikan juga lokasi penggunaan, apakah digunakan untuk dinding interior atau dinding eksterior. Untuk interior gunakan plamir akrilik yang lebih <em>matte</em> dan halus, untuk eksterior sebaiknya gunakan semen putih yang lebih awet dan tahan air.&nbsp;</p> <p>Pastikan juga dempul yang Anda gunakan adalah produk berkualitas ya, kualitas ini akan menjamin hasil pengerjaan dindingnya. Produk plamir berkualitas bisa Anda temukan di Beruang Perkasa! Hubungi distributor semen, acian, plamir, dan semen instan berkualitas di:&nbsp;</p> <p><strong>info@beruangperkasa.id</strong></p> <p><strong>031-8704593 / 031-8721992 / 031-8796430</strong></p>

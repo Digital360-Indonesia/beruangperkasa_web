@@ -1,10 +1,11 @@
 ---
-title: "Cara Mengatasi Tembok yang Lembab dan Mengelupas"
-slug: "cara-mengatasi-tembok-yang-lembab-dan-mengelupas"
-date: "2023-05-16 01:50:53"
-excerpt: "Tembok lembab menjadi salah satu masalah dan mengurangi keindahan rumah. Tembok yang lembab akan menyebabkan cat tembok mengelupas dan memperburuk struktur bangunan rumah. Berikut langkah – langkah un"
-wordpress_id: 3638
-image: "/uploads/2022/05/abandoned-gb29e7cf7e_1280.jpg"
+  category: "Tips & Trick"
+  title: "Cara Mengatasi Tembok yang Lembab dan Mengelupas"
+  slug: "cara-mengatasi-tembok-yang-lembab-dan-mengelupas"
+  date: "2023-05-16 01:50:53"
+  excerpt: "Tembok lembab menjadi salah satu masalah dan mengurangi keindahan rumah. Tembok yang lembab akan menyebabkan cat tembok mengelupas dan memperburuk struktur bangunan rumah. Berikut langkah – langkah un"
+  wordpress_id: 3638
+  image: "/uploads/2022/05/abandoned-gb29e7cf7e_1280.jpg"
 ---
 
 <p>Tembok lembab menjadi salah satu masalah dan mengurangi keindahan rumah. Tembok yang lembab akan menyebabkan cat tembok mengelupas dan memperburuk struktur bangunan rumah. Berikut langkah – langkah untuk mengatas tembok yang lembab dan mengelupas.</p> <ol type="1"><li>Periksa Bagian Tembok</li></ol> <p>Salah satu cara yang perlu dilakukan ketika mencoba mengatasi tembok lembab adalah memeriksa bagian bangunan terlebih dulu. Hal ni bertujuan memeriksa apa penyebab dinding tembok menjadi lembab. Mungkin saja tembok yang lembab dikarenakan ada atap atau saluran pipa yang bocor. Jika sudah mengetahui penyebabnya segera atasi permasalahan tersebut agar tembok yang lembab tidak menyebar.</p> <p>2. Pakai Cairan Anti Jamur</p> <p>Selain dikarenakan ada saluran yang bocor, tembok yang lembab juga disebabkan karena adanya jamur pada permukaan tembok. Untuk menghindari pertumbuhan jamur bisa disemprot menggunakan cairan anti-jamur atau fungsida pada bagian dinding yang terkena jamur. Sebelum disemprot, pastikan dulu tembok sudah bersih dengan cara bersihkan tembok dengan lap kering.</p> <p>3. Gunakan Bahan Anti Air</p> <p>Menggunakan bahan anti-air atau <em>waterproofing</em> sering jadi solusi andalan dari cara mengatasi tembok lembab dan mengelupas. Metode ini biasanya cukup ampuh jika terdapat kebocoran pada bagian tersebut dan sudah diatasi. Lapisi dengan cat dinding waterproof yang dapat memberikan perlindungan pada dinding tembok. Dengan begitu, dinding kembali jadi kering kembali</p> <p>4. Gunakan Dehumidifier</p> <p>Dehumidifier adalah alat yang berfungsi untuk mengurangi kelembapan di suatu ruangan. Selain itu, alat ini juga dapat mengurangi bau tak sedap pada ruangan. Dehumidifier bebentuk seprti AC portable. Alat ini dapat dinyalakan pada siang ataupun malam hari agar hawa dalam rumah menjadi tidak lembab.</p> <p>5. Buka Ventilasi atau Jendela Rumah</p> <p>Cara paling sederhana untuk mengurangi tembob yang lembab adalah sering – sering membuka ventilasi atau jendela rumah pada pagi atau siang hari. Dengan rajin membuka ventilasi atau jendela mendapatkan sirkulasi udara yang baik. </p> <p>6. Cat Ulang Tembok</p> <p>Mengecat ulang memang jadi solusi andalan untuk mengatasi tembok yang lembab. Jika jamur dihilangkan dengan lap kering tetap menempel, maka permukaan tembok harus dikelupas terlebih dahulu. Agar lebih bagus hasil pengecatan ulang, anda dapat mengaci tembok dengan acian putih terlebih dahulu. Setelah itu bisa langsung dilakukan pengectaan ulang.</p>

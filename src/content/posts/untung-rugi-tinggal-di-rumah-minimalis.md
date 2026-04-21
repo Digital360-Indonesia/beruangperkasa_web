@@ -1,10 +1,11 @@
 ---
-title: "Untung Rugi Tinggal di Rumah Minimalis"
-slug: "untung-rugi-tinggal-di-rumah-minimalis"
-date: "2021-10-25 06:49:30"
-excerpt: "Rumah minimalis adalah rumah yang didesain sangat sederhana (simple), dibuat sangat ringkas, mudah diatur, mudah perawatan dan lain-lain. Desain rumah-rumah minimalis terlihat rapi dan bersih, hal ini"
-wordpress_id: 3041
-image: "/uploads/2021/10/room-g17ca30993_1920.jpg"
+  category: "Inspirasi Rumah"
+  title: "Untung Rugi Tinggal di Rumah Minimalis"
+  slug: "untung-rugi-tinggal-di-rumah-minimalis"
+  date: "2021-10-25 06:49:30"
+  excerpt: "Rumah minimalis adalah rumah yang didesain sangat sederhana (simple), dibuat sangat ringkas, mudah diatur, mudah perawatan dan lain-lain. Desain rumah-rumah minimalis terlihat rapi dan bersih, hal ini"
+  wordpress_id: 3041
+  image: "/uploads/2021/10/room-g17ca30993_1920.jpg"
 ---
 
 <p>Rumah minimalis adalah rumah yang didesain sangat sederhana (<em>simple</em>), dibuat sangat ringkas, mudah diatur, mudah perawatan dan lain-lain.</p> <p>Desain rumah-rumah minimalis terlihat rapi dan bersih, hal ini akan membuat penghuni merasa tenang dan nyaman di dalamnya. Salah satu kunci utama untuk interior rumah minimalis adalah pencahayaan. Karena instalasi lampu yang benar bisa membuat perasaan pemilik rumah lebih santai.</p> <p>Hunian yang praktis dan sederhana kini semakin banyak diminati. Dibandingkan rumah yang mewah dan megah, sebagian besar masyarakat lebih memilih rumah dengan gaya minimalis ini. Rumah minimalis juga banyak digemari masyarakat yang tinggal di pusat kota. Ada banyak alasan mengapa para pengembang ataupun masyarakat menggunakan konsep minimalis.</p> <p>Keuntungan memiliki rumah minimalis:</p> <ul><li>cukup membutuhkan luas tanah yang tak begitu besar.</li><li>lebih hemat biaya, karena konsepnya yang sederhana namun tetap menarik.</li><li>tidak memerlukan perabotan mewah. Anda cukup mengisinya dengan ornamen-ornamen sederhana yang menarik dan elegan.</li><li>Mudah diatur.</li><li>Mudah membersihkan.</li><li>Biaya perawatannya yang murah.</li><li>Rumah minimalis lebih mudah dijual.</li></ul> <p>Beberapa Kekurangan Rumah Minimalis:</p> <p>Setelah mengetahui beberapa keuntungan dan kelebihannya, kini kita bahas apa saja yang menjadi kekurangan rumah minimalis.</p> <ul><li>Hanya bisa digunakan untuk keluarga kecil. Karena luas tanah yang tak begitu luas, rumah hunian ini cocok bagi yang masih single ataupun keluarga kecil.</li><li>Hanya dilengkapi dengan 1-3 kamar saja (bergantung ukuran dan berapa lantai).</li><li>Anda dituntut untuk mampu mengatur posisi furnitur dan barang-barang dengan baik. Sedikit berantakan maka rumah akan terasa sempit. Tips juga, jangan menyimpan barang yang jarang terpakai (yang pemakaiannya tidak tahu kapan), hal ini yang biasa terjadi dan sangat berpengaruh.</li><li>Karena lahan yang biasa dipakai adalah lahan sempit, maka gunakan desain rumah yang memiliki ruangan terbuka, selain untuk sirkulasi udara juga untuk menambah efek rumah terlihat besar.</li></ul> <p>Bagaimana? Tertarik untuk memiliki rumah minimalis? Pastikan Anda memilih produk Beruang Perkasa seperti semen, semen putih atau semen instan, bahan acian, plamir, hingga perekat beton. Beruang Perkasa memberikan jaminan kualitas terbaik dengan harga terjangkau. Tunggu apa lagi? Hubungi kami segera melalui email atau telepon yang tertera pada kontak.</p>

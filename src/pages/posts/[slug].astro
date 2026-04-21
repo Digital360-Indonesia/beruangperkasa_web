@@ -40,7 +40,7 @@ const getImage = (imagePath) => {
                 })
               )}
             </span>
-            <span class="article-category">Tips Bangunan</span>
+            <span class="article-category">{post.data.category || 'Tips Bangunan'}</span>
           </div>
           <h1 class="article-title">{post.data.title}</h1>
           <div class="article-share">
@@ -60,8 +60,8 @@ const getImage = (imagePath) => {
 
         <footer class="article-footer">
           <div class="article-tags">
+            <span class="tag">{post.data.category || 'Tips Bangunan'}</span>
             <span class="tag">Bahan Bangunan</span>
-            <span class="tag">Tips</span>
             <span class="tag">Rumah</span>
           </div>
           <div class="article-nav">

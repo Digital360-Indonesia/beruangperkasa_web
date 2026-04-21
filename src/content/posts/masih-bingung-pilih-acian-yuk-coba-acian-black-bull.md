@@ -1,10 +1,11 @@
 ---
-title: "Masih Bingung Pilih Acian? Yuk Coba Acian Black Bull"
-slug: "masih-bingung-pilih-acian-yuk-coba-acian-black-bull"
-date: "2024-07-15 13:56:38"
-excerpt: "Dalam dunia kontruksi tentu tidak asing dengan namanya acian. Acian merupakan proses pekerjaan dinding yang bertujuan untuk menutupi semua pori – pori dan juga memperhalus hasil plesteran. Dapat dikat"
-wordpress_id: 4051
-image: "/uploads/2023/07/5.-istockphoto-1374574928-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Masih Bingung Pilih Acian? Yuk Coba Acian Black Bull"
+  slug: "masih-bingung-pilih-acian-yuk-coba-acian-black-bull"
+  date: "2024-07-15 13:56:38"
+  excerpt: "Dalam dunia kontruksi tentu tidak asing dengan namanya acian. Acian merupakan proses pekerjaan dinding yang bertujuan untuk menutupi semua pori – pori dan juga memperhalus hasil plesteran. Dapat dikat"
+  wordpress_id: 4051
+  image: "/uploads/2023/07/5.-istockphoto-1374574928-612x612-1.jpg"
 ---
 
 <p>Dalam dunia kontruksi tentu tidak asing dengan namanya acian. Acian merupakan proses pekerjaan dinding yang bertujuan untuk menutupi semua pori – pori dan juga memperhalus hasil plesteran. Dapat dikatakan bahwa proses acian ini dilakukan setelah hasil plesteran kering sempurna. Material yang digunakan pun berbeda dengan proses plesteran karena dalam proses acian ini tidak menggunakan pasir hanya menggunakan campuran semen dan air saja.&nbsp;</p> <p>Di pasaran memang terdapat banyak produk acian, bagi kita yang masih awam dengan kontruksi pasti asal memilih. Salah satu produk acia yang familiar dan berkualitas tentunya acian black bull.</p> <p>Acian black bull adalah produk <em>finishing</em> yang berkualitas dengan pengaplikasian yang mudah, hanya menambah air saja bisa langsung pakai. Acian ini memiliki formula dan bahan <em>additive</em> khusus menghasilkan acian yang dapat diaplikasikan dengan ketebalan lebih tipis (1 – 2 mm) dan tanpa terjadi retak rambut, hasil akhir yang putih, lembut dan halus.</p> <p>Pengaplikasian:<br>Sebelum aplikasi sebaiknya permukaan plesteran di basahi dengan air terlebih dahulu dengan tujuan agar saat aplikasi adonan acian tidak cepat kering, dan setelah proses acian bisa langsung di cat tanpa perlu di plamir. Dan ACIAN BLACK BULL®️ sangat cocok untuk Interior dan Exterior.</p> <p>Keuntungan&nbsp;:<br>Keuntungan yang diperoleh dalam pemakaian ACIAN BLACK BULL®️ di dalam suatu proyek yaitu produk ini sangat cocok untuk aplikasi pada plester tradisional, plester mortar, bahkan dapat digunakan sebagai finishing pada beton.</p> <p>Cara Pemakaian :</p> <ol><li>Perbandingan campuran (Acian 2 : Air 1)</li><li>Dianjurkan basahi terlebih dahulu dinding plester dengan air, kemudian aplikasikan ACIAN BLACK BULL®️ dengan menggunakan roskam besi atau kapi plastik</li><li>Setelah acian setengah kering, gosok dengan kertas zak semen atau karet busa.</li><li>Setelah acian kering (24 jam) bisa langsungdi cat tanpa perlu di lapisi plamir.</li></ol>

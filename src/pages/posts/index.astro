@@ -34,7 +34,7 @@ const getImage = (imagePath) => {
               <div class="featured-overlay"></div>
             </div>
             <div class="featured-content">
-              <span class="badge">Artikel Terbaru</span>
+              <span class="badge">{featuredPost.data.category || 'Artikel Terbaru'}</span>
               <h2 class="featured-title">{featuredPost.data.title}</h2>
               {featuredPost.data.date && (
                 <p class="featured-date">
@@ -64,6 +64,7 @@ const getImage = (imagePath) => {
               <img src={getImage(post.data.image)} alt={post.data.title} />
             </div>
             <div class="post-content">
+              <span class="post-category">{post.data.category || 'Tips & Trick'}</span>
               <h3 class="post-title">{post.data.title}</h3>
               {post.data.date && (
                 <p class="post-date">
@@ -238,6 +239,20 @@ const getImage = (imagePath) => {
     flex: 1;
     display: flex;
     flex-direction: column;
+  }
+
+  .post-category {
+    display: inline-block;
+    background: var(--primary);
+    color: var(--white);
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.5rem;
+    width: fit-content;
   }
 
   .post-title {

@@ -1,10 +1,11 @@
 ---
-title: "Simak Cara Acian Dinding yang Benar"
-slug: "simak-cara-acian-dinding-yang-benar"
-date: "2022-09-01 06:07:03"
-excerpt: "Meski terkesan mudah dan sederhana, hasil pengacian pada dinding (acian dinding)&nbsp;tidak akan&nbsp;bagus jika dibuat dengan sembarangan. Untuk mendapatkan hasil yang memuaskan, Anda harus memperhat"
-wordpress_id: 3358
-image: "/uploads/2022/09/20220831_225634-scaled.jpg"
+  category: "Bahan Bangunan"
+  title: "Simak Cara Acian Dinding yang Benar"
+  slug: "simak-cara-acian-dinding-yang-benar"
+  date: "2022-09-01 06:07:03"
+  excerpt: "Meski terkesan mudah dan sederhana, hasil pengacian pada dinding (acian dinding)&nbsp;tidak akan&nbsp;bagus jika dibuat dengan sembarangan. Untuk mendapatkan hasil yang memuaskan, Anda harus memperhat"
+  wordpress_id: 3358
+  image: "/uploads/2022/09/20220831_225634-scaled.jpg"
 ---
 
 <p>Meski terkesan mudah dan sederhana, hasil pengacian pada dinding (acian dinding)&nbsp;tidak akan&nbsp;bagus jika dibuat dengan sembarangan. Untuk mendapatkan hasil yang memuaskan, Anda harus memperhatikan&nbsp;proses-nya&nbsp;langkah demi langkah dengan cermat.</p> <p><strong>Teknik Acian Dinding yang Benar</strong></p> <p>Poin pertama acian dinding yang harus Anda perhatikan adalah&nbsp;plesteran&nbsp;pada dinding rumah yang akan&nbsp;di&nbsp;aci. Aplikasi acian sangat tergantung dari kualitas&nbsp;plesteran. Kualitas&nbsp;plesteran&nbsp;yang baik akan menghasilkan acian dinding tembok rumah yang baik pula.</p> <p>Plesteran&nbsp;harus rata dan halus sehingga akan menghemat bahan acian dinding. Jika pasir yang digunakan untuk&nbsp;plesteran&nbsp;mengandung lumpur terlalu tinggi, maka akan terjadi penyusutan sehingga&nbsp;plesteran&nbsp;akan retak yang berakibat retak dinding tembok rumah.</p> <p>Untuk itu sebelum dilakukan acian,&nbsp;plesteran&nbsp;harus kering dan tidak terjadi lagi penyusutan. Seharusnya acian dinding dilakukan pada&nbsp;plesteran&nbsp;berumur 2-3 minggu untuk dinding dalam sedangkan untuk dinding luar bisa lebih cepat (2 minggu). Apabila acian terlalu cepat dilakukan maka dapat menimbulkan retak pada acian.</p> <p>Jika dinding bata sangat basah pada saat dilakukan&nbsp;plesteran, maka air akan terperangkap sehingga diperlukan waktu lama untuk mengeluarkan air tersebut. Sebaliknya permukaan&nbsp;plesteran&nbsp;yang kering juga berpengaruh buruk terhadap hasil acian.</p> <p>Sebelum melakukan acian, basahi dulu permukaan&nbsp;plesterandengan air. Hal tersebut penting untuk menghindari agar acian atau&nbsp;white&nbsp;mortar tidak terlalu cepat kering. Semen pada&nbsp;white&nbsp;mortar sangat membutuhkan air untuk proses hidrasi. Jika acian terlalu cepat kering maka hasil acian akan lunak dan permukaan acian akan berdebu.</p> <p>Apabila waktu yang dibutuhkan dari selesai&nbsp;penghamparanacian sampai acian dapat dipoles sekitar 20-30 menit, maka kelembapan&nbsp;plesteran&nbsp;cukup. Tetapi apabila kurang dari 20 menit berarti&nbsp;plesteran&nbsp;terlalu kering, dan apabila lebih dari 30 menit berarti&nbsp;plesteran&nbsp;terlalu&nbsp;lembab.</p> <p>Tebal acian juga mempengaruhi&nbsp;kulitas&nbsp;hasilnya. Tebal acian seharusnya adalah 1-3 mm. Jika kurang dari 1 mm akan mengering terlalu cepat. Apabila lapisan pertama kurang dari 1 mm maka sebelum lapis pertama tersebut kering harus dilakukan lapis berikutnya sampai minimal 1 mm.</p>

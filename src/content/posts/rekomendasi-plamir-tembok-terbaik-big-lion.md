@@ -1,10 +1,11 @@
 ---
-title: "Rekomendasi Plamir Tembok Terbaik Big Lion"
-slug: "rekomendasi-plamir-tembok-terbaik-big-lion"
-date: "2024-06-06 18:11:05"
-excerpt: "Plamir merupakan proses pelapisan tembok dengan cairan berwarna putih yang terbuat dari campuran lem, air, dan kalsium. Fungsi plamir sangatlah banyak diantara lain, menutup pori – pori dan warna asli"
-wordpress_id: 4012
-image: "/uploads/2020/12/Untitled-10-e1607731426306.jpg"
+  category: "Bahan Bangunan"
+  title: "Rekomendasi Plamir Tembok Terbaik Big Lion"
+  slug: "rekomendasi-plamir-tembok-terbaik-big-lion"
+  date: "2024-06-06 18:11:05"
+  excerpt: "Plamir merupakan proses pelapisan tembok dengan cairan berwarna putih yang terbuat dari campuran lem, air, dan kalsium. Fungsi plamir sangatlah banyak diantara lain, menutup pori – pori dan warna asli"
+  wordpress_id: 4012
+  image: "/uploads/2020/12/Untitled-10-e1607731426306.jpg"
 ---
 
 <p>Plamir merupakan proses pelapisan tembok dengan cairan berwarna putih yang terbuat dari campuran lem, air, dan kalsium. Fungsi plamir sangatlah banyak diantara lain, menutup pori – pori dan warna asli tembok agar warna tembok lebih rata. Nah, Berdasarkan jenisnya, secara umum plamir dapat dibedakan menjadi 2 yakni plamir instan dan plamir konvensional.</p> <p>Jika menggunakan plamir konvensional maka dibutuhkan campuran lem, air dan kalsium yang sesuai takaran.Namun berbeda dengan plamir instan, cukup dengan menambah air saja, maka plamir dapat langsung diaplikasikan.</p> <p>Akan tetapi pemilihan plamir sebaiknya jangan sembarangan, harus sesuai dengan kebutuhan pengunaannya. Untuk tembok eksterior, sebaiknay menggunakan material semen putih untuk material plamir. Karena semen putih memiliki daya tahan lebih baik terhadap air dan sinar matahari..&nbsp;</p> <p>Sedangkan untuk tembok interior dapat menggunakan plamir instan. Plamir instan ini cocok digunakan untuk tembok interior Karena praktis digunakan. Plamir instan yang banyak direkomendasikan salah satunya plamir instan Big Lion. Produk plamir instan dari Bog Lion ini selain praktis, juga ekonomis, dan berkualitas. Penggunaanya pun cukup mudah tinggal menambahkan air saja, di aduk sebentar dan plamir tembok siap dipakai dengan mutu yang terjamis kuwalitasnya.</p> <p>Plamir instan Big Lion ada 3 type:</p> <p>BIG LION®️ Plamir 5 Kg “Standart” dan 40 Kg “Special”<br>BIG LION®️ Plamir 1 Kg “Special” dan 5 Kg “Special”<br>BIG LION®️ Plamir 5 Kg “Extra Strong”</p> <p>Ketiganya memiliki keunngulan dan keistimewaan.</p> <p>Keunggulan :<br>1.&nbsp;Daya Sebar ± 6-7 m² / KG BIg Lion Plamir<br>2. Kering sentuh ± 30 menit dalam 1 lapisan<br>3. Kering sempurna ± 2 Jam dalam 1 lapisan</p> <p>Keistimewaan:<br>1. Mengandung lem PVAC<br>2. Praktis tinggal tambah air<br>3. Tidak gampang retak<br>4. Melekat lebih kuat<br>5. Daya gosok lebih tinggi, lebih kuat, lebih halus &amp; lebih tahan cuaca</p> <p>Untuk pemesanan plamir Big Lion hubungi di telpon 031-8704593 / 031-8721992 / 031-8796430 atau kunjungi secara lansung di &nbsp;Jl. Rungkut Mapan Tengah IX Blok Ci No.30&nbsp;Surabaya</p>

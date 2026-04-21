@@ -1,10 +1,11 @@
 ---
-title: "Lakukan Ini Agar Lantai Keramik Bersih dan Mengkilap"
-slug: "lakukan-ini-agar-lantai-keramik-bersih-dan-mengkilap"
-date: "2022-07-05 08:37:51"
-excerpt: "Lantai keramik merupakan material ang memiliki tampilan bersih dan mengkilap dan memiliki berbagai macam ukuran dan model untuk menutupi lantai rumah. Namun agar lantai keramik terlihat selalu bersih"
-wordpress_id: 3298
-image: "/uploads/2022/07/simpolo-gd83ac7dc3_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Lakukan Ini Agar Lantai Keramik Bersih dan Mengkilap"
+  slug: "lakukan-ini-agar-lantai-keramik-bersih-dan-mengkilap"
+  date: "2022-07-05 08:37:51"
+  excerpt: "Lantai keramik merupakan material ang memiliki tampilan bersih dan mengkilap dan memiliki berbagai macam ukuran dan model untuk menutupi lantai rumah. Namun agar lantai keramik terlihat selalu bersih"
+  wordpress_id: 3298
+  image: "/uploads/2022/07/simpolo-gd83ac7dc3_1280.jpg"
 ---
 
 <p>Lantai keramik merupakan material ang memiliki tampilan bersih dan mengkilap dan memiliki berbagai macam ukuran dan model untuk menutupi lantai rumah. Namun agar lantai keramik terlihat selalu bersih dan mengkilap, Anda harus rajin merawat dan membersihkannya. Jika lantai keramik rumah bersih dan mengkilap, maka Anda semakin betah di rumah. Berikut ini beberapa tips yang dapat Anda lakukan untuk merawat keramik rumah Anda.</p> <ol><li>Membersihan Debu dan Butiran Halus<br>Usahakan untuk menyapu keramik rumah setiap pagi dan sore hari. Ini bertujuan untuk mengangkat debu dan kotoran yang menempel pada keramik. Debu yang menumpuk pada keramik akan membuat tampilan keramik Anda kusam, oleh sebab itu jangan lewatkan untuk menyapu lantai keramik agar tetap bersih dan kinclong.</li><li>Gunakan Cair Pembersih<br>Agar lantai keramik tetap mengkilap, gunakan cairan pembersih lantai untuk mengangkat noda-noda membandel dan membersihkan lantai keramik. Untuk mendapatkan hasil yang lebih efektif, sebaiknya gunakan pel yang terbuat dari bahan serat-serat microfiber yang memiliki daya serap tinggi agar mengepel terasa ringan.</li><li>Jangan Menggunakan Pembersih Lantai yang Mengandung Asam<br>Saat memilih cairan pembersih, sebaiknya pilihlah cairan pembersih yang sesuai dengan kebutuhan lantai keramik. Beberapa pembersih mengandung asam sulfat atau asam klorida yang baik untuk mengangkat kotoran, akan tetapi sifatnya sangat korosif. Kandungan asam pada cairan tersebut dapat membuat tampilan keramik lama-lama kehilangan kilapnya. Oleh sebab itu, sebaiknya gunakan cairan pembersih yang aman untuk keramik agar keramik tetap awet.</li></ol> <p>Menjaga lantai keramik tetap bersih dan mengkilap tidaklah sulit dilakukan jika mengikuti tiga tips di atas. Lakukan dan coba perlahan agak Anda mengetahui proses dan hasilnya.<br>Untuk urusan bahan material bangunan, Anda tidak perlu pusing karena Beruang Perkasa menyediakan berbagai bahan material bangunan mulai dari semen, semen instan, plamir, hingga pengeras beton. Dapatkan penawarannya sekarang juga!</p>

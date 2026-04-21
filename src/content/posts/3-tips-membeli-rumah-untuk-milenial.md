@@ -1,10 +1,11 @@
 ---
-title: "3 Tips Membeli Rumah Untuk Milenial"
-slug: "3-tips-membeli-rumah-untuk-milenial"
-date: "2022-09-29 09:30:06"
-excerpt: "Bagi generasi milenia, memiliki rumah adalah salah satu impian yang harus diwujudkan secepat mungkin saat usia muda. Rumah dilambangkan sebagai bentuk pencapaian atau kesuksesan dari kerja keras pada"
-wordpress_id: 3374
-image: "/uploads/2022/09/real-estate-gcffee1dd2_1280.jpg"
+  category: "Properti"
+  title: "3 Tips Membeli Rumah Untuk Milenial"
+  slug: "3-tips-membeli-rumah-untuk-milenial"
+  date: "2022-09-29 09:30:06"
+  excerpt: "Bagi generasi milenia, memiliki rumah adalah salah satu impian yang harus diwujudkan secepat mungkin saat usia muda. Rumah dilambangkan sebagai bentuk pencapaian atau kesuksesan dari kerja keras pada"
+  wordpress_id: 3374
+  image: "/uploads/2022/09/real-estate-gcffee1dd2_1280.jpg"
 ---
 
 <p>Bagi generasi milenia, memiliki rumah adalah salah satu impian yang harus diwujudkan secepat mungkin saat usia muda. Rumah dilambangkan sebagai bentuk pencapaian atau kesuksesan dari kerja keras pada milenial. Ditambah pula rumah juga merupakan kebutuhan primer sebagai tempat tinggal. Namun, untuk dapat membeli rumah di usia muda ternyata tidak semudah yang dikira. Harga rumah yang cenderung tinggi dan terus naik dari tahun ke tahun, serta banyaknya persyaratan untuk kredit, menjadi salah satu faktor yang membuat milenial sulit memiliki rumah.</p> <p>Berikut beberapa tips untuk para milenial agar dapat membeli rumah di usia muda.</p> <ul type="1"><li>Menyiapkan Tabungan</li></ul> <p>Untuk setidaknya membayar DP atau Down Payment rumah, Anda harus memiliki tabungan yang cukup. Saat ini tersedia banyak sekali platform menabung baik secara online atau lewat bank tertentu. Pastikan Anda menabung sesuai dengan kemampuan, sehingga dalam kurun waktu yang ditargetkan, uang Anda akan terkumpul untuk membayar DP rumah.&nbsp;</p> <ul><li>Pilih KPR dengan Angsuran Jangka Panjang</li></ul> <p>Semakin panjang jangka waktu cicilan rumah Anda, maka semakin ringan Anda membayar cicilan setiap bulannya. Jika Anda adalah kaum milenial, maka semakin panjang waktu KPR yang dapat Anda pilih, yaitu 20-25 tahun. Ini adalah salah satu alasan mengapa para kaum milenial lebih mudah mendapatkan izin untuk pengajuan KPR rumah.</p> <ul><li>Membeli Rumah dan Menyewakannya</li></ul> <p>Untuk cara ketiga Anda dapat Anda terapkan saat Anda telah memiliki DP untuk membeli rumah dan KPR telah disetujui. Langkah ini akan sangat menguntungkan Anda, karena hasil pembayaran dari sewa rumah tersebut dapat Anda gunakan untuk cicilan KPR tiap bulannya.&nbsp;</p> <p>Tiga tips di atas adalah cara paling sederhana yang bisa Anda lakukan dan siapkan untuk membeli rumah di usia muda. Membeli rumah yang sudah jadi atau pun belum, pastikan Anda hati-hati sebelum melakukan pembayaran. Pastikan untuk mengetahui developer Anda secara rinci dan juga teknis KPR dengan benar.&nbsp;</p> <p>Untuk membangun rumah, pastikan Anda memilih produk dari Beruang Perkasa untuk hasil yang berkualitas.&nbsp;</p>

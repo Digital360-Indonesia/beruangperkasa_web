@@ -1,10 +1,11 @@
 ---
-title: "Jenis-Jenis Semen Mortar"
-slug: "jenis-jenis-semen-mortar"
-date: "2022-09-28 07:52:33"
-excerpt: "Secara umum, ada beberapa jenis dan klasifikasi semen, hal ini disesuaikan dengan fungsionalitas dan kegunaan aplikasi. Sebagian besar semen berukuran sedang diproduksi khusus untuk pekerjaan finishin"
-wordpress_id: 3367
-image: "/uploads/2021/08/3.png"
+  category: "Bahan Bangunan"
+  title: "Jenis-Jenis Semen Mortar"
+  slug: "jenis-jenis-semen-mortar"
+  date: "2022-09-28 07:52:33"
+  excerpt: "Secara umum, ada beberapa jenis dan klasifikasi semen, hal ini disesuaikan dengan fungsionalitas dan kegunaan aplikasi. Sebagian besar semen berukuran sedang diproduksi khusus untuk pekerjaan finishin"
+  wordpress_id: 3367
+  image: "/uploads/2021/08/3.png"
 ---
 
 <p>Secara umum, ada beberapa jenis dan klasifikasi semen, hal ini disesuaikan dengan fungsionalitas dan kegunaan aplikasi. Sebagian besar semen berukuran sedang diproduksi khusus untuk pekerjaan finishing bangunan.</p> <p>Semen umumnya digunakan di rumah-rumah, beragam keuntungan yang didapat semuanya tergantung kualitas semen serta dalam hal konstruksi. Jika ingin mengetahui kelebihannya, silahkan ketahui beberapa jenis semen instan sesuai fungsinya. Di bawah ini adalah beberapa jenis semen instan atau mortar yang sering dipakai dalam pembangunan.</p> <ul type="1"><li>Thinbed Mortar</li></ul> <p>Jenis pertama memiliki bubur tipis. Jenis ini adalah mortar pengikat bata ringan. Sering disebut lem semen karena sangat tipis dan ekonomis untuk digunakan. Umumnya dispersi yang dihasilkan sekitar 10m sampai 14m.</p> <ul><li>Mortar Campuran Instan</li></ul> <p>Mortar semen ini merupakan semen instan&nbsp;&nbsp;yang diformulasikan secara khusus. Hal ini untuk membuat dinding lebih halus. Hasil yang Anda lihat cukup berbeda dari semen biasa. Mortar jenis ini bersifat anti retak dan memiliki warna yang cerah, serta lebih hemat biaya.</p> <ul><li>Plesteran Dinding</li></ul> <p>Mortar gipsum adalah semen instan siap pakai, umumnya berlaku untuk bata terang, bata merah dan bahkan dinding bata. Penggunaan semen ini sangat mudah dan praktis, karena tidak perlu dicampur bahan lain.</p> <ul><li>Mortar Perekat Keramik</li></ul> <p>Tentunya banyak pemilik bangunan yang ingin menggunakan keramik untuk pelapis lantai. Tidak jarang kita melihat banyak fenomena bermunculan di mana keramik terpasang terkelupas atau melayang. Hal ini terutama disebabkan oleh pengaruh cuaca dan komposisi material.</p> <p>Tentunya dengan menggunakan mortar keramik gypsum ini akan memberikan hasil yang memuaskan. Dalam aplikasi itu, sering digunakan untuk merekatkan keramik ke lantai dan dinding. Semen instan ini dirancang untuk merekatkan keramik dengan sangat kuat.</p> <ul><li>Mortar Protection</li></ul> <p>Jenis yang terakhir memiliki mortar pelindung, semen jenis ini tahan air, tahan korosi, atau tahan cuaca, bahkan semen ini dapat meningkatkan kekuatan dan daya tahan. Memberikan kenyamanan bagi penghuni gedung.</p> <p>Itilah beberapa jenis semen instan yang sering digunakan dalal pembangunan, tidak hanya mudah digunakan semen instan juga memiliki fungsionalitas yang sudah teruji. Pastikan Anda membeli bahan dan semen berkualitas seperti Beruang Perkasa.&nbsp;</p>

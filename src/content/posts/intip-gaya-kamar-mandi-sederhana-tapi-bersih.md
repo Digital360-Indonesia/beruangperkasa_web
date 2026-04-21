@@ -1,10 +1,11 @@
 ---
-title: "Intip Gaya Kamar Mandi Sederhana tapi Bersih"
-slug: "intip-gaya-kamar-mandi-sederhana-tapi-bersih"
-date: "2024-02-20 08:32:56"
-excerpt: "Inspirasi desain interior sangatlah beragam, salah satunya adalah desain kamar mandi. Untuk Anda yang lebih mengutamakan fungsi daripada desain, mungkin kamar manda minimalis lah solusinya. Kamar mand"
-wordpress_id: 3929
-image: "/uploads/2022/11/wc-gef1d803a7_1280.jpg"
+  category: "Tips & Trick"
+  title: "Intip Gaya Kamar Mandi Sederhana tapi Bersih"
+  slug: "intip-gaya-kamar-mandi-sederhana-tapi-bersih"
+  date: "2024-02-20 08:32:56"
+  excerpt: "Inspirasi desain interior sangatlah beragam, salah satunya adalah desain kamar mandi. Untuk Anda yang lebih mengutamakan fungsi daripada desain, mungkin kamar manda minimalis lah solusinya. Kamar mand"
+  wordpress_id: 3929
+  image: "/uploads/2022/11/wc-gef1d803a7_1280.jpg"
 ---
 
 <p>Inspirasi desain interior sangatlah beragam, salah satunya adalah desain kamar mandi. Untuk Anda yang lebih mengutamakan fungsi daripada desain, mungkin kamar manda minimalis lah solusinya. Kamar mandi yang sederhana namun tetap bersih akan membuat suasana rumah lebih nyaman. Dengan desain kamar mandi sederhana, maka perawatannya lebih mudah sehinnga kebersihan tetap terjaga. Berikut beberapa desain gaya kamar mandi sederhana yang dapat dicoba.</p> <ol><li>Gaya <em>Warm Beige</em><ul><li>Warna <em>beige </em>menjadi warna kekinian yang banyak digunkan. Dengan warna ini akann memberika kesan yang hangat, sehingga ketika memasuki ruang kamar mandi terasa nyaman dan betah.</li></ul></li><li>Serba Putih<ul><li>Gaya selanjutnya yang dapat diterapkan adalah kamar mandi yang serba putih. Warna putih memberikan kesan sederhana dan bersih. Variasikan warna putih di kamar mandi, seperti putih gading untuk keramik hingga putih susu untuk cat dinding. Anda juga bias menambahkan tanaman hias agar tidak terlalu monoton.</li></ul></li><li>Gaya Natural<ul><li>Gaya ini cocok bagi Anda yang menyukai konsep alam. Dengan menambahkan kayu alami dapat menciptakan suasana kamar mandi sederhana tapi bersih. Pilih lemari atau rak dari kayu, serta gunakan ornamen dan aksesoris kayu agar semakin memperkuat konsep alami yang segar dan sejuk seperti di hutan.</li></ul></li><li>Gaya Industrial<ul><li>Gaya dengan konsep industrial seringkali dipilih untuk konsep minimalis. Selain hasilnya yang sederhana, biayanya juga terjangkau. Dengan ditambah pencahayaan yang tepat, konsep kamar mandi industrial ini bisa Anda pilih jika ingin kesan sederhana yang bersih. Warna abu-abu yang mendominasi memberikan suasana tenang, dengan trik menambahkan warna-warna seperti putih, hijau, dan coklat untuk variasi.</li></ul></li><li>Gaya Tropis<ul><li>Pilihan terakhir adalah kamar mandi berkonsep tropis. Konsep ini biasanya digunakan pada hotel atau villa. Anda dapat menggunakan dinding keramik jenis marble berwarna putih dan dapat menambahkan tanaman tropis kecil di pot.</li></ul></li></ol>

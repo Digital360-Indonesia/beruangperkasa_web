@@ -1,10 +1,11 @@
 ---
-title: "Ide Kreatif Menghias Dinding Rumah"
-slug: "ide-kreatif-menghias-dinding-rumah"
-date: "2022-06-27 07:23:32"
-excerpt: "Memilik rumah baru adalah sesuatu hal yang paling dinantikanoleh para pasangan suami istri. Tentu dengan perasaan excitedsetelah membeli rumah baru para pasangan akanmempersiapkan rumah tersebut denga"
-wordpress_id: 3282
-image: "/uploads/2022/06/restaurant-gbbb07a33b_1280.jpg"
+  category: "Inspirasi Rumah"
+  title: "Ide Kreatif Menghias Dinding Rumah"
+  slug: "ide-kreatif-menghias-dinding-rumah"
+  date: "2022-06-27 07:23:32"
+  excerpt: "Memilik rumah baru adalah sesuatu hal yang paling dinantikanoleh para pasangan suami istri. Tentu dengan perasaan excitedsetelah membeli rumah baru para pasangan akanmempersiapkan rumah tersebut denga"
+  wordpress_id: 3282
+  image: "/uploads/2022/06/restaurant-gbbb07a33b_1280.jpg"
 ---
 
 <p>Memilik rumah baru adalah sesuatu hal yang paling dinantikanoleh para pasangan suami istri. Tentu dengan perasaan <em>excited</em>setelah membeli rumah baru para pasangan akanmempersiapkan rumah tersebut dengan sangat baik. Denganmengisi furnitur dan perlengkapan-perlengkapan yang diperlukan sehari-hari. Setelah mengisi semua bagian danmenata akan muncul beberapa <em>space</em> kosong salah satunyaadalah dinding yang terlihat kosong, hal ini sangat biasa terjadimengingat ini adalah rumah baru. Lalu bagaimana cara mengisiruang kosong tersebut?</p> <p>1. Memasang foto</p> <p>Memasang foto adalah cara menutup dinding yang kosong yang sudah banyak dilakukan dari dulu hingga sekarang. Hal inikarena foto cukup efektif menutup ruang kosong, karena setiaporang yang melihat mereka akan fokus perhatian ke fototersebut.</p> <p>2. Memasang cermin</p> <p>Memasang cermin juga salah satu cara untuk menutup dinding, hal ini karena cermin dapat memantulkan bayangan sehinggasetiap orang yang memasuki ruangan tidak akan merasa sepi. Selain untuk menutupi ruang kosong, cermin digunakan untuk memberi kesan yang luas pada ruangan yang cenderung sempit.</p> <p>3. Mengecat motif dinding</p> <p>Memberi corak pada dinding akan memberi kesan dindingmenjadi penuh, tentunya dengan cara mengecat dinding denganmotif-motif tertentu. Motif untuk mengecat dinding sangatberagam menyesuaikan keinginan dan kesukaan. </p> <p>4. Memberi hiasan dinding</p> <p>Membuat dinding agar tidak sepi juga bisa menghiasnya. Mulaidengan memberi gantungan-gantungan hiasan dinding, memberikain, dan juga bisa dengan menggantung vas bunga/tanaman. Hiasan dinding sifatnya relative bergantung apa yang disenangipemilik rumah, selain itu hiasan akan mencerminkan karakter sipemilik rumah tersebut. Ada banyak opsi yang bisa dipakaiuntuk menghias dinding selain yang disebutkan.</p> <p>Empat tips di atas dapat Anda coba praktekkan pada dinding rumah Anda agar terlihat estetik dan indah. Untuk urusan membangunan rumah, percayakan selama pada Beruang Perkasa. Beruang Perkasa menyediaka semen, semen instan atau plamir, serta pengeras beton berkualitas. Tunggu apa lagi? Dapatkan produk Beruang Perkasa sekarang juga!</p> <p></p>

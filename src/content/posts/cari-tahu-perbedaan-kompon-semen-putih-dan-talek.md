@@ -1,10 +1,11 @@
 ---
-title: "Cari Tahu Perbedaan Kompon, Semen Putih, dan Talek"
-slug: "cari-tahu-perbedaan-kompon-semen-putih-dan-talek"
-date: "2023-05-16 03:12:15"
-excerpt: "Kompon, semen putih, dan taek merupakan bahan material untuk finishing rumah. Ketiga bahan tersebut memang sama – sama bewarna putih. Jika beum familiar tentu belum bisa membedakan ketiga bahan terseb"
-wordpress_id: 3642
-image: "/uploads/2023/05/istockphoto-1435518101-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Cari Tahu Perbedaan Kompon, Semen Putih, dan Talek"
+  slug: "cari-tahu-perbedaan-kompon-semen-putih-dan-talek"
+  date: "2023-05-16 03:12:15"
+  excerpt: "Kompon, semen putih, dan taek merupakan bahan material untuk finishing rumah. Ketiga bahan tersebut memang sama – sama bewarna putih. Jika beum familiar tentu belum bisa membedakan ketiga bahan terseb"
+  wordpress_id: 3642
+  image: "/uploads/2023/05/istockphoto-1435518101-612x612-1.jpg"
 ---
 
 <p>Kompon, semen putih, dan taek merupakan bahan material untuk <em>finishing </em>rumah. Ketiga bahan tersebut memang sama – sama bewarna putih. Jika beum familiar tentu belum bisa membedakan ketiga bahan tersebut, untuk itu simak penjelasan berikut.</p> <p>Kompon merupakan material yang berfungsi untuk menutup celah, pori-pori, atau lubang yang kecil pada permukaan dinsing atau plafon sebelum dilakukan cat dasar. Dengan dilapisi kompon, permukaan dinding ataupun plafon bisa rata dan tidak bergelombang. Biasanya penggunaan kompon digunakan untuk <em>finishing</em> dinding atau plafon berbahan gypsum.&nbsp;</p> <p>Semen putih kebanyakan digunakan untuk eksterior rumah walaupun juga bisa digunakan untuk interor rumah. Untuk sebagian orang, semen putih juga digunakan untuk menutup nat keramik, menutup celah dinding bata yang kecil sebagai bentuk antisipasi lubang bertambah besar yang dapat menyebabkan keretakan bahkan kerusakan.</p> <p>Sementara talek di gunakan untuk epoxy sama kegunaannya seperti kompon, namun talek ini di gunakan untuk epoxy lantai / cat lantai yang biasa di gunakan oleh perusahaan – perusahaan, sebagai dempul epoxy lantai bisa juga di gunakan untuk dempul cat dinding maupun plafon dengan cat <em>finishing</em> minyak.</p> <p>Cara Membedakan :</p> <ol type="1"><li>Dari Kemasan</li></ol> <p>Dari segi kemasan, kompon pada umumnya dikemas dengan berat 20 kg dan bertuliskan bahasa Inggris dan Indonesia. Kemasan semen putih juda sama dengan kompon, dikemasannya terdapat bahasa Inggris dan Indonesia akan tetapi dikemas dengan berat 40 kg. Sedangkan kemasan talek berbahasa China dengan berat 25 kg.</p> <p>2. Penggunaan Air</p> <p>jika kompon di tuang air, maka warna nya tidak akan berubah dan tetap akan putih dan halus. Jika semen putih di tuang air dari warna akan terlihat ke kuning – kuningan, dan hasilnya akan kasar jika di pegang setelah kering. seSedangkan talek bahannya lebih kasar dan warnanya tidak seputih kompon dan semen putih.</p> <p>3. Waktu Pengeringan</p> <p>Dari ketiga material diatas, talek memang lebih lama keringnya dan yang paling cepat kering adalah kompon. Sedangkan semen putih waktu pengeringannya diantara kompon dan talek.</p>

@@ -1,10 +1,11 @@
 ---
-title: "Persepsi Plamir Tembok Yang Salah"
-slug: "persepsi-plamir-tembok-yang-salah"
-date: "2021-11-01 03:53:08"
-excerpt: "Masyarakat umum biasanya beranggapan bahwa plamir digunakan sebelum proses pengecatan untuk menghemat cat, katanya. Dan ada beberapa anggapan lagi yang berbeda namun sama salahnya. Berikut yang bisa m"
-wordpress_id: 3060
-image: "/uploads/2021/11/door-gdca802e66_1920.jpg"
+  category: "Bahan Bangunan"
+  title: "Persepsi Plamir Tembok Yang Salah"
+  slug: "persepsi-plamir-tembok-yang-salah"
+  date: "2021-11-01 03:53:08"
+  excerpt: "Masyarakat umum biasanya beranggapan bahwa plamir digunakan sebelum proses pengecatan untuk menghemat cat, katanya. Dan ada beberapa anggapan lagi yang berbeda namun sama salahnya. Berikut yang bisa m"
+  wordpress_id: 3060
+  image: "/uploads/2021/11/door-gdca802e66_1920.jpg"
 ---
 
 <p>Masyarakat umum biasanya beranggapan bahwa plamir digunakan sebelum proses pengecatan untuk menghemat cat, katanya. Dan ada beberapa anggapan lagi yang berbeda namun sama salahnya.</p> <p>Berikut yang bisa mimin ringkas beberapa anggapan yang salah tentang plamir:</p> <ul><li>Plamir sebagai cat dasar.</li></ul> <p>Beda dengan plamir, cat dasar digunakan untuk melapis acian atau plesteran yang mengandung garam alkali sehingga <em>output</em>nya jika dilapis cat maka cat tidak rusak. Dan ini tidak ada dalam fungsi plamir. Dan mungkin pernah Anda jumpai tembok yang rontok karena menggunakan plamir sebagai cat dasar padahal anda sudah mengunakan cat yang bagus. Hal ini karena plamir memiliki daya rekat yang kurang, ditambah pengaplikasian plamir yang terlalu tebal.</p> <ul><li>Plamir membantu menghemat cat.</li></ul> <p>Warna plamir yang putih sering dianggap bisa digunakan sebagai cat dasar sehingga akan menghemat cat. Bila anda beranggapan seperti itu justru mimin sarankan pakai acian atau plester warna putih, jadi tidak perlu diplamir langsung dicat, justru akan lebih menghemat. Disclaimer: saran tersebut tidak untuk dilakukan (sarkasme).</p> <ul><li>Plamir sebagai anti lembab</li></ul> <p>Justru plamir akan kehilangan daya rekat jika tembok kondisi lembab, alhasil cat yang merekat pada plamir akan mudah rontok.</p> <ul><li>Plamir yang ditambah cat bisa digunakan untuk <em>outdoor</em>.</li></ul> <p>Teori ini jelas ngawur, karena selama ini belum ada sumber yang jelas dan kredibel yang mengatakan hal ini. Jadi jangan membuat teori sendiri jika tidak ada dasar teorinya, dan teori tersebut juga masih harus diuji jika dianggap benar.</p> <p>Lalu apa sebenarnya fungsi plamir? Pertanyaan ini selalu muncul di otak pada pembahasan tadi.</p> <p>Sebenarnya fungi plamir sama halnya dengan dempul pada mobil, yaitu untuk meratakan&nbsp; area yang bergelombang atau tidak rata. Jadi secara tidak langsung pemakaiannya hanya pada area yang tidak rata saja, bukan seluruhnya.daya rekat yang kurang penyebab plamir tidak disarankan diaplikasikan pada seluruh area tembok.</p> <p>Anda bisa mendapatkan produk plamir berkualitas dari Beruang Perkasa. Tidak hanya itu, Anda juga bisa mendapatkan produk material bangunan lainnya seperti semen, semen instan, acian, hingga pengeras beton. Dapatkan penawaran menarik sekarang juga! Hubungi kami melalui email atau telepon yang tertera pada halaman kontak.</p>

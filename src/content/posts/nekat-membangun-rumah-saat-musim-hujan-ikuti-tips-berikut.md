@@ -1,10 +1,11 @@
 ---
-title: "Nekat Membangun Rumah Saat Musim Hujan? Ikuti Tips Berikut!"
-slug: "nekat-membangun-rumah-saat-musim-hujan-ikuti-tips-berikut"
-date: "2021-02-24 03:53:55"
-excerpt: "Membangun rumah yang tepat sebaiknya dilakukan saat musim kemarau untuk menghindari datangnya hujan yang dapat mengganggu kegiatan pembangunan. Namun tidak sedikit yang terpaksa membangun rumah saat m"
-wordpress_id: 2682
-image: "/uploads/2021/02/protect-your-house-min-scaled.jpg"
+  category: "Tips & Trick"
+  title: "Nekat Membangun Rumah Saat Musim Hujan? Ikuti Tips Berikut!"
+  slug: "nekat-membangun-rumah-saat-musim-hujan-ikuti-tips-berikut"
+  date: "2021-02-24 03:53:55"
+  excerpt: "Membangun rumah yang tepat sebaiknya dilakukan saat musim kemarau untuk menghindari datangnya hujan yang dapat mengganggu kegiatan pembangunan. Namun tidak sedikit yang terpaksa membangun rumah saat m"
+  wordpress_id: 2682
+  image: "/uploads/2021/02/protect-your-house-min-scaled.jpg"
 ---
 
 <p>Membangun rumah yang tepat sebaiknya dilakukan saat musim kemarau untuk menghindari datangnya hujan yang dapat mengganggu kegiatan pembangunan. Namun tidak sedikit yang terpaksa membangun rumah saat musim hujan karena hal tertentu. Membangun rumah saat musim hujan memiliki banyak resiko, maka dari itu Anda harus menyiapkan banyak persiapan termasuk trik agar bangunan yang dihasilkan tetap kokoh dan bagus meski dibangun saat musim hujan. Berikut ini tips yang dapat Anda lakukan saat membangun rumah pada musim hujan.</p> <ol type="1"><li>Perhatikan Penempatan Material Bangunan</li></ol> <p>Dalam membangun sebuah rumah, peletakkan atau penempatan material bahan bangunan harus tepat untuk menghindari kerusakan susunan material bangunan. Terlebih apabila pembangunan dilakkan saat musim hujan, sebaiknya tempatkan material yang rentan terhadap air di tempat yang aman. Sebagai contoh pasir dan semen harus diletakkan di tempat yang jauh dari guyuran hujan. Hal ini karena pasir dapat terbawa aliran air hujan dan semen dapat mengeras jika terkena air. Oleh sebab itu penyimpanan material bahan bangunan ini sangat penting untuk diperhatikan.</p> <p>2. Lakukan Dengan Sabar dan Tidak Tergesa-Gesa</p> <p>Melakukan segala hal bila tergesa-gesa tidak akan memberikan hasil maksimal, termasuk saat membangun rumah. Meskipun membangun pada musim hujan bukan berarti Anda harus melakukannya dengan tergesa-gesa, hal ini akan memberikan hasil yang kurang optimal. Tentu Anda harus tetap melakukan pembangunan sesuai dengan proses dan urutan yang seharusnya.</p> <p>Sebagai contoh jika Anda membangun sebuah pondasi dengan tergesa-gesa, maka hasilnya pondasi tidak akan kuat dan dindingnya juga akan mengalami keretakkan.</p> <p>3. Memasang Atap Sementara</p> <p>Tips selanjutnya agar proses membangun rumah saat musim hujan tetap berjalan dengan baik adalah memasang atap rumah rumah sementara. Fungsi memasang atap sementara adalah untuk melindungi bahan bangunan dari bangunan dari hujan dan menambah keamanan proses pembangunan rumah.</p> <p>Selain 3 tips di atas, membangun rumah pada musim hujan tentunya memerlukan bahan material banguanan yang berkualitas dan tahan terhadap segala cuaca, seperti semen, semen putih, acian, dan lain-lain. Anda dapat mencari supplier semen yang terbaik dan berkualitas di kota Anda, seperti CV. Beruang Perkasa. Kami menyediakan berbagai macam bahan material untuk membangun rumah dengan harga terjangkau dan kualitas terbaik.</p>

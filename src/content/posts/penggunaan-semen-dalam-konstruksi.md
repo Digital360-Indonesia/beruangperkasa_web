@@ -1,10 +1,11 @@
 ---
-title: "Penggunaan Semen Dalam Konstruksi"
-slug: "penggunaan-semen-dalam-konstruksi"
-date: "2022-09-28 07:57:01"
-excerpt: "Semen adalah bahan perekat kimia yang membuat bahan campuran lainnya menjadi lebih keras dan permanen. Sementara bahan alami seperti kapur dan tanah liat memiliki banyak keterbatasan. Selain itu, seme"
-wordpress_id: 3369
-image: "/uploads/2022/09/building-g04adf2e3e_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Penggunaan Semen Dalam Konstruksi"
+  slug: "penggunaan-semen-dalam-konstruksi"
+  date: "2022-09-28 07:57:01"
+  excerpt: "Semen adalah bahan perekat kimia yang membuat bahan campuran lainnya menjadi lebih keras dan permanen. Sementara bahan alami seperti kapur dan tanah liat memiliki banyak keterbatasan. Selain itu, seme"
+  wordpress_id: 3369
+  image: "/uploads/2022/09/building-g04adf2e3e_1280.jpg"
 ---
 
 <p>Semen adalah bahan perekat kimia yang membuat bahan campuran lainnya menjadi lebih keras dan permanen. Sementara bahan alami seperti kapur dan tanah liat memiliki banyak keterbatasan. Selain itu, semen dapat diproduksi dalam kondisi yang terkendali, dikemas, dan mudah diangkut ke mana pun dibutuhkan.</p> <p>Harga semen relatif murah dan seperti pengikat lainnya seperti polimer, epoksi, bahkan saat ini merupakan perekat terbaik. Oleh karena itu, semen telah menjadi bahan yang paling penting di negara berkembang. Penggunaan semen bahkan selalu meningkat dari waktu ke waktu.</p> <p>Komponen Semen</p> <p>Bubuk semen mengandung banyak bahan kimia dan mineral, dan kandungan masing-masing komponen mempengaruhi kualitas semen. Secara umum semen terdiri dari kapur (CaO), silika (SiO2), alumina (AL2O3), oksida besi (Fe2O3), magnesium oksida (MgO), sulfur trioksida (SO3) dan alkali (K2O, Na2O). Untuk informasi lebih lanjut tentang persentase bahan baku yang digunakan untuk pembuatan semen, silakan baca komposisi semen dalam kemasan semen.</p> <p>Proses Pembuatan Semen Pabrikasi</p> <p>Proses pembuatan semen didalam pabrik biasanya dimulai dengan menambang batu kapur dari tambang terbuka. Selanjutnya batu kapur dihancurkan sehingga memiliki ukuran -80 mm, kemudian dimasukan ke timbunan longitudinal.</p> <p>Batu kapur kemudian akan diambil secara diagonal untuk digiling didalam hopper pabrik mentahan. Selanjutnya proses pembuatan semen dimulai dengan cara memanaskan bahan baki dengan batubara.</p> <p>Setelah mendapatkan bahan baku semen selanjutnya batu kapur akan di kirim ke raw mill buat digiling hingga berbentuk serbuk halus. Biasanya, serbuk halus dari batu kapur akan dipanaskan dengan suhu yang sangat tinggi hingga 1450 derajat celcius buat klinkerisasi.</p> <p>Penggunaan Semen dalam Konstruksi</p> <p>Berbagai jenis semen digunakan dalam konstruksi rumah dan bangunan lainnya. Ini tergantung pada persyaratan fungsional parameter konstruksi dan desain. Penggunaan semen juga tergantung pada karakteristik daya tahan dan kondisi lingkungan lokasi proyek.&nbsp;</p> <p>Semen umumnya digunakan dalam pembuatan mortar dan beton. Semen Beruang Perkasa memiliki kegunaan yang luar biasa bila digunakan dalam campuran beton tuang. Ketika air dicampur dengan semen, itu membentuk bubur yang mengeras begitu didiamkan</p> <p>Ketika air ditambahkan ke dalam campuran semen, terjadi reaksi kimia berupa hidrasi, sehingga menghasilkan mortar yang kohesif, tahan lama, dan kuat. Menimbang semen dengan benar, mencampur agregat dengan air, Anda dapat membuat beton atau semen. Agar awet pastikan membeli semen berkualitas seperti Beruang Perkasa.</p>

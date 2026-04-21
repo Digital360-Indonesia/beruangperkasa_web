@@ -1,10 +1,11 @@
 ---
-title: "Tips Memilih Semen Berkualitas"
-slug: "tips-memilih-semen-berkualitas"
-date: "2023-03-16 08:39:53"
-excerpt: "Semen adalah komponen utama dalam membangun sebuah gedung atau bangunan. Saat ini ada banyak sekali jenis dan merek semen yang beredar di pasaran. Bagi orang yang profesional di bidang konstruksi past"
-wordpress_id: 3559
-image: "/uploads/2023/03/construction-g2a42d7b58_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Tips Memilih Semen Berkualitas"
+  slug: "tips-memilih-semen-berkualitas"
+  date: "2023-03-16 08:39:53"
+  excerpt: "Semen adalah komponen utama dalam membangun sebuah gedung atau bangunan. Saat ini ada banyak sekali jenis dan merek semen yang beredar di pasaran. Bagi orang yang profesional di bidang konstruksi past"
+  wordpress_id: 3559
+  image: "/uploads/2023/03/construction-g2a42d7b58_1280.jpg"
 ---
 
 <p>Semen adalah komponen utama dalam membangun sebuah gedung atau bangunan. Saat ini ada banyak sekali jenis dan merek semen yang beredar di pasaran. Bagi orang yang profesional di bidang konstruksi pasti mudah untuk menentukan semen mana yang berkualitas. Akan tetapi bagi&nbsp;&nbsp;Anda yang masih awam, tentu akan sangat membingungkan untuk menemukan semen yang berkualitas. Berikut tips yanh harus Anda perhatikan dalam memilih semen yang berkualitas.</p> <ul type="1"><li>Berlogo SNI (Standar Nasinal Indonesia)</li></ul> <p>Semen yang berkualitas pastinya telah terdaftar SNI, ditandai dengan adanya logo SNI pada kemasan semen. SNI adalah logo yang menunjukkan bahwa produk tesebut telah teruji dan aman digunakan untuk pasar.</p> <ul><li>Perhatikan Tekstur dan Warna Semen</li></ul> <p>Semen yang berkualitas memiliki tekstur yang mudah terurai saat dipeganh serta tidak menggumpal di tangan. Secara kasat mata, semen memiliki tekstur yang lembut seperti butiran debu. Dari segi warna, semen yang baik berwarna abu-abu sedikit kehijauan. Sebaiknya, hindari semen yanh berwarna terlalu gelap karena mengandung MgO yang tinggi dan menyebabkan semen mudah retak.</p> <ul><li>Pilih Semen yang Berusia Baru</li></ul> <p>Semen berusia baru adalah semen yang masih dalam kondisi baru. Umur simpan semen yang berkualitas setidaknya adalah satu bulan. Saat hendak membelinya, sebaiknya Anda melakukan pengecekan dengan menekan kemasan semen dari luar. Jika terlalu keras maka semen tersebut adalah stok lama yang disimpan, bukan semen yang baru.And tidak perlu ragu dan khawatir apabila melakukan pembelian semen di Beruang Perkasa. Kami menyediakan semen yang berkualitas dan telah berstatus SNI. Produk semen Beruang Perkasa selalu baru dan bukan stok lama yang selalu disimpan di gudang. Segera hubungi Beruang Perkasa untuk penawara</p>

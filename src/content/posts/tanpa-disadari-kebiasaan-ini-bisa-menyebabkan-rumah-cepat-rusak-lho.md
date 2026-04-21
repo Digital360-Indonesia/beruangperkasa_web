@@ -1,10 +1,11 @@
 ---
-title: "Tanpa Disadari Kebiasaan Ini Bisa Menyebabkan Rumah Cepat Rusak Lho!"
-slug: "tanpa-disadari-kebiasaan-ini-bisa-menyebabkan-rumah-cepat-rusak-lho"
-date: "2021-12-24 13:55:07"
-excerpt: "Memiliki rumah yang bersih dan terawat adalah ternyata adalah impian hampir setiap orang. Untuk menciptakan rumah yang bersih dan terawat tidak semudah yang dibayangkan, nyatanya banyak kebiasaan keci"
-wordpress_id: 3109
-image: "/uploads/2021/12/chair-g929c4213a_1280.jpg"
+  category: "Tips & Trick"
+  title: "Tanpa Disadari Kebiasaan Ini Bisa Menyebabkan Rumah Cepat Rusak Lho!"
+  slug: "tanpa-disadari-kebiasaan-ini-bisa-menyebabkan-rumah-cepat-rusak-lho"
+  date: "2021-12-24 13:55:07"
+  excerpt: "Memiliki rumah yang bersih dan terawat adalah ternyata adalah impian hampir setiap orang. Untuk menciptakan rumah yang bersih dan terawat tidak semudah yang dibayangkan, nyatanya banyak kebiasaan keci"
+  wordpress_id: 3109
+  image: "/uploads/2021/12/chair-g929c4213a_1280.jpg"
 ---
 
 <p>Memiliki rumah yang bersih dan terawat adalah ternyata adalah impian hampir setiap orang. Untuk menciptakan rumah yang bersih dan terawat tidak semudah yang dibayangkan, nyatanya banyak kebiasaan kecil yang tanpa disadari menyebabkan rumah cepat rusak. Nah, sebelum terlambat ada baiknya Anda mengetahui apa saja kebiasaan yang menyebabkan rumah cepat rusak.</p> <ul type="1"><li>Menempelkan Kaki Pada Tembok</li></ul> <p>Diantara kita pasti pernah tanpa sadar tidur santai sampai menempelkan kaki pada tembok. Hal ini memang terlihat menyenangkan, tetapi tahukah Anda bahwa ini dapat menyebabkan tembok rumah rusak? Menempelkan kaki pada tembok akan membuat tembok tampak kusam dan kotor.</p> <ul><li>Menutup Pintu Terlalu Keras</li></ul> <p>Saat sedang terburu-buru, tanpa sengaja Anda akan menutup pintu rumah atau kamar dengan keras. Selain menyebabkan suara yang kencang, menutup pintu dengan keras juga akan membuat engsel pintu lebih cepat lepas. Lebih parah lagi menutup pintu dengan keras membuat kusen jebol yang dapat mengakibatkan tembok rusak.</p> <ul><li>Merokok di Dalam Rumah</li></ul> <p>Siapa sangka jika kebiasaan merokok di dalam rumah juga dapat membuat rumah cepat rusak? Hal ini terjadi karena asap rokok mengandung bahan kimia yang dapat membuat langit-langit rumah menjadi kusam dan terlihat kotor. Ditambah lagi abu rokok yang berjatuhan di lantai akan membuat lantai rumah kotor dan tidak nyaman diinjak.</p> <ul><li>Memakai Alas Kaki di Rumah</li></ul> <p>Kebiasaan lupa melepas alas kaki di dalam rumah ternyata juga dapat membuat rumah cepat rusak. Saat Anda pulang dari suatu tempat, kotoran yang menempel pada sepatu Anda akan menempel pada lantai rumah dan membuat kotor. Tentu ini akan membuat penghuni rumah merasa tidak nyaman.</p> <p>Agar rumah tetap bersih dan nyaman, seluruh anggota keluarga harus kompak untuk tidak melakukan hal-hal di atas. Pastikan juga Anda membangun rumah dengan bahan material yang berkualitas seperti semen Beruang Perkasa. Dapatkan produk Beruang Perkasa sekarang juga!</p>

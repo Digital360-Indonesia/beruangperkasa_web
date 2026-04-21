@@ -1,10 +1,11 @@
 ---
-title: "Tembok Mudah Retak? Mungkin Ini Penyebabnya!"
-slug: "tembok-mudah-retak-mungkin-ini-penyebabnya"
-date: "2023-07-17 09:50:48"
-excerpt: "Setiap orang pastinya ingin rumah yang dibangunnya tahan lama, bukan? Tapi, seringkali kita menemukan dinding tembok yang retak-retak setelah pekerjaan konstruksi selesai. Lalu, sebenarnya apa penyeba"
-wordpress_id: 3718
-image: "/uploads/2023/07/4.-istockphoto-524885417-612x612-1.jpg"
+  category: "Tips & Trick"
+  title: "Tembok Mudah Retak? Mungkin Ini Penyebabnya!"
+  slug: "tembok-mudah-retak-mungkin-ini-penyebabnya"
+  date: "2023-07-17 09:50:48"
+  excerpt: "Setiap orang pastinya ingin rumah yang dibangunnya tahan lama, bukan? Tapi, seringkali kita menemukan dinding tembok yang retak-retak setelah pekerjaan konstruksi selesai. Lalu, sebenarnya apa penyeba"
+  wordpress_id: 3718
+  image: "/uploads/2023/07/4.-istockphoto-524885417-612x612-1.jpg"
 ---
 
 <p>Setiap orang pastinya ingin rumah yang dibangunnya tahan lama, bukan? Tapi, seringkali kita menemukan dinding tembok yang retak-retak setelah pekerjaan konstruksi selesai. Lalu, sebenarnya apa penyebabnya? Cari tahu jawabannya di bawah ini!</p> <h2>Penyebab Dinding Tembok Retak</h2> <ul><li>Lokasi: Lokasi bangunan yang berada di wilayah dengan tekstur tanah yang basah atau di daerah dengan kontur tanah yang tidak rata dapat menyebabkan dinding tembok mudah retak. Tanah yang basah atau tidak stabil dapat menyebabkan pergeseran tanah yang berpotensi merusak struktur bangunan.</li><li>Kualitas material yang rendah: Penggunaan material konstruksi yang buruk, seperti bata ringan, pasir, semen, besi, dan bahan bangunan lainnya yang tidak memenuhi standar kualitas yang baik, dapat menyebabkan dinding tembok menjadi lebih mudah retak.</li><li>Komposisi acian dan plesteran yang tidak tepat: Campuran acian dan plester semen yang tak tepat bisa membuat permukaan luar dinding lebih mudah retak. Munculnya garis retakan halus ini tentunya akan membuat tampilan dinding kurang rapi dan hasil pengecatan jadi kurang optimal.</li><li>Beban bangunan yang terlalu berat: Jika beban struktur&nbsp;&nbsp;bangunan bagian atas (atap) melebihi kapasitas wajarnya atau tidak terdistribusikan dengan baik, dinding tembok dapat mengalami tekanan berlebihan yang pada akhirnya memicu keretakan.</li><li>Kesalahan teknik konstruksi: Kesalahan dalam pelaksanaan teknik konstruksi seperti ketidaktepatan dalam pemasangan batu bata, pengecoran beton, atau pemasangan struktur baja, dapat menyebabkan dinding tembok menjadi tidak stabil dan mudah retak.</li></ul> <p>Beberapa faktor diataslah yang bisa menjadi penyebab utama mengapa dinding bangunan Anda mengalami keretakan. Untuk memastikan penyebabnya, cobalah lakukan pengecekan menyeluruh pada kondisi bangunan Anda!</p> <p>Untuk mencegah hal tersebut, pastikan Anda selalu menggunakan jasa tukang berkompeten dan material yang berkualitas, seperti semen, semen instan, acian, dan plamir dari distributor Beruang Perkasa.</p> <p>Beruang Perkasa menyediakan beragam material bangunan berkualitas tinggi untuk memastikan dinding tembok Anda anti-retak dan bisa bertahan selama puluhan tahun! Tunggu apa lagi? Segera beli material bangunan di Beruang Perkasa.</p> <p>Butuh info lebih lanjut? Hubungi kami di:</p> <p><a>info@beruangperkasa.id</a></p> <p>031-8704593 / 031-8721992 / 031-8796430</p>

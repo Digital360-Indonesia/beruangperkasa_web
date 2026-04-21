@@ -1,10 +1,11 @@
 ---
-title: "Simak Tips Membersihkan Kamar Mandi dari Kerak Berikut Yuk!"
-slug: "simak-tips-membersihkan-kamar-mandi-dari-kerak-berikut-yuk"
-date: "2021-04-23 05:28:10"
-excerpt: "Kamar mandi adalah tempat yang mudah ditumbuhi lumut karena tempatnya yang lembab dan selalu basah. Apalagi jika kamar mandi tidak memiliki ventilasi dan sirkulasi udara yang baik, lumut akan mudah be"
-wordpress_id: 2763
-image: "/uploads/2021/04/kamar-mandi-scaled.jpg"
+  category: "Perawatan Rumah"
+  title: "Simak Tips Membersihkan Kamar Mandi dari Kerak Berikut Yuk!"
+  slug: "simak-tips-membersihkan-kamar-mandi-dari-kerak-berikut-yuk"
+  date: "2021-04-23 05:28:10"
+  excerpt: "Kamar mandi adalah tempat yang mudah ditumbuhi lumut karena tempatnya yang lembab dan selalu basah. Apalagi jika kamar mandi tidak memiliki ventilasi dan sirkulasi udara yang baik, lumut akan mudah be"
+  wordpress_id: 2763
+  image: "/uploads/2021/04/kamar-mandi-scaled.jpg"
 ---
 
 <p>Kamar mandi adalah tempat yang mudah ditumbuhi lumut karena tempatnya yang lembab dan selalu basah. Apalagi jika kamar mandi tidak memiliki ventilasi dan sirkulasi udara yang baik, lumut akan mudah berkembang biak. Selain membuat pemandangan kamar mandi tidak indah, lumut juga menyebabkan permukaan lantai menjadi licin dan dapat menyebabkan orang terpleset. Nah, lalu bagaimana cara membersihkan kamar mandi dari kerak dan lumut?</p> <ul type="1"><li>Menggunakan garam untuk menghilangkan lumut dinding</li></ul> <p>Garam memiliki banyak manfaat, contohnya sebagai penghilang lumut pada dinding. Caranya mudah, masukkan tiga sendokm garam ke dalam 2 liter air. Kemudian rebus air hingga garam larut dengan sempurna. Setelah itu siramkan air larutan garam yang masih panas ke permukaan&nbsp; dinding dan lantai kamar mandi yang berlumut. Lalu bilas dan ulang Langkah tersebut sekali lagi.</p> <ul><li>Bersihkan dengan sabun cuci piring</li></ul> <p>Selain untuk mencuci piring, sabun cuci piring juga dapat membersihkan lumutt yang menempel pada dinding dan lantai kamar mandi. Anda cukup menggosok lantai dan dinding dengan sabun cuci piring hingga kerak yang menempel rontok. Setelah itu bilas dengan air agar permukaan dinding dan lantai tidak licin.</p> <ul><li>Siram dengan Air Kapur</li></ul> <p>Selain dengan dua cara di atas, membersihkan kerak dan lumut kamar mandi bisa juga menggunakan air kapur. Gunakan kapur tulis dengan mencampurkannya dengan air, kemudian siram ke bagian dinding yang berkerak. Setelah itu diamkan terlebih dahulu beberapa jam, kemudian gosok dengan sikat hingga bersih. Terakhir bilas hingga tidak ada sisa kerak dan lumut yang menempel.</p> <p>Bagaimana, mudah bukan? Segera bersihkan kamar mandi Anda yuk! Jangan sampai lantai dan dinding yang licin membuat anggota keluarga Anda terpeleset.</p> <p>Untuk kebutuhan material bangunan atau untuk membuat dan merenovasi kamar mandi, gunakan produk Beruang Perkasa karena dikenal sebagai produk yang berkualitas. Kami menyediakan semen, semen putih atau semen instan, plamir tembok, acian, lem PVAC, dan bahan lainnya. CV. Beruang Perkasa merupakan produsen sekaligus supplier semen terbaik yang berlokasi di Surabaya. Hubungi kami melalui email untuk mendapatkan penawaran menaril.</p>

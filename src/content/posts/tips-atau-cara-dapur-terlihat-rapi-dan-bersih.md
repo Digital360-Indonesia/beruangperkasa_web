@@ -1,10 +1,11 @@
 ---
-title: "Tips atau Cara Dapur Terlihat Rapi dan Bersih."
-slug: "tips-atau-cara-dapur-terlihat-rapi-dan-bersih"
-date: "2022-02-09 04:59:23"
-excerpt: "Jika dapur Anda selalu terlihat kotor, pasti Anda akan malas untuk melakukan kegiatan masak-memasak. Perabotan dapur kotor dan berserakan dimana-mana, untuk memulai memasak Anda harus bersihkan terleb"
-wordpress_id: 3166
-image: "/uploads/2022/02/kitchen-g06df40333_1280.jpg"
+  category: "Tips & Trick"
+  title: "Tips atau Cara Dapur Terlihat Rapi dan Bersih."
+  slug: "tips-atau-cara-dapur-terlihat-rapi-dan-bersih"
+  date: "2022-02-09 04:59:23"
+  excerpt: "Jika dapur Anda selalu terlihat kotor, pasti Anda akan malas untuk melakukan kegiatan masak-memasak. Perabotan dapur kotor dan berserakan dimana-mana, untuk memulai memasak Anda harus bersihkan terleb"
+  wordpress_id: 3166
+  image: "/uploads/2022/02/kitchen-g06df40333_1280.jpg"
 ---
 
 <p>Jika dapur Anda selalu terlihat kotor, pasti Anda akan malas untuk melakukan kegiatan masak-memasak. Perabotan dapur kotor dan berserakan dimana-mana, untuk memulai memasak Anda harus bersihkan terlebih dahulu dan itu membutuhkan waktu yang panjang, itu yang membuat Anda menjadi malas. Lalu bagaimana agar hal ini tidak terjadi berulang-ulang? Berikut cara yang bisa Anda coba.</p> <ul type="1"><li>Biasakan perilaku selalu bersih.</li></ul> <p>Jadi Anda tidak boleh malas untuk selalu membersihkan dapur. Misal Anda selesai memasak, Anda harus segera membersihkan wajan, sutil, atau alat dapur lain yang sudah tidak dipakai. Meskipun Anda capek habis memasak tapi hal ini harus dilakukan, karena jika Anda tunda maka cucian akan semakin banyak, mungkin tambah piring, gelas, sendok habis makan. Hal ini yang akan membuat Anda semakin malas. Maka cara yang tepat jika Anda tipikal orang yang mudah malas, sebaiknya Anda terapkan hidup bersih.</p> <ul><li>Merapikan peralatan dapur</li></ul> <p>Merapikan dapur sebenarnya pekerjaan yang sederhana, tapi hal ini bisa mempengaruhi semangat dan <em>mood</em> di dapur. Jika Anda menata dapur, tatalah sesuai dengan kategori dan warna peralatan. Percaya atau tidak coba Anda bayangkan jika dapur Anda rapi dan warna sekelompok, pasti Anda menjadi bahagia. <em>Mood</em> ini yang membuat Anda menjadi betah di dapur. Orang lain yang melihat dapur Anda pun pasti merasa kagum dan <em>excited</em>. Namun jika Anda kesusahan menata berdasarkan warna, maka Anda bisa gunakan wadah/tempat tertutup untuk menyimpan peralatan tersebut, karena wadah tertutup akan lebih memberi kesan rapi. Ditambah lagi jika warna wadah Anda senada, pasti jauh terlihat rapi.</p> <p>Tips penting yang bisa Anda coba, dijamin pasti dapur Anda terlihat rapi, dan yang penting Anda menjadi bahagia berada di dapur. Jika <em>mood</em> bahagia masakan Anda pun jadi lebih lezat dan tentu ditunjang dengan dapur yang bersih masakan Anda pasti lebih higienis.</p> <p>Dapur yang rapi dan bersih tentu juga harus diambangi dengan pondasi dan bangunan yang kokoh. Anda dapat menggunakan bahan material seperti semen, plamir, dan perekat bata Beruang Perkasa. Selain harganya yang terjangkau, produk Beruang Perkasa juga terbukti bermutu tinggi dan telah memiliki sertifikasi nasional dan internasional.</p>

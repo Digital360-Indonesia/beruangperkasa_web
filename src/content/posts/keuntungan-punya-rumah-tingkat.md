@@ -1,10 +1,11 @@
 ---
-title: "Keuntungan Punya Rumah Tingkat"
-slug: "keuntungan-punya-rumah-tingkat"
-date: "2021-12-22 14:27:46"
-excerpt: "Sebagian orang memilih untuk membangun rumah bertingkat daripada hanya satu lantai. Ada beberapa alasan yang mempengaruhinya. Yang intinya pertimbangannya berdasarkan kenyamanan, privasi, dan estetika"
-wordpress_id: 3106
-image: "/uploads/2021/12/house-gc932f9e44_1280.jpg"
+  category: "Tips & Trick"
+  title: "Keuntungan Punya Rumah Tingkat"
+  slug: "keuntungan-punya-rumah-tingkat"
+  date: "2021-12-22 14:27:46"
+  excerpt: "Sebagian orang memilih untuk membangun rumah bertingkat daripada hanya satu lantai. Ada beberapa alasan yang mempengaruhinya. Yang intinya pertimbangannya berdasarkan kenyamanan, privasi, dan estetika"
+  wordpress_id: 3106
+  image: "/uploads/2021/12/house-gc932f9e44_1280.jpg"
 ---
 
 <p>Sebagian orang memilih untuk membangun rumah bertingkat daripada hanya satu lantai. Ada beberapa alasan yang mempengaruhinya. Yang intinya pertimbangannya berdasarkan kenyamanan, privasi, dan estetika.</p> <p>Lalu apa saja sebenarnya keuntungan memiliki rumah bertingkat? Berikut penjelasannya.</p> <ul type="1"><li>Luas bangunan yang lebih luas.</li></ul> <p>Anda yang tinggal di kota metropolitan pasti merasakan lahan yang sempit, harga mahal, dan susah mendapatkannya, mengharuskan Anda memiliki lahan yang sempit. Jika Anda gunakan lahan sempit untuk mendirikan bangunan satu lantai maka dapat dipastikan rumah Anda pasti sempit. Namun jika Anda gunakan untuk dua lantai, maka Anda bisa dapatkan luas bangunan sampai 2x luas tanah. Dan pasti akan mendapat space lebih.</p> <ul><li>Pemisahkan area publik dan privat.</li></ul> <p>Meletakkan pusat aktivitas keluarga di lantai atas memberi privasi bagi keluarga, tidak semua orang bisa mengakses lantai atas. Tamu dan ART/<em>babysitter</em> harus ijin tuan rumah untuk akses lantai atas.</p> <ul><li>Banjir</li></ul> <p>Salah satu faktor ini sering terjadi di kota besar. Jika rumah Anda bertingkat Anda tidak perlu terlalu kuatir akan banjir. Anda bisa gunakan lantai bawah untuk menyimpan barang-barang yang sifatnya mudah dipindah-pindah (<em>portable</em>). Lantai atas bisa Anda gunakan dengan layak, dan dapat menyipan barang jika terjadi banjir.</p> <ul><li>Pemandangan yang bagus.</li></ul> <p>Rumah tingkat biasanya dilengkapi balkon, yang dimana itu dapat digunakan untuk menikmati pemandangan luar rumah. Pemandangan yang bagus akan membantu merelaksasi pikiran yang jenuh. Namun untuk menikmati pemandangan yang bagus, lokasi rumah dan kondisi lingkungan/alam sekitar wajib bagus juga.</p> <p>Untuk membangun rumah tingkat yang berkualitas, pastikan Anda menggunakan bahan material yang bermutu seperti Semen Beruang Perkasa. Semen Beruang Perkasa telah memiliki sertifikasi nasional dan internasional yang telah teruji dan terbukti kualitasnya. Hubungi Beruang Perkasa sekarang juga untuk mendapatkan penawaran menarik.</p>

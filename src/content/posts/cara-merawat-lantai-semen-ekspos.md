@@ -1,10 +1,11 @@
 ---
-title: "Cara Merawat Lantai Semen Ekspos"
-slug: "cara-merawat-lantai-semen-ekspos"
-date: "2024-05-29 13:38:05"
-excerpt: "Hunian berkonsep industrial dengan menerapkan semen ekspos belakangan ini semakin populer. Semen ekspos semakin banyak diminati karena memberikan nuansa minimalis dengan banyak pilihan tekstur tanpa b"
-wordpress_id: 3996
-image: "/uploads/2023/12/istockphoto-1202077460-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Cara Merawat Lantai Semen Ekspos"
+  slug: "cara-merawat-lantai-semen-ekspos"
+  date: "2024-05-29 13:38:05"
+  excerpt: "Hunian berkonsep industrial dengan menerapkan semen ekspos belakangan ini semakin populer. Semen ekspos semakin banyak diminati karena memberikan nuansa minimalis dengan banyak pilihan tekstur tanpa b"
+  wordpress_id: 3996
+  image: "/uploads/2023/12/istockphoto-1202077460-612x612-1.jpg"
 ---
 
 <p>Hunian berkonsep industrial dengan menerapkan semen ekspos belakangan ini semakin populer. Semen ekspos semakin banyak diminati karena memberikan nuansa minimalis dengan banyak pilihan tekstur tanpa biaya pembuatan dan perawatan yang lebih. Nah bagi Anda yang sudah menerapkan konsep semen ekspos atau berencana menggunakan konsep ini, yuk simak dulu cara mudah merawat lantai ekspos.</p> <p>Berikut tips perawatan lantai semen ekspos:</p> <ol type="1"><li>Membersihkan Lantai Secara Rutin</li></ol> <p>Menyapu lantai secara teratur diperlukan untuk menghilangkan debu dan kotoran lain yang mungkin menempel di lantai. Meskipun tidak terlalu terlihat, namun akan tetap terasa jika kita berjalan. Selain untuk menjaga kebersihan, menyapu secara rutin dapat menjaga lantai tetap mengkilap.</p> <p>2. Pel dengan Air Hangat</p> <p>Dengan bantuan air hangat membuat kotoran yang menempel pada lantai semen mudah terlepas. Caranya sangat mudah, pel lantai dengan air hangat yang dicampur dengan sabun atau pembersih lantai. Mengepel denga air hangat ini tidak perlu secara rutin cukup seminngu sekali, hari yang lain cukup dengan air biasa.</p> <p>3. Memilih Perbersih Lantai yang Tepat</p> <p>Di pasaran ada banyak jenis pembersih lantai yang tersedia. Pilihlah pembersih lantai yang tidak menggunakan pembersih kimia keras agar warna lantai semen tidak cepat memudar. Pilihlah pembersih khusus semen dengan tingkat pH netral.</p> <p>4. Memoles Lantai Secara Berkala</p> <p>Perawatan terakhir dan paling penting adalah mengoleskan wax atau sealant ke permukaan lantai setiap 6-9 bulan sekali agar tampak mengkilap. Memoles lantai semen secara berkala membantu menjaganya tetap bersih dan mengkilap. Anda dapat menggunakan jasa teknisi yang kompeten dan berpengalaman untuk mencapai hasil yang maksimal.</p>

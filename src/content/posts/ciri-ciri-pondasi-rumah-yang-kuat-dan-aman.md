@@ -1,10 +1,11 @@
 ---
-title: "Ciri-Ciri Pondasi Rumah Yang Kuat Dan Aman"
-slug: "ciri-ciri-pondasi-rumah-yang-kuat-dan-aman"
-date: "2021-11-15 04:31:08"
-excerpt: "Untuk mendirikan sebuah rumah yang pertama harus dibuat adalah pondasinya. Bahkan jika Anda amati pembangunan pondasi untuk bangunan bisa memakan waktu lebih dari 20% dari waktu keseluruhan. Proses pe"
-wordpress_id: 3068
-image: "/uploads/2021/11/footing-g2b2278312_1280.jpg"
+  category: "Renovasi & Konstruksi"
+  title: "Ciri-Ciri Pondasi Rumah Yang Kuat Dan Aman"
+  slug: "ciri-ciri-pondasi-rumah-yang-kuat-dan-aman"
+  date: "2021-11-15 04:31:08"
+  excerpt: "Untuk mendirikan sebuah rumah yang pertama harus dibuat adalah pondasinya. Bahkan jika Anda amati pembangunan pondasi untuk bangunan bisa memakan waktu lebih dari 20% dari waktu keseluruhan. Proses pe"
+  wordpress_id: 3068
+  image: "/uploads/2021/11/footing-g2b2278312_1280.jpg"
 ---
 
 <p>Untuk mendirikan sebuah rumah yang pertama harus dibuat adalah pondasinya. Bahkan jika Anda amati pembangunan pondasi untuk bangunan bisa memakan waktu lebih dari 20% dari waktu keseluruhan. Proses pembuatan pondasi ini tidak boleh dilakukan sembarangan.</p> <p>Rumah yang kokoh harus didukung oleh pondasi yang kuat dan tahan lama. Tidak lucu kan? Jika Anda sudah bangun rumah yang bagus dan indah tapi pondasinya pecah. Pondasi juga adalah salah satu hal yang dlihat jika Anda menjual properti bangunan, jika kondisi pondasi rumah pecah percayalah rumah tersebut akan susah laku.</p> <p>Pondasi di sebuah bangunan fungsinya sangat fital. Oleh karena itu, perlu dilakukan perencanaan dengan matang untuk mengetahui ukuran dan jenis material pondasi yang aman namun tetap ekonomis. Untuk dapat menghemat biaya ketika akan membangun rumah. Termasuk untuk mengetahui macam-macam syarat pondasi bangunan yang kuat.</p> <p>Ciri Pondasi Rumah yang Kuat</p> <ul><li>Dapat menahan berbagai macam beban, yaitu beban konstruksi, beban penghuni, angin, gempa dll.</li><li>Terbuat dari bahan bangunan yang kuat,bagus dan awet.</li><li>Tahan terhadap macam-macam gangguan organisme atau bahan kimia berbahaya yang bisa merusak konstruksi bangunan.</li><li>Jenis pondasi yang digunakan disesuaikan dengan kondisi tanah dan bangunan, ada jenis pondasi cakar ayam, pondasi batu kali untuk rumah 1 lantai , dan pondasi foot plat.</li><li>Ada penambahan faktor keamanan beban diluar perencanaan sebelumnya sehingga tidak terancam bahaya keruntuhan. Hal ini adalah saat proses perhitungan di perencanaan.</li><li>Jika menggunakan besi tulangan maka harus menggunakan beton yang cukup tebal agar tulang tidak berkarat sehingga bisa menimbulkan perlemahan struktur pondasi.</li></ul> <p>Pada saat proses pembangunan pondasi diperlukan pengawasan ekstra, agar apa yang dibangun bisa benar-benar sesuai dengan rencana. Entah itu dari jenis pondasinya, ukuran pondasi maupun metode pengerjaan yang benar. Oleh sebab itu, pastikan Anda memilih bahan material yang berkualitas untuk membuat pondasi yang kuat dan kokoh. Salah satu produk yang dapat Anda pilih adalah semen dan plamir instan Beruang Perkasa. Produk semen dan plamir Beruang Perkasa terbuat dari bahan yang pilihan yang diolah dengan teknologi terbaru. Tunggu apa lagi? Hubungi Beruang Perkasa sekarang juga untuk mendapatkan penawaran menarik.</p>

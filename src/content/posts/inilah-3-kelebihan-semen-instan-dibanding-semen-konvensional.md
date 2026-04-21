@@ -1,10 +1,11 @@
 ---
-title: "Inilah 3 Kelebihan Semen Instan Dibanding Semen Konvensional"
-slug: "inilah-3-kelebihan-semen-instan-dibanding-semen-konvensional"
-date: "2022-11-03 04:26:17"
-excerpt: "Semen instan dan semen konvensional terkadang terlihat sama bagi orang awam, mulai dari kegunaan dan manfaatnya. Padahal, jika dipelajari kedua semen tersebut memiliki perbedaan yang signifikan. Meski"
-wordpress_id: 3390
-image: "/uploads/2022/11/wall-g87227002c_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Inilah 3 Kelebihan Semen Instan Dibanding Semen Konvensional"
+  slug: "inilah-3-kelebihan-semen-instan-dibanding-semen-konvensional"
+  date: "2022-11-03 04:26:17"
+  excerpt: "Semen instan dan semen konvensional terkadang terlihat sama bagi orang awam, mulai dari kegunaan dan manfaatnya. Padahal, jika dipelajari kedua semen tersebut memiliki perbedaan yang signifikan. Meski"
+  wordpress_id: 3390
+  image: "/uploads/2022/11/wall-g87227002c_1280.jpg"
 ---
 
 <p>Semen instan dan semen konvensional terkadang terlihat sama bagi orang awam, mulai dari kegunaan dan manfaatnya. Padahal, jika dipelajari kedua semen tersebut memiliki perbedaan yang signifikan. Meskipun begitu, kedua jenis semen tersebut memiliki komposisi yang sama, hanya saja penerapannya yang berbeda.</p> <p>Untuk mengetahui perbedaannya, berikut ini 3 kelebihan manfaat dari semen instan dibandig semen konvensional.</p> <ul type="1"><li>Waktu</li></ul> <p>Dari segi waktu, semen instan tergolong sangat efisien karena memerlukan waktu yang singkat untuk mengeringkan hasil pekerjaannya. Sedangkan semen konvensional membutuhkan waktu yang relatif lebih lama dalam prosesnya, karena membutuhkan bahan tambahan seperti pasir dan air yang lebih banyak dibanding semen instan.</p> <p>Jika Anda sedang merenovasi atau membangun rumah yang membutuhkan waktu singkat, maka semen instan adalah pilihan yang tepat.</p> <ul><li>Biaya</li></ul> <p>Dari segi biaya yang diperlukan, semen instan lebih mahal dibanding semen konvensional. Akan tetapi komponen semen konvensional tidaklah berdiri sendiri, Anda perlu menyediakam bahan tambahan lainnya seperti pasir dan batu agar adonan semen kokoh. Tentu saja ini akan menambah biaya pengeluaran Anda untuk membeli material tambahan. Berbeda dengan semen instan yang hanya membutuhkan air untuk proses pembuatan adonannya.</p> <ul><li>Ketahanan</li></ul> <p>Semen konvensional memiliki kualitas yang tahan lama jika didukung dengan komposisi dalam volume yang ideal. Nah, faktor inilah yang membuat semen instan lebih unggul karena tidak memerlukan bahan tembahan.</p> <p>Setelah membaca penjelasan di atas, apakah Anda sudah menentukan pilihan semen mana yang sesuai dengan kebutuhan Anda? Jika Anda sedang mencari semen instan, pastikan Anda memilih Semen Beruang Perkasa untuk semen yang berkualitas dan tahan lama. Tunggu apa lagi? Hubungi kami segera untuk mendapatkan penawaran menarik.</p>

@@ -1,10 +1,11 @@
 ---
-title: "Bagaimana Cara Memperbaiki Acian yang Bergelombang Agar Rata?"
-slug: "bagaimana-cara-memperbaiki-acian-yang-bergelombang-agar-rata"
-date: "2021-07-27 13:24:21"
-excerpt: "Lihatlah dinding rumah Anda, apakah Anda menemukan dinding yang tidak rata atau bergelombang? Bisa jadi karena proses pengacian kurang rapi. Lalu bagaimana cara mengatasinya? Kupas Lapisan Cat di Dind"
-wordpress_id: 2919
-image: "/uploads/2021/07/old-wall-1835981_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Bagaimana Cara Memperbaiki Acian yang Bergelombang Agar Rata?"
+  slug: "bagaimana-cara-memperbaiki-acian-yang-bergelombang-agar-rata"
+  date: "2021-07-27 13:24:21"
+  excerpt: "Lihatlah dinding rumah Anda, apakah Anda menemukan dinding yang tidak rata atau bergelombang? Bisa jadi karena proses pengacian kurang rapi. Lalu bagaimana cara mengatasinya? Kupas Lapisan Cat di Dind"
+  wordpress_id: 2919
+  image: "/uploads/2021/07/old-wall-1835981_1280.jpg"
 ---
 
 <p>Lihatlah dinding rumah Anda, apakah Anda menemukan dinding yang tidak rata atau bergelombang? Bisa jadi karena proses pengacian kurang rapi. Lalu bagaimana cara mengatasinya?</p> <ul type="1"><li>Kupas Lapisan Cat di Dinding</li></ul> <p>Mulailah mengupas lapisan cat dan plamir yang telah menempel di permukaan acian dinding rumah anda. Anda bisa gunakan kape, apa itu kape anda bisa cari di google “kape alat bangunan”. Kupas juga lapisan acian tidak rata.</p> <ul><li>Bersihkan Permukaan Dinding</li></ul> <p>Bersihkan permukaan dinding dari debu, kotoran, dan sisa-sisa cat. Pembersihan penting dilakukan supaya acian merekat dengan sempurna.</p> <ul><li>Basahi Dinding Memakai Air</li></ul> <p>Membasahi dinding berguna untuk menurunkan suhu dinding, suhu dinding yang panas akan memaksa keluar, sehingga acian yang dipermukaan akan muncul retakan rambut, dan alhasil anda harus mengulang proses pengacian.</p> <ul><li>Pengacian Ulang Dinding</li></ul> <p>Gunakan acian dengan material berkualitas, anda bisa gunakan semen instan atau mortar untuk lebih sederhananya. Lakukan proses pengacian dengan rata, rapi, halus. Disarankan pakai roskam besi untuk melakukan proses tersebut untuk hasil yang lebih halus.</p> <ul><li>Penerapan Plamir di Dinding</li></ul> <p>Sesudah anda pastikan permukaan acian anda rata, rapi, halus, setelah itu gunakan plamir untuk pelapisan cat dasar. Selain sebagai cat dasar, plamir berguna untuk menutup pori-pori acian. Jadi lapisan cat dasar/plamir ini nantinya berada di antara acian dan cat dinding. Lakukan proses plamir dengan rata-rapi, dan juga halus, jangan sampai acian sudah rata tapi plamirnya yang tidak rata, akan sama saja.</p> <ul><li>Pengecatan Dinding Kembali</li></ul> <p>Proses pengecatan adalah proses finishing saja, sampai proses ini dapat dipastikan pengerjaan anda hampir berhasil. Pilih cat sesuai dengan kebutuhan anda apakah untuk interior atau eksterior karena sangat berbeda peruntukannya. Tips mengecat, intinya adalah lebih baik tipis-tipis tunggu kering berulang-ulang, daripada sekali langsung tebal. Hasilnya pengecatan akan sangat berbeda, dari segi keawetan cat juga berbeda.</p> <p>Untuk mendapatkan hasil aci yang baik, gunakan bahan aci seperti Acian Beruang Perkasa yang memiliki mutu tinggi untuk tembok Anda. Selain itu, Beruang Perkasa juga memiliki produk bermutu lainnya seperti semen, semen instan, plamir instan, acian, dan lain-lain. Kami melakukan pengiriman setiap hari ke kota-kota terjangkau di Indonesia. Untuk mendapatkan penawaran menarik, hubungi kami segera melalui email yang tertera pada website.</p>

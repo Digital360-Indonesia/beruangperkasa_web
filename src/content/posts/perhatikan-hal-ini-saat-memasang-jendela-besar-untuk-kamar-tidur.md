@@ -1,10 +1,11 @@
 ---
-title: "Perhatikan Hal Ini Saat Memasang Jendela Besar Untuk Kamar Tidur"
-slug: "perhatikan-hal-ini-saat-memasang-jendela-besar-untuk-kamar-tidur"
-date: "2021-12-01 07:12:15"
-excerpt: "Jendela merupakan sumber cahaya alami yang berguna untuk menciptakan rumah yang sehat dan hemat energi. Semakin besar ukuran jendela, maka semakin banyak pula sinar matahari yang masuk ke dalam rumah."
-wordpress_id: 3088
-image: "/uploads/2021/12/white-g5091143e4_1280.jpg"
+  category: "Tips & Trick"
+  title: "Perhatikan Hal Ini Saat Memasang Jendela Besar Untuk Kamar Tidur"
+  slug: "perhatikan-hal-ini-saat-memasang-jendela-besar-untuk-kamar-tidur"
+  date: "2021-12-01 07:12:15"
+  excerpt: "Jendela merupakan sumber cahaya alami yang berguna untuk menciptakan rumah yang sehat dan hemat energi. Semakin besar ukuran jendela, maka semakin banyak pula sinar matahari yang masuk ke dalam rumah."
+  wordpress_id: 3088
+  image: "/uploads/2021/12/white-g5091143e4_1280.jpg"
 ---
 
 <p>Jendela merupakan sumber cahaya alami yang berguna untuk menciptakan rumah yang sehat dan hemat energi. Semakin besar ukuran jendela, maka semakin banyak pula sinar matahari yang masuk ke dalam rumah. Belakangan ini, tren jendela besar hingga mencapai langit-langit sedang naik daun, bahkan jendela besar menjadi aksen wajib pada beberapa jenis rumah minimalis.</p> <p>Jendela rumah yang besar sangat bermanfaat apabila kamar tidur Anda menghadap Barat atau Timur. Memasang jendela berukuran besar pada kamar tidur akan sangat berguna jika Anda memperhatikan beberapa hal berikut ini.</p> <ul type="1"><li>Gorden</li></ul> <p>Jendela pada kamar tidur perlu diberi gorden untuk menutupi seluruh bagian jendela. Anda perlu menyiapkan dua lapis gorden dan menghindari penutup jendela jenis kerai karena jendela tersebut tidak bisa ditutup rapat.</p> <ul><li>Cara Membuka Jendela</li></ul> <p>Apabila kamar Anda terhubung dengan balkon atau teras, Anda dapat menggunakan jendela geser yang dapat difungsikan sebagai pintu. Pastikan jendela tersebut tidak dapat dibuka dari luuar dan hanya bisa dibuka dari dalam.</p> <ul><li>Perhatikan Sirkulasi Udara</li></ul> <p>Jendela dapat membantu Anda mendapatkan sirkulasi udara yang baik. Pilihlah desain jendela yang dapat dibuka sebagian tanpa harus membuka gorden.</p> <ul><li>Desain yang Aman</li></ul> <p>Pastikan jendela terpasang dengan nyaman dan tidak beresiko menyebabkan cedera penghuni rumah, terutama orang tua (manula) dan anak kecil. Desain jendela dengan banyak kisi atau teralis yang aman.</p> <ul><li>Pastikan Privasi Aman</li></ul> <p>Agar privasi Anda dan keluarga tetap aman dan terjaga,tidak boleh ada celah pada saat Anda menutup gorden jendela.</p> <p>Bagaimana? Tertarik menggunakan jendela berukuran besar di kamar Anda? Pastikan desainnya sesuai dengan kebutuhan Anda dan dapat memberikan nuansa segar serta terang.</p>

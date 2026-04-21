@@ -1,10 +1,11 @@
 ---
-title: "Rumah Baru tapi Dinding Retak, Kenapa?"
-slug: "rumah-baru-tapi-dinding-retak-kenapa"
-date: "2024-01-23 00:58:21"
-excerpt: "Dinding yang retak dapat mengurangi ekstetika rumah. Baik rumah baru apalagi yang lama sering terdapat bagian dinding yang retak. Tentu keretakan dinding ini membuat kita sedikit merasa kesal. Sebelum"
-wordpress_id: 3879
-image: "/uploads/2024/01/crack-695010_640.jpg"
+  category: "Tips & Trick"
+  title: "Rumah Baru tapi Dinding Retak, Kenapa?"
+  slug: "rumah-baru-tapi-dinding-retak-kenapa"
+  date: "2024-01-23 00:58:21"
+  excerpt: "Dinding yang retak dapat mengurangi ekstetika rumah. Baik rumah baru apalagi yang lama sering terdapat bagian dinding yang retak. Tentu keretakan dinding ini membuat kita sedikit merasa kesal. Sebelum"
+  wordpress_id: 3879
+  image: "/uploads/2024/01/crack-695010_640.jpg"
 ---
 
 <p>Dinding yang retak dapat mengurangi ekstetika rumah. Baik rumah baru apalagi yang lama sering terdapat bagian dinding yang retak. Tentu keretakan dinding ini membuat kita sedikit merasa kesal. Sebelum memperbaiki dinding yang retak, yuk cari tahu penyebabnya dulu!</p> <ol type="1"><li>Kualiatas Material yang Buruk</li></ol> <p>Ini merupakan hal yang lumrah jika anda asal membeli produk material untuk bangunan rumah Anda tanpa mengetahui kualitas material tersebut. Penggunaan material berkualitas rendah sangat berpengaruh terhadap ketahan dinding. Selain batu batu, Anda wajib menggunakan semen yang berkualitas untuk plester dan acian dinding.dengan menggunakan material yang kurang berkulitas membuat tiang penyangga atau kolom bangunan tidak bekerja sebagaimana mestinya. Hal tersebut membuat dinding harus menerima beban yang terlalu banyak dan menyebabkan keretakan</p> <p>2. Pergantian cuaca dan suhu</p> <p>Saat musim pancaroba terjadi pergantian musim, hal ini menyebabkan cuaca tidak menentu. Saat cuaca sedang panas, material akan mengembang. Saat cuaca dan dingin yang terjadi sebaliknya, material akan menyusut. Perubahan inilah yang akan menyebabkan dinding retak. Tapi, kamu tidak perlu khawatir karena retakan kecil akibat cuaca tidak akan membahayakan seisi rumah. Retak semacam ini bisa diatasi dengan ditambal.</p> <p>3. Kegagalan Struktur</p> <p>Kegagalan struktur bias terjadi karena beberapa sebab seperti, beban yang berlebih, terkena benturan keras atau terjadi pergeseran tanah dan gempa bumi. kegagalan struktur bisa sangat berbahaya sehingga harus segera dilakukan renovasi rumah.</p> <p>4. Penurunan Permukaan Tanah</p> <p>Penurunan permukaan tanah adalah hal yang pasti terjadi dari waktu ke waktu. Sayangnya, fenomena alam ini dapat mengakibatkan retak tarik dinding rumah. Meski begitu, Anda tidak perlu khawatir. Selama penurunan muka tanah tidak terjadi secara masif, kondisi ini tak akan menyebabkan kerusakan berarti pada dinding keseluruhan.</p> <p>5. Campuran Semen yang Buruk</p> <p>Campuran semen yang digunakan untuk perekat struktur dinding harus dipastikan benar-benar baik. Apabila komposisi yang tidak sesuai antara pasir, semen, dan air, itu bisa menyebabkan dinding retak. Selain itu, pasir yang telah tercampur berbagai macam kotoran, menggunakan air kotor, dan semen yang sudah lama juga bisa menyebabkan keretakan pada dinding. Oleh karena itu, pastikan campuran semen untuk perekat struktur dinding tidak asal asalan.</p>

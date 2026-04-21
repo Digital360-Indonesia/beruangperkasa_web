@@ -1,10 +1,11 @@
 ---
-title: "Mengapa Semen Ramah Lingkungan Sangat Penting?"
-slug: "mengapa-semen-ramah-lingkungan-sangat-penting"
-date: "2022-04-16 04:44:16"
-excerpt: "Pemicu pemanasan global adalah emisi gas karbon yang berlebih. Pada proses produksi bahan dasar beton yakni semen, ini mengakibatkan emisi gas karbon sebesar 5% dari total keseluruhan secara global. S"
-wordpress_id: 3229
-image: "/uploads/2022/04/lightbulb-g08ee7e98e_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Mengapa Semen Ramah Lingkungan Sangat Penting?"
+  slug: "mengapa-semen-ramah-lingkungan-sangat-penting"
+  date: "2022-04-16 04:44:16"
+  excerpt: "Pemicu pemanasan global adalah emisi gas karbon yang berlebih. Pada proses produksi bahan dasar beton yakni semen, ini mengakibatkan emisi gas karbon sebesar 5% dari total keseluruhan secara global. S"
+  wordpress_id: 3229
+  image: "/uploads/2022/04/lightbulb-g08ee7e98e_1280.jpg"
 ---
 
 <p>Pemicu pemanasan global adalah emisi gas karbon yang berlebih. Pada proses produksi bahan dasar beton yakni semen, ini mengakibatkan emisi gas karbon sebesar 5% dari total keseluruhan secara global. Secara presentase, hal ini sangat besar jika dibandingkan dengan industri lainnya.</p> <p>Dimulai dari proses penambangan batu kapur, proses produksi, hingga waktu distribusi. Semua proses tersebut menghasilkan emisi gas karbon. Itulah penyebab proses manufaktur semen menjadi kontributor yang cukup besar penghasil emisi gas karbon.</p> <p>Dari permasalahan tersebut, proses manufaktur semen yang lebih baik dan lebih ramah lingkungan mau tidak mau harus diambil untuk menyelesaikan problem tersebut, demi menyelamatkan bumi yang kita tinggali sekarang ini dan untuk masa depan. Oleh sebab itu, penggunaan semen ramah lingkungan menjadi pilihan utama atas jawaban dari permasalahan di atas jika Anda hendak membangun sebuah rumah.</p> <p>Penggunaan semen yang ramah lingkungan sangatlah penting, terlebih jika presentasi bangunan yang mulai dibangun di Indonesia terus meningkat dari tahun ke tahun. Pertanyaannya, apakah semen yang ramah lingkungan memiliki kualitas yang sama baiknya dengan semen konvensional pada umumnya? Menurut peneliti , semen ramah lingkungan sejauh ini memberikan hasil yang baik bedasarkan pengujian terhadap kekuatan dan daya tahan bangunan. Tak kalah dari semen konvensional, semen ramah lingkungan juga sangat berkualitas dan dapat dijadikan alternatif untuk menciptakan lingkungan yang sehat.</p> <p>Semen Beruang Perkasa dapat menjadi pilihan Anda untuk memenuhi kebutuhan semen yang ramah lingkungan untuk bangunan Anda. Selain ramah lingkungan, Semen Beruang Perkasa juga telah memiliki standar Nasional dan Internasional.<br>Hubungi tim marketing Beruang Perkasa sekarang juga untuk mendapatkan informasi dan penawaran menarik.</p>

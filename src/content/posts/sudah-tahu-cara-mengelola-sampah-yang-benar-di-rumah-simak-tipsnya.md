@@ -1,10 +1,11 @@
 ---
-title: "Sudah Tahu Cara Mengelola Sampah yang Benar di Rumah? Simak Tipsnya!"
-slug: "sudah-tahu-cara-mengelola-sampah-yang-benar-di-rumah-simak-tipsnya"
-date: "2022-11-03 08:51:02"
-excerpt: "Sampah ada sisa-sisa dari pemakaian sehari-hari yang sudah tidak digunakan lagi. Setiap hari manusia menghasilkan sampah yang dapat menumpuk dan mencemari lingkungan jika tidak dikelola dengan baik. D"
-wordpress_id: 3394
-image: "/uploads/2022/11/waste-separation-gacb0971a5_1280.jpg"
+  category: "Tips & Trick"
+  title: "Sudah Tahu Cara Mengelola Sampah yang Benar di Rumah? Simak Tipsnya!"
+  slug: "sudah-tahu-cara-mengelola-sampah-yang-benar-di-rumah-simak-tipsnya"
+  date: "2022-11-03 08:51:02"
+  excerpt: "Sampah ada sisa-sisa dari pemakaian sehari-hari yang sudah tidak digunakan lagi. Setiap hari manusia menghasilkan sampah yang dapat menumpuk dan mencemari lingkungan jika tidak dikelola dengan baik. D"
+  wordpress_id: 3394
+  image: "/uploads/2022/11/waste-separation-gacb0971a5_1280.jpg"
 ---
 
 <p>Sampah ada sisa-sisa dari pemakaian sehari-hari yang sudah tidak digunakan lagi. Setiap hari manusia menghasilkan sampah yang dapat menumpuk dan mencemari lingkungan jika tidak dikelola dengan baik. Dengan mengelola sampah secara benar dan bijak, maka Anda akan membantu mengurangi pencemaran lingkungan yang disebabkan oleh sampah. Lalu bagaimana cara mengelola sampah yang benar? Anda wajib menilik penjelasan di bawah ini.</p> <p>Sampah terdiri dari dua jenis, yaitu sampah organik dan non organik. Sampah organik adalah sampah yang dapat diurau, umumnya&nbsp;&nbsp;berasal dari sisa-sisa makanan yang telah dikonsumsi sehari-hari, atau bisa juga berasal dari sampah tumbuhan seperti daun atau batang. Sedangkan sampah non organik adalah sampah yang tidak bisa diurai seperti plastik, karet, hingga barang elektronik. Lalu bagaimana cara mengelola sampah yang baik dan benar?</p> <ul type="1"><li>Kelompokkan Tempah Sampah</li></ul> <p>Untuk memudahkan pengelompokkan jenis sampah, sediakan dua tempat sampah untuk sampah organik dan non organik. Pengelompokkan ini berguna untuk memisahkan sampah yang dapat didaur ulang atau tidak.</p> <ul><li>Olah Sampah Organik Menjadi Pupuk Kompos</li></ul> <p>Cara mengolah sampah yang dapat bermanfaat dan ramah lingkungan adalah mengolahnya menjadi pupuk kompos. Pupuk kompos dapat digunakan untuk berkebun dan menyuburkan tanah. Sampah akan lebih bermanfaat dibanding didiamkan begitu saja.</p> <ul><li>Mendaur Ulang Sampah</li></ul> <p>Bukan hanya sampah organik saja yang dapat dimanfaatkan, ternyata sampah non organik juga bisa Anda manfaatkan. Anda dapat membuat kerajinan tangan dari sampah non organik, sehingga sampah tersebut menjadi barang yang bermanfaat kembali.</p> <p>Tiga cara di atas adalah cara paling sederhana untuk mengolah sampah di rumah. Anda tidak perlu kebingungan lagi mengolah sampah di rumah.</p>

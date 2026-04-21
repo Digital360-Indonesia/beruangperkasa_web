@@ -1,10 +1,11 @@
 ---
-title: "Keuntungan Memiliki Rumah Menghadap Timur"
-slug: "keuntungan-memiliki-rumah-menghadap-timur"
-date: "2022-06-20 08:13:02"
-excerpt: "Seringkali posisi arah hadap rumah menjadi salah satu pertimbangan dalam memilih atau membangun sebuah rumah. Hal ini karena berhubungan dengan adanya rumor atau mitos dari kepercayaan tertentu, sehin"
-wordpress_id: 3278
-image: "/uploads/2022/06/house-g5ef362f0e_1280.jpg"
+  category: "Tips & Trick"
+  title: "Keuntungan Memiliki Rumah Menghadap Timur"
+  slug: "keuntungan-memiliki-rumah-menghadap-timur"
+  date: "2022-06-20 08:13:02"
+  excerpt: "Seringkali posisi arah hadap rumah menjadi salah satu pertimbangan dalam memilih atau membangun sebuah rumah. Hal ini karena berhubungan dengan adanya rumor atau mitos dari kepercayaan tertentu, sehin"
+  wordpress_id: 3278
+  image: "/uploads/2022/06/house-g5ef362f0e_1280.jpg"
 ---
 
 <p>Seringkali posisi arah hadap rumah menjadi salah satu pertimbangan dalam memilih atau membangun sebuah rumah. Hal ini karena berhubungan dengan adanya rumor atau mitos dari kepercayaan tertentu, sehingga beberapa orang sangat berhati-hati dalam memilih posisi rumah. Nah, terlepas dari mitor yang beredar, ternyata posisi rumah tertentu memiliki beberapa keuntungan jika dilihat dari segi ilmiah, contohnya saja adalah rumah yang menghadap timur.<br>Agar tidak menimbulkan banyak persepsi, yuk simak apa saja keuntungan memiliki rumah yang menghadap timur!</p> <ol><li>Dapat Melihat Matahari Terbit<br>Keuntungan pertama memiliki rumah yang menghadap timur adalah dapat melihat matahari terbit setiap pagi. Sinar matahari akan membawa suasana segar ke dalam rumah, sehingga seluruh penghuni rumah mendapatkan semangat pagi untuk memulai aktivitas.</li><li>Terhindar Dari Panas Matahari di Siang Hari<br>Saat siang hari, posisi matahari berada di atas kepala dan sangat terik. Pada jam-jam tersebut biasa suhu di permukaan sangat panas. Jika rumah Anda menghadap timur, tentu ini akan mengurangi panas teriknya matahari yang masuk ke dalam rumah Anda.</li><li>Cat Rumah Awet<br>Rumah yang menghadap timur cenderuang tidak tersorot sinar matahari secara langsung di siang hari. Karena tidak tersorot terik matahari di siang hari, cat bagian depan rumah akan lebih awet dan tahan lama.</li></ol> <p>Nah, itu dia tiga kelebihan posisi rumah yang menghadap ke timur. Menurut Sobat Beruang Perkasa seberapa pentingkah aspek tersebut? Ke arah manapun rumah Anda menghadap, pastikan tetap memakai bahan material yang berkualitas saat membangun rumah seperti Semen Beruang Perkasa. Dapatkan Semen Beruang Perkasa sekarang juga di mitra terdekat atau hubungi tim marketing kami untuk informasi lebih lanjut.</p>

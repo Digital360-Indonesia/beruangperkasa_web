@@ -1,10 +1,11 @@
 ---
-title: "Semen Putih: Kegunaan dan Keunggulannya"
-slug: "semen-putih-kegunaan-dan-keunggulannya"
-date: "2023-10-24 09:38:32"
-excerpt: "Berbeda dari semen konvensional, semen putih lebih banyak digunakan dalam pekerjaan struktural yang bersifat dekoratif, misalnya saja untuk dempul. Semen ini memiliki kandungan mangan dan besi yang ja"
-wordpress_id: 3796
-image: "/uploads/2023/10/10.-istockphoto-804350724-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Semen Putih: Kegunaan dan Keunggulannya"
+  slug: "semen-putih-kegunaan-dan-keunggulannya"
+  date: "2023-10-24 09:38:32"
+  excerpt: "Berbeda dari semen konvensional, semen putih lebih banyak digunakan dalam pekerjaan struktural yang bersifat dekoratif, misalnya saja untuk dempul. Semen ini memiliki kandungan mangan dan besi yang ja"
+  wordpress_id: 3796
+  image: "/uploads/2023/10/10.-istockphoto-804350724-612x612-1.jpg"
 ---
 
 <p>Berbeda dari semen konvensional, semen putih lebih banyak digunakan dalam pekerjaan struktural yang bersifat dekoratif, misalnya saja untuk dempul. Semen ini memiliki kandungan mangan dan besi yang jauh lebih sedikit sehingga membuatnya tampak lebih bersih dengan warna putih, bukan abu-abu gelap selayaknya&nbsp;<em>cement</em>&nbsp;biasa. Butiran&nbsp;<em>white cement</em>&nbsp;juga terasa lebih halus dibandingkan semen biasa.&nbsp;</p> <h2>Kegunaan Semen Putih&nbsp;</h2> <p>Jenis semen ini lebih banyak digunakan untuk tujuan dekoratif atau menambah nilai estetika dari bangunan tersebut. Kamu bisa menggunakan semen putih untuk tembok yang bebas retak dan tidak mudah terkelupas. Kamu bisa memanfaatkannya sebagai material acian untuk menutup pori-pori kasar pada tembok plesteran.&nbsp;</p> <p>Selain untuk dempul dan acian, kamu juga bisa lho memanfaatkan semen putih sebagai bahan campuran untuk plamir. Hasil akhirnya yang lebih halus dan rapi akan membuat tembok jadi lebih cantik. Hasil pengecatan juga akan jauh lebih mulus dengan penggunaan semen putih ini.&nbsp;</p> <h2>Kelebihan Semen Putih&nbsp;</h2> <ul><li>Aman untuk lingkungan karena tidak mengandung bahan yang berbahaya.&nbsp;</li><li>Warnanya putih cerah dan natural sehingga mampu meningkatkan nilai estetika pada hunianmu. Semen ini juga cocok untuk dinding rumah berkonsep industrial yang tak perlu dicat kembali.&nbsp;</li><li>Butirannya lebih halus dan bersih sehingga akan&nbsp;membuat&nbsp;permukaan dinding jadi jauh lebih mulus.&nbsp;</li><li>Bisa juga dimanfaatkan untuk mengisi celah pada lantai bangunan (tile grouting).&nbsp;</li><li>Dapat digunakan sebagai perekat granit pada furniture, misalnya pada kitchen island karena memiliki daya rekat yang lebih tinggi.&nbsp;</li><li><em>Waterproof</em>, cocok diaplikasikan pada tembok dengan tingkat kelembapan yang tinggi.&nbsp;</li><li>Mampu memperkuat struktur dan daya tahan tembok.&nbsp;</li><li>Mampu mengurangi resiko adanya pelapukan tembok karena paparan air.&nbsp;</li></ul> <p>Itulah beberapa kegunaan dan kelebihan yang bisa kamu dapatkan dengan menggunakan semen putih. Butuh semen putih, semen konvensional (semen portland), acian, plamir, dan semen instan? Hubungi distributornya secara langsung di:&nbsp;</p> <p><strong>Email: info@beruangperkasa.id</strong></p> <p><strong>Telp: 031-8704593 / 031-8721992 / 031-8796430</strong></p> <p><strong>Alamat : Jl. Rungkut mapan tengah 9 blok Ci no.30 Surabaya – Indonesia</strong></p> <p>Beruang Perkasa, solusi untuk setiap kebutuhan materialmu!&nbsp;</p>

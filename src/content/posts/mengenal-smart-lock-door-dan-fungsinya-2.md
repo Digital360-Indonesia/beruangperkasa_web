@@ -1,10 +1,11 @@
 ---
-title: "Mengenal Smart Lock Door dan Fungsinya"
-slug: "mengenal-smart-lock-door-dan-fungsinya-2"
-date: "2021-10-03 07:59:36"
-excerpt: "Smart Lock Door adalah sistem pengganti kunci yang digunakan untuk pengaman sebuah pintu rumah atau bangunan lainnya. Sistem keamanan menggunakan Smart Lock Door ini tidak hanya praktis, tetapi juga e"
-wordpress_id: 3024
-image: "/uploads/2021/10/smart-home-ge07c6aa28_1920.jpg"
+  category: "Tips & Trick"
+  title: "Mengenal Smart Lock Door dan Fungsinya"
+  slug: "mengenal-smart-lock-door-dan-fungsinya-2"
+  date: "2021-10-03 07:59:36"
+  excerpt: "Smart Lock Door adalah sistem pengganti kunci yang digunakan untuk pengaman sebuah pintu rumah atau bangunan lainnya. Sistem keamanan menggunakan Smart Lock Door ini tidak hanya praktis, tetapi juga e"
+  wordpress_id: 3024
+  image: "/uploads/2021/10/smart-home-ge07c6aa28_1920.jpg"
 ---
 
 <p>Smart Lock Door adalah sistem pengganti kunci yang digunakan untuk pengaman sebuah pintu rumah atau bangunan lainnya. Sistem keamanan menggunakan <em>Smart Lock Door</em> ini tidak hanya praktis, tetapi juga efisien karena memberikan keamanan yang maksimal. Berbeda dengan kunci konvensional pada umumnya, <em>Smart Lock Door</em> menggunakan teknologi modern untuk pengoperasiannya seperti sistem buka dan tutup pintu.</p> <p>Kunci konvensional yang digunakan untuk membuka dan menutup pintu seringkali dinilai kurang praktis. Sedangkan <em>Smart Lock Door</em> tidak membutuhkan kunci untuk membuka atau menutup sebuah pintu. Hal ini merupakan kemudahan yang ditawarkan, sehinggal memiliki nilai lebih dibanding kunci konvensional. Sebagai gantinya. <em>Smart Lock Door</em> membutuhkan kunci berupa <em>password</em> atau sidik jari untuk mengontrol perangkat agar dapat dibuka dan ditutup. Anda juga dapat mengganti <em>password </em>tersebut kapan saja sesuai dengan kebutuhan.</p> <p>Lalu apa manfaat <em>Smart Lock Door</em> selain lebih praktis dan efisien? <em>Smart Lock Door</em> adalah sistem keamanan yang berbasis teknologi digital yang dapat menggantikan kunci konvensional. Lalu apa perbedaannya dengan kunci konvensional? Dari segi keamanan, <em>Smart Lock Door</em> memiliki kinerja yang lebih baik karena tidak bisa dibobol oleh pencuri. Bahkan bila terjadi hal yang tidak diinginkan pun <em>Smart Lock Door</em> akan membunyikan alarm, sehingga Anda dapat mengetahuinya segera.</p> <p>Jadi dapat disimpulkan bahwa <em>Smart Lock Door</em> jauh lebih memberikan keamanan pada rumah Anda dibanding kunci konvensional. Selain itu, <em>Smart Lock Door</em> juga baik untuk dijadikan sebagai awal dari gaya hidup modern yang berbasis teknologi.</p> <p>Demikain info menarik yang dapat kami sampaikan, tetap gunakan produk Beruang Perkasa untuk keperluan pembangunan rumah Anda. Segera hubungi Beruang Perkasa jika Anda membutuhkan semen, semen putih, acian, atau material lainnya.</p>

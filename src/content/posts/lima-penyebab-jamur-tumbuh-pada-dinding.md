@@ -1,10 +1,11 @@
 ---
-title: "Lima Penyebab Jamur Tumbuh Pada Dinding"
-slug: "lima-penyebab-jamur-tumbuh-pada-dinding"
-date: "2022-12-14 13:32:06"
-excerpt: "Apa Saja 5 Tanda Anda Memiliki Jamur Di Dalam Dinding Dan Bagaimana Cara Mengatasinya? Jamur dapat merusak kesehatan keluarga Anda. Lima penyebab paling umum dari jamur termasuk air di pondasi, banjir"
-wordpress_id: 3411
-image: "/uploads/2022/12/door-gb17f55af2_1920.jpg"
+  category: "Perawatan Rumah"
+  title: "Lima Penyebab Jamur Tumbuh Pada Dinding"
+  slug: "lima-penyebab-jamur-tumbuh-pada-dinding"
+  date: "2022-12-14 13:32:06"
+  excerpt: "Apa Saja 5 Tanda Anda Memiliki Jamur Di Dalam Dinding Dan Bagaimana Cara Mengatasinya? Jamur dapat merusak kesehatan keluarga Anda. Lima penyebab paling umum dari jamur termasuk air di pondasi, banjir"
+  wordpress_id: 3411
+  image: "/uploads/2022/12/door-gb17f55af2_1920.jpg"
 ---
 
 <p>Apa Saja 5 Tanda Anda Memiliki Jamur Di Dalam Dinding Dan Bagaimana Cara Mengatasinya? Jamur dapat merusak kesehatan keluarga Anda. Lima penyebab paling umum dari jamur termasuk air di pondasi, banjir, kebocoran atap, pipa bocor dan kelembaban dan ventilasi yang buruk.</p> <p>1. Air Di Dalam Fondasi</p> <p>Waspadai penumpukan air di sekitar dasar rumah Anda. Hal ini dapat menyebabkan masalah mendasar bagi rumah Anda jika terdapat banyak air. Di pondasi rumah Anda, pengumpulan air hujan dapat dicegah dengan memiringkan halaman Anda keluar dari pondasi Anda. Dalam pemikiran yang sama, ruang bawah tanah yang lembab adalah penyebab lainnya. Biasanya, tidak ada ventilasi yang baik di ruang bawah tanah. Ini merupakan indikasi bahwa ruang bawah tanah dapat mengandung kelembapan atau kelembapan yang lebih tinggi dibandingkan dengan ruangan lain di rumah. Selain itu, ruang bawah tanah seringkali lebih dingin yang berarti lebih banyak terjadi kondensasi yang menyebabkan kelembapan dan ruang bawah tanah.</p> <p>2. Banjir</p> <p>Banjir adalah penyebab lain jamur. Masalah dengan masalah penghilangan jamur sulit dihindari jika rumah Anda mengalami banjir. Rumah Anda akan basah dan mungkin perlu beberapa saat sebelum rumah Anda menjadi kering. Butuh waktu berminggu-minggu untuk mengeringkan rumah Anda. Artinya, ada risiko besar tumbuhnya jamur. Ingatlah bahwa jamur hanya membutuhkan dua puluh empat jam sebelum pertumbuhan terjadi.</p> <p>3. Atap Bocor</p> <p>Kebocoran di atap seperti pipa yang bocor di loteng mungkin tidak terdeteksi sampai jamur tumbuh. Untuk memastikan loteng Anda dalam kondisi prima, pastikan untuk memeriksa loteng Anda secara teratur apakah ada kebocoran. Perhatikan bintik-bintik air terutama di langit-langit tepat sebelum loteng.</p> <p>4. Pipa Bocor</p> <p>Air yang bocor dari pipa adalah penyebab paling umum tumbuhnya jamur. Kebocoran terburuk adalah jenis yang tidak dapat Anda lihat, seperti di atas langit-langit atau di dalam dinding. Kebocoran yang tersembunyi jamur bernanah dan jamur mungkin sudah menyebar.</p> <p>5. Kelembaban Buruk</p> <p>Rumah yang berventilasi buruk adalah risiko jamur. Ventilasi yang kurang menciptakan kantong-kantong udara lembab dan stagnan yang akan mendorong tumbuhnya jamur. Uap dan air yang menguap menciptakan kelembapan. Ini perlu menjaga tingkat kelembaban yang seimbang untuk diedarkan di luar ruangan.</p> <p>Ingatlah bahwa kondisi tertentu diperlukan untuk pertumbuhan jamur. Pastikan Anda memeriksa lima poin di atas agar dinding Anda terhindar dari jamur. Gunakan lapisan acian instan untuk melapisi dinding Anda agar tidak mudah bocor oleh air hujan.&nbsp;</p>

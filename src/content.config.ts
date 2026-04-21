@@ -9,6 +9,7 @@ const postsCollection = defineCollection({
     date: z.string().optional(),
     excerpt: z.string().optional(),
     image: z.string().optional(),
+    category: z.string().optional(),
     wordpress_id: z.number().optional(),
   }),
 });

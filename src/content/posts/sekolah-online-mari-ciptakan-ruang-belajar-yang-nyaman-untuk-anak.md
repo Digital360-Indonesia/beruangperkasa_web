@@ -1,10 +1,11 @@
 ---
-title: "Sekolah Online? Mari Ciptakan Ruang Belajar yang Nyaman Untuk Anak"
-slug: "sekolah-online-mari-ciptakan-ruang-belajar-yang-nyaman-untuk-anak"
-date: "2021-05-03 05:25:56"
-excerpt: "Virus Corona atau biasa disebut COVID-19 ini masih menjadi pandemi seluruh rakyat dunia. Pandemi ini sudah terjadi sekitar akhir taun 2019 sampai saat ini. Kondisi tersebut membuat kita harus beradapt"
-wordpress_id: 2782
-image: "/uploads/2021/05/ruang-belajar.jpg"
+  category: "Tips & Trick"
+  title: "Sekolah Online? Mari Ciptakan Ruang Belajar yang Nyaman Untuk Anak"
+  slug: "sekolah-online-mari-ciptakan-ruang-belajar-yang-nyaman-untuk-anak"
+  date: "2021-05-03 05:25:56"
+  excerpt: "Virus Corona atau biasa disebut COVID-19 ini masih menjadi pandemi seluruh rakyat dunia. Pandemi ini sudah terjadi sekitar akhir taun 2019 sampai saat ini. Kondisi tersebut membuat kita harus beradapt"
+  wordpress_id: 2782
+  image: "/uploads/2021/05/ruang-belajar.jpg"
 ---
 
 <p>Virus Corona atau biasa disebut COVID-19 ini masih menjadi pandemi seluruh rakyat dunia. Pandemi ini sudah terjadi sekitar akhir taun 2019 sampai saat ini. Kondisi tersebut membuat kita harus beradaptasi dengan lingkungan, salah satunya New Normal yang diterapkan oleh pemerintah.</p> <p>&nbsp;&nbsp; New Normal bagi dunia pendidikan adalah seluruh siswa sekolah tetap melaksanakan pembalajaran, namun pembelajaran ini dilakukan dirumah masing-masing. Hal ini menjadi sebuah tantangan bagi orangtua, karena tidak semua anak-anak dapat belajar dengan fokus saat dirumah.</p> <p>&nbsp;&nbsp; Ada beberapa cara atau solusi untuk membuat anak-anak berkonsentrasi dalam proses belajar mengajar, salah satunya dengan menciptakan ruang belajar yang nyaman untuk proses pembelajaran.</p> <p>&nbsp;&nbsp; Nah, bagaimana caranya untuk kita menciptakan ruang belajar bagi anak-anak agar nyaman?</p> <p>1. Terapkan dasar ruang belajar</p> <p>&nbsp;&nbsp;&nbsp;&nbsp; Siapkanlah sebuah ruangan yang berada disudut atau pojok yang jauh dari kebisingan kendaraan diluar rumah. Pastikan tidak ada TV ataupun hal lain yang dapat menimbulkan konsestrasi anak buyar.</p> <p>2. Catlah tembok kamar dengan warna yang menenangkan</p> <p>&nbsp;&nbsp;&nbsp;&nbsp; Terapkan warna yang dapat menimbulkan rasa nyaman dan meningkatkan konsentrasi contohnya, tosca, biru muda, kuning muda,dll. Dan tambahan sedikit aksen minimalis pada ruang belajar.</p> <p>3. Meja dan Kursi yang nyaman</p> <p>&nbsp;&nbsp;&nbsp; Pastikan meja dan kursi untuk anak-anak belajar sudah nyaman bagi mereka. Posisi duduk mereka masih mempengaruhi proses pertumbuhan tulang, jadi pilihkan meja dan kursi yang tepat agar anak-anak nyaman dalam mengikuti pembelajaran.</p> <p>4. Cahaya ruangan</p> <p>&nbsp;&nbsp;&nbsp;&nbsp; Pastikan agar ruang belajar mempunyai pencahayaan yang cukup. Lampu utama dan lampu belajar harus memadai agar pembelajaran berjalan dengan nyaman dan lancar.</p> <p>Nah, untuk merenovasi atau membuat ruang belajar yang nyaman, pastikan Anda memilih material yang berkualitas ya. Pilihlah semen, semen instan, plamir, atau bahan acian yang bermutu dan memiliki efek jangka Panjang seperti produk Beruang Perkasa. Kami menghadirkan produk semen, semen instan, plamir, dan bahan acian dengan harga terjangkau namun memiliki kualitas nomor satu. Segera hubungi CV. Beruang Perkasa untuk mendapatkan penawaran menarik.</p>

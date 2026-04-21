@@ -1,10 +1,11 @@
 ---
-title: "Cara Mudah Menjaga Kamar Mandi Tetap Bersih"
-slug: "cara-mudah-menjaga-kamar-mandi-tetap-bersih"
-date: "2022-05-03 12:15:01"
-excerpt: "Kebersihan kamar mandi adalah hal yang mungkin bagi beberapa orang kebersihan tidak terlalu diperhatikan. Sebenarnya dalam alam bawah sadar kita kamar mandi yang bersih akan membuat kita senang. Selai"
-wordpress_id: 3235
-image: "/uploads/2022/05/modern-minimalist-bathroom-g4f9d959af_1280.jpg"
+  category: "Tips & Trick"
+  title: "Cara Mudah Menjaga Kamar Mandi Tetap Bersih"
+  slug: "cara-mudah-menjaga-kamar-mandi-tetap-bersih"
+  date: "2022-05-03 12:15:01"
+  excerpt: "Kebersihan kamar mandi adalah hal yang mungkin bagi beberapa orang kebersihan tidak terlalu diperhatikan. Sebenarnya dalam alam bawah sadar kita kamar mandi yang bersih akan membuat kita senang. Selai"
+  wordpress_id: 3235
+  image: "/uploads/2022/05/modern-minimalist-bathroom-g4f9d959af_1280.jpg"
 ---
 
 <p>Kebersihan kamar mandi adalah hal yang mungkin bagi beberapa orang kebersihan tidak terlalu diperhatikan. Sebenarnya dalam alam bawah sadar kita kamar mandi yang bersih akan membuat kita senang. Selain itu juga kamar mandi akan lebih sehat.<br>Untuk mewujudkan kamar mandi yang bersih perlu usaha untuk membersihkannya secara rutin. Ada beberapa kebiasaan yang harus diterapkan dalam rutinitas harian untuk menjaga kebersihan kamar mandi.</p> <ol><li>Mengosongkan tempat sampah di kamar mandi setiap hari. Sampah adalah salah satu sumber bakteri dan jika dibiarkan terlalu lama akan menimbulkan bau. Sedangkan dalam benak kita tempat yang bau adalah simbol tempat yang kotor dan pusat penyakit. Jadi, pastikan untuk mengosongkan tempat sampah setiap hari, agar kamar mandi selalu bersih dan bebas bau.</li><li>Menggunakan Exhaust Fan pada kamar mandi. Exhaust fan ini berfungsi untuk mempercepat pengeringan kamar mandi, mengapa? Karena bakteri akan cepat tumbuh di tempat yang lembab dan berair. Exhaust fan ini sifatnya opsional, jika ruang kamar mandi Anda tidak memiliki ventilasi baiknya Anda gunakan exhaust, jika memiliki ventilasi dengan sirkulasi udara yang bagus tidak memakai exhaust juga tidak masalah.</li><li>Bersihkan area kamar mandi setelah dipakai. Misal sehabis mandi area tersebut akan ada bekas sabun, maka siram area tersbut hingga bersih. Jika Anda habis gosok gigi, ada sisa busa pasta gigi, bersihkan area wastafel hingga bersih. Kebiasaan kecil dan detail ini sangat penting untuk selalu menjaga kamar mandi tetap bersih.</li><li>Sediakan Keranjang Pakaian Kotor jika Anda dan keluarga terbiasa menaruh baju kotor di dalam kamar mandi. Pertama, kamar mandi Anda akan terlihat lebih rapi dan tidak berantakan. Kedua, akan mempermudah jika Anda akan mencuci, tidak perlu lagi mengumpulkan baju yang berserakan. Ketiga, baju kotor yang bertahan lama akan menimbulkan bau, jika tidak ada tempat khusus, bau tersebut akan menyebar ke seluruh area kamar mandi.</li><li>Bersihkan kamar mandi secara berkala, mungkin 2 minggu sekali atau periode tertentu sesuai dengan kebutuhan dan penggunaan Anda. Gunakan obat-obat pembersih keramik, porselin, atau bisa gunakan sitrun. Selain supaya bersih, kamar mandi juga tidak licin, karena akan membahayakan pengguna kamar mandi.<br>Bagaimana menciptakan kamar mandi rumah yang kokoh dan kuat? Tentu Anda harus membangunnya dengan semen berkualitas seperti Semen Beruang Perkasa. Tunggu apa lagi? Dapatkan informasi lengkap tentang Semen Beruang Perkasa sekarang juga!</li></ol>

@@ -1,10 +1,11 @@
 ---
-title: "Ingin Renovasi Rumah? Coba Pakai Semen Instan"
-slug: "ingin-renovasi-rumah-coba-pakai-semen-instan"
-date: "2023-01-27 02:26:27"
-excerpt: "Seiring berkembangnya teknologi semua serba instan, salah satunya adalah bahan bangunan. Semen instan atau yang dikenal dengan mortar merupakan bahan bangunan yang sudah siap pakai dan hanya membutuhk"
-wordpress_id: 3454
-image: "/uploads/2023/01/istockphoto-1340466022-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Ingin Renovasi Rumah? Coba Pakai Semen Instan"
+  slug: "ingin-renovasi-rumah-coba-pakai-semen-instan"
+  date: "2023-01-27 02:26:27"
+  excerpt: "Seiring berkembangnya teknologi semua serba instan, salah satunya adalah bahan bangunan. Semen instan atau yang dikenal dengan mortar merupakan bahan bangunan yang sudah siap pakai dan hanya membutuhk"
+  wordpress_id: 3454
+  image: "/uploads/2023/01/istockphoto-1340466022-612x612-1.jpg"
 ---
 
 <p>Seiring berkembangnya teknologi semua serba instan, salah satunya adalah bahan bangunan. Semen instan atau yang dikenal dengan mortar merupakan bahan bangunan yang sudah siap pakai dan hanya membutuhkan air untuk campurannya. Di dalam semen instan sudah terdapat kandungan pasir di dalamnya, sehingga tidak membutuhkan campuran lain saat digunakan hanya menambahkan air saja. Semen ini bisa diaplikasikan untuk berbagai keperluan, mulai dari pemasangan bata atau batako, plesteran, acian, perata lantai, hingga keramik.</p> <p>Jika Anda ingin melakukan renovasi rumah dan belum pernah mencoba menggunakan semen instan, mungkin Anda bisa mencoba menggunakan semen instan/mortar. Semen instan ini memiliki keunggulan daripada semen konvensional biasanya. Berikut keunggulannya:</p> <ol type="1"><li>Kandungan Komposisi yang Konsisten</li></ol> <p>Pembuatan semen instan diaduk menggunakan mesin, sehingga campurannya teraduk rata daripada mengaduk secara manual. Begitupun juga dengan komposisi bahan yang sudah diukur sesuai takarannya.</p> <p>2. Penggunaan yang Lebih Praktis</p> <p>Seperti yang sudah dijelaskan di atas, jika Anda memakai semen instan anda tidak perlu repot mencampur material bahan lainnya, cukup menambahkan air saja saat akan digunakan.</p> <p>3. Tingkat Kerusakan/Keretakan Rendah</p> <p>Biasanya saat menggunakan semen konvensional setelah kering akan muncul sedikit keretakan di dinding, dengan menggunakan semen instan keretakan di dinding atau acian yang kasar bisa dihindari karena semen instan sudah ditambahkan filler dan bahan aditif yang mencegah timbulnya keretakan.Semen ini juga bersifat elastis,menyesuaikan dengan temperatur udara sekelilingnya sehingga efek terhadap muai susut bangunan menjadi lebih rendah.</p> <p>4. Mempersingkat Waktu <em>Finishing</em></p> <p>Jika menggunakan semen instan Anda tidak perlu plamir dinding, cukup diamplas kemudian bisa langsung proses pengecatan.</p> <p>Dari sekian keunggulan semen instan, apa anda tertarik mencobanya? Jika tertarik semen instan dapat Anda dapatkan dari produk kami Beruang Perkasa.</p>

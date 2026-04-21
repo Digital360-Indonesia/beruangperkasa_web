@@ -1,10 +1,11 @@
 ---
-title: "Tips Mengelupas Plamir Tembok dengan Mudah"
-slug: "tips-mengelupas-plamir-tembok-dengan-mudah"
-date: "2023-02-20 08:38:13"
-excerpt: "Plamir tembok berfungsi untuk meratakan permukaan tembok yang berlubang dan tidak rata. Tujuan proses plamir itu sendiri adalah untuk membantu proses pengecatan. Saat kita merasa bosan dan ingin meren"
-wordpress_id: 3476
-image: "/uploads/2023/01/istockphoto-1340466022-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Tips Mengelupas Plamir Tembok dengan Mudah"
+  slug: "tips-mengelupas-plamir-tembok-dengan-mudah"
+  date: "2023-02-20 08:38:13"
+  excerpt: "Plamir tembok berfungsi untuk meratakan permukaan tembok yang berlubang dan tidak rata. Tujuan proses plamir itu sendiri adalah untuk membantu proses pengecatan. Saat kita merasa bosan dan ingin meren"
+  wordpress_id: 3476
+  image: "/uploads/2023/01/istockphoto-1340466022-612x612-1.jpg"
 ---
 
 <p>Plamir tembok berfungsi untuk meratakan permukaan tembok yang berlubang dan tidak rata. Tujuan proses plamir itu sendiri adalah untuk membantu proses pengecatan. Saat kita merasa bosan dan ingin merenovasi rumah, tentu hal kecil yang biasanya dilakukan adaleh mengganti cat rumah. Agar pengecatan ulang warna catnya lebih cantik, harus membersihkan sisa cat sebelumnya. Untuk lebih amannya Anda perlu tahu cara mengelupas plamir tembok dengan mudah namun tetap aman. Simak penjelesannya berikut ini.</p> <p>Ada 2 macam cara untuk mengelupas plamir tembok, yaitu dengan bantuan paint remover dan dengan tiner. Sebelum melakukan proses pengelupasan, Anda wajib menyiapkan peralatannya terlebih dahulu. Seperti paint remover atau tiner sebagai media pembersih cat, kuas, sarung tangan, sekrap tangan, amplas, lap kain dan masker untuk menghindari debu cat.</p> <p>Diantara paint remover dan tiner, proses pengelupasannya plamir memang mudah. Akan tetapi tiner cenderung lebih murah dibanding paint remover.</p> <p>Berikut langkah – langkahnya :</p> <ol type="1"><li>Gunakan sarung tangan dan masker agar lebih aman.</li><li>Oleskan paint remover atau tiner menggunakan kuas pada tembok yang akan diganti catnya.</li><li>Tunggu 2 – 3 menit sampai tembok yang sudah dilapisi paint remover atau tiner menggelembung.</li><li>Kupas cat tembok yang menggelembung menggunakan sekrap tangan sambil ditekan dan terkelupas sempurna.</li><li>Bersihkan dikupas siram permukaan tembok dengan air bersih.</li><li>Setelah kering, amplas permukaan tembok agar lebih halus.</li><li>Bersikan tembok dari sisa amplas menggunakan lap.</li><li>Setelah bersih tembok bisa langsung di cat ulang.</li></ol>

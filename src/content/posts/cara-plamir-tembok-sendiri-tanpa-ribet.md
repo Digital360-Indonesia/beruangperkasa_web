@@ -1,10 +1,11 @@
 ---
-title: "Cara Plamir Tembok Sendiri Tanpa Ribet"
-slug: "cara-plamir-tembok-sendiri-tanpa-ribet"
-date: "2023-08-10 16:52:44"
-excerpt: "Plamir merupakan larutan yang berasal dari campuran kalsium, lem, dan air. Plamir biasanya juga disebut dempul.&nbsp; Fungsi plamir adalah untuk mengatasi keretakan pada dinding rumah dan mengurangi r"
-wordpress_id: 3740
-image: "/uploads/2021/06/plester-dinding-scaled.jpg"
+  category: "Bahan Bangunan"
+  title: "Cara Plamir Tembok Sendiri Tanpa Ribet"
+  slug: "cara-plamir-tembok-sendiri-tanpa-ribet"
+  date: "2023-08-10 16:52:44"
+  excerpt: "Plamir merupakan larutan yang berasal dari campuran kalsium, lem, dan air. Plamir biasanya juga disebut dempul.&nbsp; Fungsi plamir adalah untuk mengatasi keretakan pada dinding rumah dan mengurangi r"
+  wordpress_id: 3740
+  image: "/uploads/2021/06/plester-dinding-scaled.jpg"
 ---
 
 <p>Plamir merupakan larutan yang berasal dari campuran kalsium, lem, dan air. Plamir biasanya juga disebut dempul.&nbsp; Fungsi plamir adalah untuk mengatasi keretakan pada dinding rumah dan mengurangi resiko cat terkelupas. Warna cat dinding juga akan tampak lebih seragam, merata, dan bagus jika sebelumnya kamu mengaplikasikan plamir. Tidak hanya itu, plamir bisa menutup celah pada tembok sehingga permukaannya menjadi lebih rata.</p> <p>Nah ada kalanya saat kita membangun atau merenovasi hunian menginginkan agar anggaran lebih hemat. Salah satu cara menghemat budget/ anggaran adalah memplamir tembok secara mandiri. Berikut langkah – langkah yang dapat Anda tiru untuk memlamir tembok sendiri.</p> <ol type="1"><li>Membersihkan Tembok</li></ol> <p>Langkah pertama agar plamir dapat merekat adalah membersihkan permukaan tembok dari debu atau kotoran yang menempel. Jika Anda ingin mengecat ulang hunian Anda, kelupaslah dulu permukaan tembok dari sisa cat lama.</p> <p>2. Persiapkan Plamir</p> <p>Bahan plamir tembok bisa diperoleh dengan dua cara, yaitu membuat sendiri atau membelinya di toko bahan bangunan. Anda dapat membuat plamir tembok dengan mencampur kalsium, lem, dan air dalam perbandingan tertentu.</p> <p>Yang kedua, Anda dapat menggunakan plamir tembok di pasaran yang biasanya disebut plamir instan. Selain mengurangi risiko gagal dalam proses pembuatan, plamir tembok yang dijual di toko bangunan juga relatif terjangkau.</p> <p>3. Pengaplikasian Plamir</p> <p>Sebelum langsung ke proses plamir tembok, tuangkan plamir tembok pada suatu wadah agar lebih mudah digunakan. Pakailah kape, yaitu semacam alat untuk mengerik cat kering dengan bagian utama berupa besi berbentuk alas segitiga.</p> <p>Oleskan plamir tersebut dari bagian atas menuju bagian bawah dinding agar hasil plamir tembok lebih rata dan rapi. Pastikan pori-pori tembok seluruhnya tertutup dengan sempurna.</p> <p>4. Pengeringan Dinding</p> <p>Dinding yang sudah diplamir harus didiamkan minimial 1 hari 24 jam. Setelah dinding yang diplamir sudah kering, mulailah amplas permukaannya agar lebih halus lagi.</p> <p>50. Pengecatan</p> <p>Setelah melaksanakan semua tahap plamir tembok dengan benar dan berhasil dengan baik, maka pengecatan dinding bisa segera dilakukan. Tentu saja tembok yang telah dilapisi plamir jadi lebih gampang dicat dan menghasilkan warna yang terang.</p>

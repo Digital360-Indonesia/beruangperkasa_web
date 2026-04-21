@@ -1,10 +1,11 @@
 ---
-title: "Membuat Plester Dinding Mandiri"
-slug: "membuat-plester-dinding-mandiri"
-date: "2024-04-29 18:26:50"
-excerpt: "Plester dinding adalah tahapan akhir atau finishing yang dilakukan saat proses melapisi dinding rumah dengan bahan tertentu untuk menghasilkan dinding yang lebih rapi. Plester dinding dikerjakan setel"
-wordpress_id: 3990
-image: "/uploads/2023/10/2.-istockphoto-843297620-612x612-2.jpg"
+  category: "Tips & Trick"
+  title: "Membuat Plester Dinding Mandiri"
+  slug: "membuat-plester-dinding-mandiri"
+  date: "2024-04-29 18:26:50"
+  excerpt: "Plester dinding adalah tahapan akhir atau finishing yang dilakukan saat proses melapisi dinding rumah dengan bahan tertentu untuk menghasilkan dinding yang lebih rapi. Plester dinding dikerjakan setel"
+  wordpress_id: 3990
+  image: "/uploads/2023/10/2.-istockphoto-843297620-612x612-2.jpg"
 ---
 
 <p>Plester dinding adalah tahapan akhir atau finishing yang dilakukan saat proses melapisi dinding rumah dengan bahan tertentu untuk menghasilkan dinding yang lebih rapi. Plester dinding dikerjakan setelah batu pada dipasang pada dinding. Ini adalah tahapan yang penting sebab dapat membuat proses pengecatan lebih mudah, oleh sebab itu pengaplikasiannya pun tidak boleh sembarangan.</p> <p>Selain berguna untuk mempermudah proses pengecatan, plester dinding juga berguna untuk melindungi dinding dari panas terik matahari dan tetesan air hujan yang dapat menyebabkan keretakan ataupun rembesan pada tembok. Plester dindng juga dapat menambah kekuatan struktur dinding dan sebagai peredam suara bising dari luar.</p> <p>Pembuatan plester dinding sangat mudah, yaitu dengan menyipakan dua bahan utama semen dan pasir. Kedua material ini harus diaduk menggunakan air bersih secukupnya agar terikat dengan sempurna. Pastikan kualitas material yang dipilih adalah yang terbaik. Untuk semen, Anda dapat menggunakan semen Beruang Perkasa untuk hasil yang kuat dan tahan lama.</p> <p>Selain bahan, Anda juga harus menyiapkan alat untuk proses plester dinding. Alat-alat yang dibutuhkan antara lain:</p> <ol type="1"><li>Ayakan untuk menyaring pasir</li><li>Cangkul untuk mengaduk bahan plester dinding</li><li>Sendok adukan untuk menempelkan adukan plester</li><li>Lot untuk membantu pekerjaan plester agar tetap datar</li><li>Ondrong untuk&nbsp; membuat plesteran rata saat ditempelkan pada batu bata</li><li>Ember untuk membuat takaran adukan plester dinding dan untuk mengambil air saat proses penyatuan semen dan pasir</li></ol> <p>Saat membuat plester dinding, gunakan semen yang bermutu tinggi dan tahan lama seperti semen Beruang Perkasa. Kami telah terbukti kuat dan tahan lama dan digunakan untuk konstruksi berbagai jenis bangunan. Agar tidka ragu, dapatkan info lebih lengkap mengenai produk semen Beruang Perkasa dengan menghubungi kontak yang tertera pada website.</p>

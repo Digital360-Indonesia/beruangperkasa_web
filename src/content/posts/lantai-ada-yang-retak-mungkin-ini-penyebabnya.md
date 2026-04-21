@@ -1,10 +1,11 @@
 ---
-title: "Lantai Ada yang Retak, Mungkin Ini Penyebabnya"
-slug: "lantai-ada-yang-retak-mungkin-ini-penyebabnya"
-date: "2024-04-29 18:54:48"
-excerpt: "Lantai yang retak atau bolong tentu menggangu kenyaman dan penglihatan. Biasanya lantai retak disebabkan permukaan tanah yang tidak rata atau terjadi getaran kuat atau gempa. Selain itu ada faktor lai"
-wordpress_id: 3992
-image: "/uploads/2022/03/tiles-g3540b7516_1280.jpg"
+  category: "Tips & Trick"
+  title: "Lantai Ada yang Retak, Mungkin Ini Penyebabnya"
+  slug: "lantai-ada-yang-retak-mungkin-ini-penyebabnya"
+  date: "2024-04-29 18:54:48"
+  excerpt: "Lantai yang retak atau bolong tentu menggangu kenyaman dan penglihatan. Biasanya lantai retak disebabkan permukaan tanah yang tidak rata atau terjadi getaran kuat atau gempa. Selain itu ada faktor lai"
+  wordpress_id: 3992
+  image: "/uploads/2022/03/tiles-g3540b7516_1280.jpg"
 ---
 
 <p>Lantai yang retak atau bolong tentu menggangu kenyaman dan penglihatan. Biasanya lantai retak disebabkan permukaan tanah yang tidak rata atau terjadi getaran kuat atau gempa. Selain itu ada faktor lain yang menyebabkan lantai retak.</p> <ol><li>Getaran Kuat</li></ol> <p>Lantai yang retak pada umumnya dikarenakan getaran yang kuat. Tak hanya disebabkan oleh gempa, getaran tersebut juga bisa berasal dari faktor lain. Misalkan rumah yang berada di pinggir jalan raya tentu kendaraan berlalu lalang sangat banyak. Hal ini menyebabkan lantai retak karena getaran akibat mobilisasi kendaraan tersebut apalagi kendaraan dengan muatan berat.</p> <p>2. Benturan Keras</p> <p>Meskipun hal ini jarang terjadi, tetapi kita perlu waspada apabila lantai rumah kita yang tertimpa/kejatuahn benda berat. Oleh karena sebaiknya kita hati – hati jika terdapat benda atau material yang keras.</p> <p>3. Perubahan Suhu Drastis</p> <p>Perubahan suhu yang drastis juga dapat menyebabkan lantai retak. Misalkan saat musim panas kita menghidupkan AC terlalu rendah pada jangka. Hal ini menyebabkan lantai mengalami popping karena perekat lantai mengalami penyusutan sehingga memicu keretakan.</p> <p>4. Penurunan Permukaan Tanah</p> <p>Ketidakstabilan permukaan tanah berpengaruh cukup besar terhadap potensi keretakan lantai. Hal ini juga diperparah dengan pengambilan air tanah secara berlebihan</p> <p>5. Pengaplikasian Perekat Keramik yang Tidak Merata</p> <p>Pengaplikasian perekat yang tidak merata menyebabkan adanya bagian bawah lantai yang kosong dan tedapt udara didalamnya. Udara tersebut &nbsp;akan mengalami pemuaian sehingga lantai keramik ke atas yang menyebabkan keretakan.</p> <p>Setelah kita mengetahui penyebab lantai retak, tentu kita harus lebih hati – hati dalam menjaga hunian kita. Alangkah baiknya kita juga memilih material lantai dan bahan perekat yang berkhualitas. Jika Anda membutuhkan material semen, acian, dan plester, dapat Anda peroleh di Beruang Perkasa.</p>

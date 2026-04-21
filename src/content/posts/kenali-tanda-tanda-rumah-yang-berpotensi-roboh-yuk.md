@@ -1,10 +1,11 @@
 ---
-title: "Kenali Tanda-Tanda Rumah yang Berpotensi Roboh Yuk!"
-slug: "kenali-tanda-tanda-rumah-yang-berpotensi-roboh-yuk"
-date: "2021-05-17 04:21:06"
-excerpt: "Indonesia merupakan salah satu negara yang rawan terjadi bencana alam seperti tanah longsor, banjir, dan bencana lama lainnya. Menyadari hal itu, maka ada baiknya masyarakat Indonesia perlu melakukan"
-wordpress_id: 2794
-image: "/uploads/2021/05/rumah-roboh.jpg"
+  category: "Tips & Trick"
+  title: "Kenali Tanda-Tanda Rumah yang Berpotensi Roboh Yuk!"
+  slug: "kenali-tanda-tanda-rumah-yang-berpotensi-roboh-yuk"
+  date: "2021-05-17 04:21:06"
+  excerpt: "Indonesia merupakan salah satu negara yang rawan terjadi bencana alam seperti tanah longsor, banjir, dan bencana lama lainnya. Menyadari hal itu, maka ada baiknya masyarakat Indonesia perlu melakukan"
+  wordpress_id: 2794
+  image: "/uploads/2021/05/rumah-roboh.jpg"
 ---
 
 <p>Indonesia merupakan salah satu negara yang rawan terjadi bencana alam seperti tanah longsor, banjir, dan bencana lama lainnya. Menyadari hal itu, maka ada baiknya masyarakat Indonesia perlu melakukan tindakakan pencegahan untuk berjaga-jaga apabila bencana alam terjadi. Beberapa bencana alam yang sering terjadi di Indonesia antara lain gempa bumi, tsunami, banjir, dan tanah longsor. Bencana seperti ini juga dapat mengakibatkan rumah mudah roboh atau rusak. Sebelum terlambat, kenali terlebih dahulu tanda-tanda rumah yang berpotensi roboh berikut ini.</p> <ul type="1"><li>Adanya Keretakan Pada Struktur Bangunan</li></ul> <p>Keretakan adalah hal biasa yang terjadi pada struktur bangunan, terlebih bila bangunan sudah berusia tua. Keretakan bangunan bisa jadi merupakan salah satu ciri bahwa bangunan sudah tidak kokoh seperti sedia kala. Oleh sebab itu, Anda perlu waspada apabila menemukan ciri-ciri tersebut.</p> <ul><li>Bangunan Miring</li></ul> <p>Apakah Anda pernah melihat bangunan yang miring? Jika pernah, hal ini adalah pertanda bahwa ada yang tidak benar pada bangunan tersebut. Kemungkinan saat membangun kontraktor tidak memperhatikan strukur tanah sekitar yang menyebabkan bangunan menjadi miring. Bangunan yang miring jika dibiarkan terlalu lama dapat menyebabkan ambles atau roboh. Jika hal ini dialami rumah Anda, sebaiknya segera lakukan Tindakan sebelum rumah Anda roboh.</p> <p>Dua hal di atas merupakan tanda-tanda bangunan yang berpotensi roboh dan wajib Anda ketahui. Sebaiknya Anda selalu teliti terhadap kondisi rumah Anda dan selalu melakukan perawatan agar rumah tetap kokoh dan tahan lama. Untuk membangun rumah yang kokoh, sebaiknya Anda menggunakan bahan material bangunan yang berkualitas seperti semen, semen instan/semen putih, plamir, acian, dan lain-lain.</p> <p>CV. Beruang Perkasa merupakan produsen dan <em>supplier</em> yang menyediakan kebutuhan semen, semen instan/semen putih, plamir, acian, dan bahan material lainnya dengan kualitas terbaik dan harga terjangkau. Lokasi kami terletak di Surabaya dan menerima pengiriman ke luar kota. Hubungi kami segera untuk mendapatkan penawaran menarik.</p>

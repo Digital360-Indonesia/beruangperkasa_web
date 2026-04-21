@@ -1,10 +1,11 @@
 ---
-title: "Ketahui Faktor Apa Saja yang Menyebabkan Biaya Bangun Rumah Membengkak!"
-slug: "ketahui-faktor-apa-saja-yang-menyebabkan-biaya-bangun-rumah-membengkak"
-date: "2022-05-12 06:15:56"
-excerpt: "Membangun rumah membutuhkan proses yang panjang dibanding dengan membeli rumah yang sudah siap huni. Namun membangun rumah sendiri memberikan Anda kebebasan untuk merancang rumah sesuai dengan impian"
-wordpress_id: 3250
-image: "/uploads/2022/05/savings-g7ab084d63_1280.jpg"
+  category: "Tips & Trick"
+  title: "Ketahui Faktor Apa Saja yang Menyebabkan Biaya Bangun Rumah Membengkak!"
+  slug: "ketahui-faktor-apa-saja-yang-menyebabkan-biaya-bangun-rumah-membengkak"
+  date: "2022-05-12 06:15:56"
+  excerpt: "Membangun rumah membutuhkan proses yang panjang dibanding dengan membeli rumah yang sudah siap huni. Namun membangun rumah sendiri memberikan Anda kebebasan untuk merancang rumah sesuai dengan impian"
+  wordpress_id: 3250
+  image: "/uploads/2022/05/savings-g7ab084d63_1280.jpg"
 ---
 
 <p>Membangun rumah membutuhkan proses yang panjang dibanding dengan membeli rumah yang sudah siap huni. Namun membangun rumah sendiri memberikan Anda kebebasan untuk merancang rumah sesuai dengan impian Anda. Meskipun begitu, membangun rumah sendiri ternyata membutuhkan biaya yang lebih besar dibanding membeli rumah siap huni. Oleh sebab itu Anda harus mengantisipasi pembengkakan biaya yang dapat terjadi akibat beberapa faktor berikut.</p> <ol><li>Faktor Cuaca<br>Rumah adalah kebutuhan primer sebagai tempat untuk istirahat dan berteduh dari segala cuaca. Membangun rumah harus dilakukan pada waktu yang tepat agar rumah dapat dibangun tepat waktu dan tidak menyebabkan pembengkakan biaya. Terlebih jika Anda membangun rumah pada musim hujan, maka Anda harus memiliki persiapan khusus. Beri prioritas pada bagian luar rumah yang akan dibangun, sehingga saat hujan tiba pekerja dapat fokus mengerjakan rumah bagian dalam. Jika hal ini tidak dilakukan, maka pekerjaan membangun rumah akan terhambat dan menyebabkan biaya membengkak.</li><li>Tidak Ada Acuan Biaya dan Bahan Material<br>RAB atau Rencana Anggaran Biaya sangat dibutuhkan ketika hendak membangun rumah. Pada rincian ini terdapat detail biaya yang diperlukan untuk membangun rumah seperti biaya pekerja dan bahan material. RAB ini dapat berfungsi untuk mengontrol biaya pengeluaran selama membangun rumah, sehingga menghindari terjadinya pembengkakan biaya.</li><li>Tidak Menggunakan Bahan Material yang berkualitas<br>Seringkali Anda asal memilih bahan material bangunan, yang asal murah dan tidak mengetahui kualitasnya secara pasti. Hal ini sangat beresiko karena kualitas bahan material yang tidak terjamin dapat menyebabkan kerusakan bangunan dalam waktu yang singkat. Alih-alih menghemat biaya, Anda harus melakukan renovasi rumah dalam waktu dekat. Sebaiknya pilih bahan material yang berkualitas seperti Semen Beruang Perkasa.</li></ol> <p>3 faktor di atas harus Anda perhatikan baik-baik agar biaya membangun rumah Anda tidak membengkak. Pilihkan produk bahan material berkualitas seperti Semen Beruang Perkasa. Ada bisa mendapatkannya sekarang juga dengan menghubungi kami melalui email atau telepon yang tertera pada website.</p>

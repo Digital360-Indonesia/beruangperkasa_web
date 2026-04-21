@@ -1,10 +1,11 @@
 ---
-title: "Cat Tembok Mudah Luntur? Cari Tahu Penyebabnya Disini!"
-slug: "cat-tembok-mudah-luntur-cari-tahu-penyebabnya-disini"
-date: "2021-03-10 04:37:15"
-excerpt: "Cat tembok yang mudah luntur adalah masalah serius yang harus segera ditangani. Cat tembok yang luntur akan mengganggu nilai keindahan dan kenyamanan yang diberikan oleh bangunan tersebut. Terdapat be"
-wordpress_id: 2710
-image: "/uploads/2021/03/female-house-painter-paints-wall-4P8RCH3-min-scaled.jpg"
+  category: "Bahan Bangunan"
+  title: "Cat Tembok Mudah Luntur? Cari Tahu Penyebabnya Disini!"
+  slug: "cat-tembok-mudah-luntur-cari-tahu-penyebabnya-disini"
+  date: "2021-03-10 04:37:15"
+  excerpt: "Cat tembok yang mudah luntur adalah masalah serius yang harus segera ditangani. Cat tembok yang luntur akan mengganggu nilai keindahan dan kenyamanan yang diberikan oleh bangunan tersebut. Terdapat be"
+  wordpress_id: 2710
+  image: "/uploads/2021/03/female-house-painter-paints-wall-4P8RCH3-min-scaled.jpg"
 ---
 
 <p>Cat tembok yang mudah luntur adalah masalah serius yang harus segera ditangani. Cat tembok yang luntur akan mengganggu nilai keindahan dan kenyamanan yang diberikan oleh bangunan tersebut. Terdapat beberapa faktor yang menjadi penyebab cat tembok mudah luntur, antara lain sebagai berikut.</p> <ul type="1"><li>Kualitas Cat yang Kurang Baik</li></ul> <p>Penyebab pertama cat mudah luntur karena kualitas dari produk cat itu sendiri yang kurang baik atau memiliki kualitas yang rendah. Agar hasilnya bagus, sebaiknya Anda perlu mempertimbangkan mutu bahan yang dipakai sebelum memutuskan memakai cat dengan merk tertentu. Jangan sampai Anda tergiur dengan cat yang harganya lebih murah tetapi kualitasnya kurang baik atau mudah luntur.</p> <ul><li>Akibat Rembesan Hujan</li></ul> <p>Musim hujan seringkali menjadi masalah bagi sebuah hunian jika terdapat elemen yang kurang baik di dalamnya. Air hujan tidak hanya bisa masuk melalui atap, akan tetapi juga melalui celah-celah permukaan tembok. Jika air hujan dibiarkan merembes melalui permukaan tembok, maka akan mengakibarkan cat dinding rusak dan lama kelamaan warnanya akan memudar. Oleh sebab itu solusinya adalah dengan menutup rembesan air hujan pada dinding dengan semen instan dan menambahkan produk waterproof agar air tidak dapat merembes lagi.&nbsp;</p> <ul><li>Proses Pengecatan yang Kurang Benar</li></ul> <p>Salah satu penyebab cat tembok mudah luntur adalah proses pengecatan yang kurang tepat. Hal ini biasanya terjadu karena permukaan tembok dicat tanpa diberi dasarnya dulu. Untuk mengatasinya Anda dapat melakukan pengecatan ulang sesuai dengan instruksi pengecatan pada kemasan cat.</p> <ul><li>Permukaan Tembok Masih Kasar</li></ul> <p>Permukaan tembok yang masih kasar dapat disebabkan karena dinding tidak diaci dengan baik. Jika dinding yang masih kasar dipaksakan untuk dicat, maka akan menyebabkan resiko kebocoran. Sebaiknya sebelum melakukan pengecatan, Anda harus mengaci tembok terlebih dahulu dengan acian yang baik agar tembok siap untuk dicat dan mendapatkan hasil yang baik.</p> <p>Dengan melakukan 4 tips di atas, Anda dapat terhindar dari cat tembok yang mudah luntur. Pastikan Anda menggunakan produk semen instan dan acian dengan kualitas terbaik agar mendapatkan hasil yang memuaskan. Untuk Anda yang berlokasi di Surabaya dan sekitarnya, dapatkan produk semen instan dan acian dengan harga terjangkau dan berkualitas terbaik di CV. Beruang Perkasa.</p> <p>Hubungi kami melalui email dan nomer telepon yang tertera pada website kami.</p>

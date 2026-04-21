@@ -1,10 +1,11 @@
 ---
-title: "Bagaimana Cara Pasang Keramik untuk Pemula"
-slug: "bagaimana-cara-pasang-keramik-untuk-pemula"
-date: "2021-08-01 08:10:33"
-excerpt: "Penting bagi Anda untuk mengetahui cara pemasangan keramik lantai. Ini biar Anda tidak diakali oleh tukang yang lebih berpengalaman. Paling tidak, jika Anda tahu dasar-dasar pemasangan keramik, Anda p"
-wordpress_id: 2922
-image: "/uploads/2021/08/1.png"
+  category: "Bahan Bangunan"
+  title: "Bagaimana Cara Pasang Keramik untuk Pemula"
+  slug: "bagaimana-cara-pasang-keramik-untuk-pemula"
+  date: "2021-08-01 08:10:33"
+  excerpt: "Penting bagi Anda untuk mengetahui cara pemasangan keramik lantai. Ini biar Anda tidak diakali oleh tukang yang lebih berpengalaman. Paling tidak, jika Anda tahu dasar-dasar pemasangan keramik, Anda p"
+  wordpress_id: 2922
+  image: "/uploads/2021/08/1.png"
 ---
 
 <p>Penting bagi Anda untuk mengetahui cara pemasangan keramik lantai. Ini biar Anda tidak diakali oleh tukang yang lebih berpengalaman. Paling tidak, jika Anda tahu dasar-dasar pemasangan keramik, Anda pun bisa berdiskusi dengan tukang untuk memperoleh hasil akhir yang lebih baik.</p> <p>Berikut tipsnya:</p> <ul><li>Sebelum pemasangan pastikan permukaan dinding bersih dari debu dan kotoran lain. Ini berpengaruh pada daya rekat adukan terhadap keramik.</li><li>Rendam keramik kurang lebih 2-4 jam di dalam air. Posisikan vertikal guna mengurangi kadar air.</li><li>Perhatikan komposisi bahan adukan, yaitu 1:4 (atau 6) antara semen dan pasir. Bila perlu gunakan semen mortar.</li><li>Jika menggunakan perekat khusus, bahan adukan dapat langsung diaplikasikan pada dinding. Jangan lupa ratakan dengan spatula yang bergerigi. Komposisi yang tepat, tersaji pada petunjuk pemakaian.</li></ul> <p>Kelebihan Semen Instan atau semen mortar untuk pemasangan keramik:</p> <ul><li>Waktu pengerjaan lebih singkat dan mudah</li></ul> <p>Semen instan atau semen mortar dapat langsung digunakan hanya dengan dicampur air. Tidak perlu melakukan penyaringan yang dilanjutkan dengan proses pencampuran adukan semen dan pasir.</p> <ul><li>Hemat bahan</li></ul> <p>Ketebalan campuran semen instan atau semen mortar yang dibubuhkan untuk pemasangan keramik diatur menggunakan trowel gerigi. Campuran yang dipakai menjadi lebih sedikit daripada adukan semen pasir biasa.</p> <ul><li>Lebih kuat dan tahan lama</li></ul> <p>Semen instan atau semen mortar memiliki daya rekat yang kuat dan merata. Keramik tidak mudah mengalami pecah di kemudian hari. Usia pakai keramik lantai menjadi lebih panjang.</p> <ul><li>Hemat pengeluaran</li></ul> <p>Karena waktu pengerjaan yang lebih singkat, hemat bahan, kuat dan usia pakai lebih panjang, menyebabkan biaya total pengerjaan menjadi lebih rendah dibandingkan dengan menggunakan adukan semen-pasir biasa.</p> <p>Setelah kita mengetahui cara memasang keramik khususnya untuk pemula, kita pun akan menjadi lebih berhati-hati sehingga lebih hemat pengeluaran dan keramik yang dipasang akan lebih awet Alangkah baiknya kita juga memilih material lantai dan bahan perekat yang berkhualitas. Jika Anda membutuhkan material semen instan atau semen mortar, acian, dan plester, dapat Anda peroleh di CV Beruang Perkasa.</p>

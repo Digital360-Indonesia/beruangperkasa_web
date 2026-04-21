@@ -1,10 +1,11 @@
 ---
-title: "Tips Membuat Sirkulasi Udara Menjadi Lebih Sehat"
-slug: "tips-membuat-sirkulasi-udara-menjadi-lebih-sehat"
-date: "2021-10-11 06:09:43"
-excerpt: "Bagi&nbsp; sebagian orang, sirkulasi udara menjadi faktor penentu seseorang dalam memilih konsep atau bentuk huniannya. Namun sebenarnya semua orang harusnya menyadari akan pentingnya sirkulasi udara"
-wordpress_id: 3031
-image: "/uploads/2021/10/ventilasi-udara.jpg"
+  category: "Tips & Trick"
+  title: "Tips Membuat Sirkulasi Udara Menjadi Lebih Sehat"
+  slug: "tips-membuat-sirkulasi-udara-menjadi-lebih-sehat"
+  date: "2021-10-11 06:09:43"
+  excerpt: "Bagi&nbsp; sebagian orang, sirkulasi udara menjadi faktor penentu seseorang dalam memilih konsep atau bentuk huniannya. Namun sebenarnya semua orang harusnya menyadari akan pentingnya sirkulasi udara"
+  wordpress_id: 3031
+  image: "/uploads/2021/10/ventilasi-udara.jpg"
 ---
 
 <p class="has-text-align-left">Bagi&nbsp; sebagian orang, sirkulasi udara menjadi faktor penentu seseorang dalam memilih konsep atau bentuk huniannya. Namun sebenarnya semua orang harusnya menyadari akan pentingnya sirkulasi udara untuk huniannya, karena fungsinya dalam menciptakan suasana rumah sehat dan sejuk sangat dibutuhkan semua orang bukan sebagian orang saja.</p> <p class="has-text-align-left">Banyak sekali penularan penyakit terjadi sangat cepat dikarenakan sirkulasi udara yang sangat buruk. Oleh karena itu wajib hukumnya membuat space untuk sirkulasi udara dalam setiap hunian.</p> <p class="has-text-align-left">Ada beberapa cara tambahan agar sirkulasi di rumah makin baik untuk penghuninya.</p> <p class="has-text-align-left">1. Sistem ventilasi silang</p> <p class="has-text-align-left">Menggunakan sistem ventilasi silang sangat membantu menciptakan sirkulasi udara di rumah makin baik.</p> <p class="has-text-align-left">Yakni dengan memberikan dua ventilasi yang saling berhadapan di setiap ruangan, sebagai ada satu ventilasi udara pada bagian atas untuk keluarnya udara panas.</p> <p class="has-text-align-left">2. Desain hunian terbuka</p> <p class="has-text-align-left">Desain hunian terbuka akan membuat kinerja sirkulasi udara berjalan sangat maksimal dalam setiap ruangan.</p> <p class="has-text-align-left">Kamu bisa mensiasatinya dengan menggunakan desain <em>open plan</em> agar udara dapat mengalir lancar ke setiap ruangan.</p> <p class="has-text-align-left">3. Pergerakan udara konvektif</p> <p class="has-text-align-left">Udara panas sifatnya lebih ringan ketimbang udara dingin. Demi memastikan udara panas dapat keluar dan membuat sirkulasi udara di rumah makin segar dan sehat, bisa membuat <em>skylight</em> buka tutup.</p> <p class="has-text-align-left">4. Langit-langit rumah yang tinggi</p> <p class="has-text-align-left">Memastikan sirkulasi di rumah lancar dan bekerja maksimal bisa membuat langit-langit/atap rumah yang tinggi. Karena, kondisi itu akan membuat udara dapat bergerak dengan bebas dan tidak terperangkap di dalam ruangan. Atap yang tinggi juga memberikan efek suhu yang dingin, karena jarak atap dan lantai sangat jauh, sehingga panas tidak merambat sampai ke lantai.</p> <p class="has-text-align-left">Membuat sirkulasi udara yang baik di dalam rumah bukanlah masalah yang rumit. Anda hanya perlu mengusahakan 4 hal di atas untuk membantu sirkulasi udara di rumah Anda menjadi baik. Pastikan Anda membangun rumah Anda dengan bahan material yang berkualitas pula seperti semen, semen instan, acian, dan plamir Beruang Perkasa.</p>

@@ -1,10 +1,11 @@
 ---
-title: "Tips Ampuh dalam Memilih Plamir"
-slug: "tips-ampuh-dalam-memilih-plamir"
-date: "2024-06-06 16:52:48"
-excerpt: "Plamir tembok merupakan cairan putih dengan pencampuran lem, kalsium, dan air yang berfungsi untuk melapis tembok. Plamir merupakan material terpenting ketika melakukan Anda mengecat dinding. Beberapa"
-wordpress_id: 4008
-image: "/uploads/2023/12/painter-2751666_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Tips Ampuh dalam Memilih Plamir"
+  slug: "tips-ampuh-dalam-memilih-plamir"
+  date: "2024-06-06 16:52:48"
+  excerpt: "Plamir tembok merupakan cairan putih dengan pencampuran lem, kalsium, dan air yang berfungsi untuk melapis tembok. Plamir merupakan material terpenting ketika melakukan Anda mengecat dinding. Beberapa"
+  wordpress_id: 4008
+  image: "/uploads/2023/12/painter-2751666_1280.jpg"
 ---
 
 <p>Plamir tembok merupakan cairan putih dengan pencampuran lem, kalsium, dan air yang berfungsi untuk melapis tembok. Plamir merupakan material terpenting ketika melakukan Anda mengecat dinding. Beberapa produk juga memiliki fungsi anti air sehingga membuat cat tembok tidak gampang terkelupas.</p> <p>Berikut ada beberapa tips memilih plamir tembok, yamg dapat diperhatikan agar tidak salah dalam memilih plamir.</p> <p><strong>1. Perhatikan Jenis Plamir</strong></p> <p>Terdapat dua jenis plamir tembok yang ada di pasaran, yaitu akrilik dan semen putih. Kedua jenis ini pastinya memiliki keunggulan dan fungsi masing-masing. Plamir tembok akrilik dihasilkan melalui perpaduan pigmen berwarna putih, emulsi akrilik memiliki bahan aditif dan pengawet. Dasarnya plamir akrilik berbasis air. Meski berbagis air, tekstur plamir pun tetap kental seperti mentega sehingga bagus saat pengamplasan. Karena formula dibuat tidak anti air, plamir ini pun lebih baik jika digunakan untuk tembok interior.</p> <p>Sedangkan plamir semen putih tentu memiliki warna putih, warna yang dihasilkan pada semen ini berasal dari kandungan mangan dan besi dengan kuantitas yang lebih minimal dibandingkan dengan semen umumnya.</p> <p>Jika bicara mengenai daya rekat dan kualitasnya, plamir ini berkualitas tinggi dengan tekstur plamir yang lebih halus. Sehingga, umumnya semen putih ini lebih banyak dipergunakan sebagai campuran. Butiran plamir yang halus dan bersih, membuat plamir semen putih ini sanggup untuk menghaluskan permukaan tembok. Sehingga, tembok akan rapi.</p> <p><strong>2. Ketahui Kegunaan Produk</strong></p> <p>Palmir tembok memiliki fungsi utama untuk menutupi lubang-lubang tembok. Tidak hanya sampai disitu saja, plamir tembok yang baik ini mampu menutupi pori-pori kecil sekalipun yang membuat dinding akan terlihat lebih halus. Namun, Anda juga perlu untuk mempertimbangkan keunggulan lain dari plamir tembok seperti jumlah lapisan, waktu pengeringan, dan anti air.</p> <p><strong>3. Perhatikan Daya Sebar Plamir</strong></p> <p>Umumnya, daya sebar plamir yang diaplikasikan pada satu tembok akan berbeda dengan tembok lainnya. Daya sebar plamir ini bisanya dipengaruhi keadaan dari permukaan tembok dan daya serap tembok. Sebagai panduan, satu kilo plamir dapat digunakan untuk satu lapisan saja pada tembok, dengan daya sebar mencapai tiga sampai empat meter persegi. Daya sebar ini pula bergantung kepada daya serap serta kondisi tembok.</p>

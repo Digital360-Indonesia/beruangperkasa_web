@@ -1,10 +1,11 @@
 ---
-title: "Ini Dia Ciri-Ciri Tukang Bangunan Rumah yang Baik"
-slug: "ini-dia-ciri-ciri-tukang-bangunan-rumah-yang-baik"
-date: "2022-05-03 12:42:37"
-excerpt: "Di jaman yang sudah modern, namun kendala mencari tukang bangunan yang bagus masih sangat sulit. Sedangkan kebutuhan akan tukang tersebut selalu ada. Keluhan yang sering terjadi soal tukang bangunan a"
-wordpress_id: 3241
-image: "/uploads/2022/05/building-ga5e5fc2df_1280.jpg"
+  category: "Renovasi & Konstruksi"
+  title: "Ini Dia Ciri-Ciri Tukang Bangunan Rumah yang Baik"
+  slug: "ini-dia-ciri-ciri-tukang-bangunan-rumah-yang-baik"
+  date: "2022-05-03 12:42:37"
+  excerpt: "Di jaman yang sudah modern, namun kendala mencari tukang bangunan yang bagus masih sangat sulit. Sedangkan kebutuhan akan tukang tersebut selalu ada. Keluhan yang sering terjadi soal tukang bangunan a"
+  wordpress_id: 3241
+  image: "/uploads/2022/05/building-ga5e5fc2df_1280.jpg"
 ---
 
 <p>Di jaman yang sudah modern, namun kendala mencari tukang bangunan yang bagus masih sangat sulit. Sedangkan kebutuhan akan tukang tersebut selalu ada. Keluhan yang sering terjadi soal tukang bangunan adalah hasil pekerjaan yang kurang, tidak sesuai yang diharapkan, sengaja diperlambat, banyak bahan bangunan yang hilang.<br>Beberapa ciri yang bisa dijadikan acuan untuk melihat bagusnya tukang bangunan sehingga Anda tidak kecewa nantinya.</p> <ol><li>Dilihat dari karakter<br>Karakter tukang bangunan adalah hal yang cukup penting untuk dilihat, apakah orang tersebut dapat bertanggung jawab dengan pekerjaannya, terutama untuk buruh harian. Yang kadang terjadi adalah tukang tersebut mengambil pekerjaan namun ditengah jalan ada pekerjaan lain yang ditawarkan, dan si tukang memilih mengerjakan pekerjaan lain, namun tidak menyelesaikan pekerjaan yang awal. Yang kedua Anda lihat orang tersebut clepto atau tidak.</li><li>Keahlian tukang bangunan<br>Keahlian tukang ini sebenarnya wajib hukumnya. Sebenarnya asal hasil pekerjaannya tidak terlalu buruk itu tidak masalah. Karena mencari tukang yang benar-benar profesional akan sangat susah. Kalaupun ada biasanya jauh lebih mahal, dan hasilnya pun tidak sejauh perbedaan harganya.</li><li>Pengalaman tukang bangunan<br>Mencari tukang yang berpengalaman bisa Anda dapatkan dari rekan, saudara, dll. Yang perlu Anda lihat adalah hasil pekerjaannya, bukan katanya orang. Karena setiap orang memiliki tingkat kepuasan pekerjaan sendiri-sendiri. Jika Anda lihat hasil pekerjaannya bagus, maka Anda bisa memakai jasa tukang tersebut.</li><li>Upah tukang bangunan<br>Untuk masalah upah ini sangat relatif, ada tipikal orang harga mahal tidak masalah asal hasil bagus, ada pula kualitas harus bagus namun upah juga dipertimbangkan, ada pula kualitas bagus harga harus paling minim. Tiap orang akan menilai berbeda-beda. Intinya jika Anda cocok dengan cara kerja, hasil kerja, dan Anda mampu dan berkenan membayar dengan upah yang diminta, tukang tersebut boleh dipercaya.</li></ol> <p>Membangun rumah tentu harus disertai dengan perencanaan yang matang. Selain tukang bangunan, memilih bahan material untuk bangunan juga tidak kalah penting. Anda dapat memilih semen, semen instan, perekat bata, milik Beruang Perkasa. Kami menyediakan layanan konsultasi untuk kebutuhan pembangunan bangunan Anda. Tunggu apa lagi? Hubungi kami sekarang juga!</p>

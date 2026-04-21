@@ -1,10 +1,11 @@
 ---
-title: "Berikut Cara Membuat Semen Ekspos yang Kuat"
-slug: "berikut-cara-membuat-semen-ekspos-yang-kuat"
-date: "2022-11-07 07:42:51"
-excerpt: "Semen Ekspose adalah semen yang digunakan sebagai lapisan dinding, lantai, tiang, dan lainnya. Dibanding semen biasa, semen ekspose memiliki kelebihan fungsi artistik untuk sebuah bangunan. Semen eksp"
-wordpress_id: 3397
-image: "/uploads/2022/11/stair-ge02b5afec_1920.jpg"
+  category: "Bahan Bangunan"
+  title: "Berikut Cara Membuat Semen Ekspos yang Kuat"
+  slug: "berikut-cara-membuat-semen-ekspos-yang-kuat"
+  date: "2022-11-07 07:42:51"
+  excerpt: "Semen Ekspose adalah semen yang digunakan sebagai lapisan dinding, lantai, tiang, dan lainnya. Dibanding semen biasa, semen ekspose memiliki kelebihan fungsi artistik untuk sebuah bangunan. Semen eksp"
+  wordpress_id: 3397
+  image: "/uploads/2022/11/stair-ge02b5afec_1920.jpg"
 ---
 
 <p>Semen Ekspose adalah semen yang digunakan sebagai lapisan dinding, lantai, tiang, dan lainnya. Dibanding semen biasa, semen ekspose memiliki kelebihan fungsi artistik untuk sebuah bangunan. Semen ekspose dapat dibuat sendiri asalkan Anda melakukan seluruh proses pembuatannya dengan benar. Selaim itu, semen ekspose juga digunakan sebagai finishing agar lapisan tampak lebih indah. Lalu bagaimana cara membuat semen ekspose? Simak penjelasannya berikut ini.</p> <ul type="1"><li>Teknik Kamprot</li></ul> <p>Teknik ini digunakan untuk finishing yang memerlukan hasil permutaan kasar dan lembut. Permukaan kasar atau lembut tergantung dari pasir yang digunakan sebagai bahan campuran. Teknik ini dapat dilakukan dengan dua cara, yaitu secara manual dan dengan mesin. Anda dapat memilih cara pembuatannya sesuai dengan kebutuhan Anda.</p> <ul><li>Teknik Garuk</li></ul> <p>Geknik garuk menghasilkan permukaan yang hasilnya sesuai dengan alat yang digunakan. Alat yang digunakan pada tekni ini adalah papan yang dibentuk sesuai selera. Jika Anda menggunakan teknik ini, maka dibutuhkan ketelatenan agar hasilnya dapat maksimal.</p> <ul><li>Teknik Acian</li></ul> <p>Jika Anda ingin menghias dinding dengan semen ekspos, maka Anda dapat menggunakan teknik acian agar menghasilkan warna abu-abu dan permukaan yang lembut. Namun dalam praktiknya, teknik ini membutuhkan ketelitian yang tinggi untuk semua prosesnya.</p> <ul><li>Semen Ekspos pada Lantai</li></ul> <p>Semen ekspos tidak hanya dapat digunakan pada dinding, tapi juga bisa digunakan untuk menghaluskan lantai dasar.</p> <p>Pengaplikasian semen ekspose sangat beragam untuk segala jenis lapisan, termasuk untuk dindimg dapur, kamar mandi,atau pun dinding luar agar terlihat lebih artsistik.</p> <p>Tertarik dengan semen ekspose? Anda dapat mencobanya sekarang! Konsultasikan kebutuhan Anda kepada Beruang Perkasa sekarang juga dan dapatkan penawaran menarik!</p>

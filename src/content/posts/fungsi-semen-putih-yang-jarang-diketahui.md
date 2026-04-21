@@ -1,10 +1,11 @@
 ---
-title: "Fungsi Semen Putih Yang Jarang Diketahui"
-slug: "fungsi-semen-putih-yang-jarang-diketahui"
-date: "2021-11-01 03:30:12"
-excerpt: "Pada dasarnya, ada dua jenis semen berdasarkan warnanya. Ada semen biasa dikenal yaitu warna abu-abu dan ada semen putih. Alasan utamanya adalah seiring perkembangan kebutuhan konsumen. Warna putih me"
-wordpress_id: 3057
-image: "/uploads/2021/11/abandoned-g15953aa8b_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Fungsi Semen Putih Yang Jarang Diketahui"
+  slug: "fungsi-semen-putih-yang-jarang-diketahui"
+  date: "2021-11-01 03:30:12"
+  excerpt: "Pada dasarnya, ada dua jenis semen berdasarkan warnanya. Ada semen biasa dikenal yaitu warna abu-abu dan ada semen putih. Alasan utamanya adalah seiring perkembangan kebutuhan konsumen. Warna putih me"
+  wordpress_id: 3057
+  image: "/uploads/2021/11/abandoned-g15953aa8b_1280.jpg"
 ---
 
 <p>Pada dasarnya, ada dua jenis semen berdasarkan warnanya. Ada semen biasa dikenal yaitu warna abu-abu dan ada semen putih.</p> <p>Alasan utamanya adalah seiring perkembangan kebutuhan konsumen. Warna putih memberikan tampilan berbeda untuk rumah Anda. Inilah mengapa semen putih sering dipakai untuk beberapa sudut ruangan.</p> <p>Apa saja fungsi semen putih yang perlu Anda ketahui.</p> <ul><li>Untuk Interior Rumah</li></ul> <p>Alasan utamanya adalah warna putih yang bisa didapatkan dari semen ini membuat tampilan dinding interior lebih mudah dilapis cat sesuai kebutuhan. Bandingkan dengan semen abu-abu yang pastinya terkesan gelap/kusam.</p> <ul><li>Multifungsi</li></ul> <p>Fungsi kedua dari semen putih adalah mampu digunakan untuk berbagai macam konstruksi. Bisa digunakan pembuatan acian ataupun <em>finishing</em>.</p> <ul><li>Lebih Ekonomis</li></ul> <p>Mengenai harga, semen putih memang lebih mahal daripada semen biasa. Namun jika Anda pakai semen putih sebagai <em>finishing</em> plesteran dan hasil <em>finishing</em> bagus (rata dan rapi), maka tidak perlu dilapis plamir. Hal ini justru akan menghemat waktu kerja dan biaya plamir. Jadi Anda bisa langsung aplikasikan cat dasar, justru ini akan menambah keuntungan lagi yaitu cat dinding dijamin tidak akan mudah rontok. Yang kita tahu penyebab cat rontok karena aplikasi plamir yang salah (plamir digunakan sebagai cat dasar). Plamir tidak tahan garam alkali yang ada pada tembok, dan jika tembok kondisi lembab maka plamir mudah rontok, cat diatas nya akan sia-sia meskipun menggunakan cat mahal.</p> <p>Itulah beberapa fungsi dari semen putih. Dikarenakan harga semen putih yang cukup mahal, jika Anda akan membangun rumah mimin menyarankan semen putih digunakan untuk <em>finishing</em> saja, untuk kontruksi sebaiknya gunakan semen biasa yang abu-abu. Hal ini akan sangat menghemat dan dengan kelebihan semen putih, konstruksi cat dinding akan lebih kuat daripada menggunakan plamir. Usahakan seminimal mungkin penggunaan plamir, tidak bagus untuk <em>durability</em> cat.</p> <p>Anda dapat memilih plamir Beruang Perkasa yang terbukti berkualitas dan terjangkau. Segera dapatkan plamir Beruang Perkasa sekarang juga!</p>

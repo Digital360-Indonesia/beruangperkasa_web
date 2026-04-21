@@ -1,10 +1,11 @@
 ---
-title: "Tips Membersihkan Noda Pada Tembok"
-slug: "tips-membersihkan-noda-pada-tembok"
-date: "2023-04-17 23:10:29"
-excerpt: "Rumah yang bersih merupakan idaman bagi semua orang, terlebih jika kita dapat merawat rumah dengan baik merupakan suatu kebanggaan. Namun terkadang tembok yang &nbsp;bagus dan bersih pasti terkena nod"
-wordpress_id: 3596
-image: "/uploads/2023/04/istockphoto-670265266-612x612-1.jpg"
+  category: "Perawatan Rumah"
+  title: "Tips Membersihkan Noda Pada Tembok"
+  slug: "tips-membersihkan-noda-pada-tembok"
+  date: "2023-04-17 23:10:29"
+  excerpt: "Rumah yang bersih merupakan idaman bagi semua orang, terlebih jika kita dapat merawat rumah dengan baik merupakan suatu kebanggaan. Namun terkadang tembok yang &nbsp;bagus dan bersih pasti terkena nod"
+  wordpress_id: 3596
+  image: "/uploads/2023/04/istockphoto-670265266-612x612-1.jpg"
 ---
 
 <p>Rumah yang bersih merupakan idaman bagi semua orang, terlebih jika kita dapat merawat rumah dengan baik merupakan suatu kebanggaan. Namun terkadang tembok yang &nbsp;bagus dan bersih pasti terkena noda baik disengaja ataupun tidak. Berikut beberapa cara untuk membersihkan noda pada tembok tanpa melakukan pengecatan ulang</p> <p>1. Buah Lemon</p> <p>Buah lemon memang banyak sekali manfaatnya. Tak hanya di bidang kuliner dan kecantikan, buah lemon bisa menjadi cara alternatif untuk membersihkan tembok tanpa perlu mengecat ulang. Dikarenakan buah lemon memang dikenal sebagai bahan pembersih alami yang ampuh. Salah satunya adalah dapat mengangkat kotoran-kotoran membandel pada dinding rumah. Berikut langkah – langkahnya :</p> <ul><li>Pertama potong buah lemon secara melintang menjadi dua bagian.</li><li>Kemudian gosokkan daging buah lemon ke permukaan dinding yang terkena noda sampai bersih.</li><li>Lap sisa gosokkan tadi mengunakan lap setengah basah atau bisa juga tidak dilap karena aroma lemon bisa jadi pengharum ruangan yang alami.</li></ul> <p>2. Jeruk Nipis</p> <p>Sama halnya dengan buah lemon, bahan dapur yang dapat menghilangkan noda adalah jeruk nipis. Kandungan jeruk nipis dengan buah lemon pun sama, sama – sama berasa masam. Caranya pun juga sama hanya dengan menggosokkan jeruk nipis yang sudah dipotong pada permukaan dinding.</p> <p>3. Bedak bayi</p> <p>Tahukah Anda jika bedak bayi dapat menhilangkan noda di tembok. Cara menghilangkan noda pada tembok cukup mudah, hanya dengan mengusapkan bedak bayi ke permukaan dinding yang kotor dengan tangan maka noda di tembok akan memudar.</p> <p>4. Pasta Gigi</p> <p>Cara menghilangkan noda di tembok selanjutnya dalah dengan bantuan pasta gigi. Selain bermanfaat untuk merawat gigi, pasta gigi ternyata ampuh untuk membersihkan noda pada dinding rumah. Jika tembok kita terkena goresan krayon, pasta gigi merupakan pilhan tepat untuk membesihkan noda tersebut. Caranya sangatlah mudah, cukup oleskan pasta gigi secukupnya pada kain lap bersih.&nbsp; Kemudian, sapukan lap pada noda di tembok. Setelah noda luntur, gunakan kain lap basah lainnya untuk membersihkan noda tersebut.</p> <p></p>

@@ -1,10 +1,11 @@
 ---
-title: "Tips Memilih Rumah yang Bebas Banjir"
-slug: "tips-memilih-rumah-yang-bebas-banjir"
-date: "2022-10-11 06:03:16"
-excerpt: "Musim hujan telah tiba sekitar bulan Oktober setiap tahunnya. Mau tidak mau, Anda akan menghadapi hujan setiap harinya. Oleh sebab itu, tidak ada salahnya jika Anda mengantisipasi akan hadirnya banjir"
-wordpress_id: 3381
-image: "/uploads/2022/10/water-g80694bec6_1280.jpg"
+  category: "Tips & Trick"
+  title: "Tips Memilih Rumah yang Bebas Banjir"
+  slug: "tips-memilih-rumah-yang-bebas-banjir"
+  date: "2022-10-11 06:03:16"
+  excerpt: "Musim hujan telah tiba sekitar bulan Oktober setiap tahunnya. Mau tidak mau, Anda akan menghadapi hujan setiap harinya. Oleh sebab itu, tidak ada salahnya jika Anda mengantisipasi akan hadirnya banjir"
+  wordpress_id: 3381
+  image: "/uploads/2022/10/water-g80694bec6_1280.jpg"
 ---
 
 <p>Musim hujan telah tiba sekitar bulan Oktober setiap tahunnya. Mau tidak mau, Anda akan menghadapi hujan setiap harinya. Oleh sebab itu, tidak ada salahnya jika Anda mengantisipasi akan hadirnya banjir yang bisa terjadi kapan saja. Banjir pada musim hujan cukup merepotkan dan merugikan, terlebih jika Anda tinggal di kawasan langganan banjir. Tentu setiap tahun Anda harus sigap mengamankan barang-barang Anda dari genangan air banjir.</p> <p>Nah, agar terhindar dari banjir sebaiknya Anda membeli atau membangun rumah di tempat yang jauh dari ancaman banjir. Berikut tips memilih rumah yang bebas banjir.</p> <ul type="1"><li>Cek Peta Rawan Banjir</li></ul> <p>Sebelum membangun atau membeli rumah, sebaiknya Anda memeriksa peta rawan banjir terlebih dahulu. Pastikan Anda mendapatkan informasi lengkap mengenai area yang akan Anda pilih sebagai tempat tinggal tersebut, apakah rawan banjir atau tidak. Dengan begitu, Anda tidak kaget apabila dikemudian hari banjir datang ke rumah Anda.</p> <ul><li>Survei Lokasi Langsung</li></ul> <p>Datang dan mellihat lokasi secara langsung adalah cara paling efektif dalam membeli sebuah rumah. Anda juga dapat bertanya kepada penduduk sekitar mengenai keadaan lingkungan tersebut, terlebih saat musim hujan. Pastikan lokasi tersebut memiliki sistem drainase yang baik, sehingga air hujan tidak akan menggenang dan menyebabkan banjir.</p> <ul><li>Perhatikan Kondisi Bangunan Rumah</li></ul> <p>Hal terpenting saat membeli rumah yang jadi atau siap huni adalah memperhatikan kondisi bangunan rumah. Anda perlu mencari tahu terlebih dahulu poin-poin apa saja yang mendukung kokohnya sebuah bangunan rumah. Selain itu, pastikan juga rumah tersebut memiliki lahan resapan air yang baik.</p> <p>Tiga hal di atas dapat Anda jadikan patokan dalam memilih rumah yang bebas dari banjir. Dengan mengikuti pedoman tersebut, Anda akan terbebas dari rumah yang sering dilanda banjir.&nbsp;</p> <p>Untuk bahan bangunan membuat rumah, pilih produk dari Beruang Perkasa seperti semen, semen instan, atau acian. Kami menyediakan produk dengan kualitas terbaik dan harga bersaing.</p>

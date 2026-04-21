@@ -1,10 +1,11 @@
 ---
-title: "Cara Ampuh Plamir Tembok dengan Tepat"
-slug: "cara-ampuh-plamir-tembok-dengan-tepat"
-date: "2024-01-23 09:45:18"
-excerpt: "Pada artikel sebelumnya, kita sudah mengetahui apa itu plamir dan jenis – jenisnya. Untuk Anda yang sedang membangun hunian dan akan memproses plamir, yuk simak cara plamir tembok dengan tepat. Bersih"
-wordpress_id: 3890
-image: "/uploads/2024/01/istockphoto-506840393-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Cara Ampuh Plamir Tembok dengan Tepat"
+  slug: "cara-ampuh-plamir-tembok-dengan-tepat"
+  date: "2024-01-23 09:45:18"
+  excerpt: "Pada artikel sebelumnya, kita sudah mengetahui apa itu plamir dan jenis – jenisnya. Untuk Anda yang sedang membangun hunian dan akan memproses plamir, yuk simak cara plamir tembok dengan tepat. Bersih"
+  wordpress_id: 3890
+  image: "/uploads/2024/01/istockphoto-506840393-612x612-1.jpg"
 ---
 
 <p>Pada artikel sebelumnya, kita sudah mengetahui apa itu plamir dan jenis – jenisnya. Untuk Anda yang sedang membangun hunian dan akan memproses plamir, yuk simak cara plamir tembok dengan tepat.</p> <ol type="1"><li>Bersihkan Tembok</li></ol> <p>Langkah pertama adalah membersihkan terlebih dahulu bagian tembok dari debu dan kotoran yang menempel agar plamir dapat melekat dengan sempurna. Kotoran yang tidak dibersihkan menyebabkan hasil plamir tidak rata. Sehingga sangat penting untuk membersihkannya terlebih dahulu sebelum dilakukan plamir. Apalagi jika tembok pernah dicat, maka pastikan bahwa sisa cat dikelupas terlebih dahulu.</p> <p>2. Memilih Plamir Tembok</p> <p>Setelah tembok dibersihkan, maka langkah selanjutnya adalah memilih jenis plamir. Pilihlah jenis plamir tembok sesuai dengan apa yang Anda butuhkan. Plamir semen putih untuk luar ruangan, dan plamir akrilik untuk dalam ruangan.</p> <p>3. Mengaplikasikan Plamir</p> <p>Plamir merupakan proses yang penting untuk menutupi semua permukaan tembok yang berlubang atau bercelah, sehingga dapat menutup permukaan tembok secara sempurna. Tuangkan adonan plamir ke dalam sebuah wadah supaya memudahkan dalam proses pengaplikasiannya. Oleskan plamir dari atas ke bawah menggunakan <em>kape</em> (alat untuk mengerok cat lama atau menambal lubang pada dinding). Lakukan pengolesan plamir secara perlahan supaya lubang pada tembok dapat tertutup secara sempurna dan hasilnya rapi.</p> <p>4. Amplas Dinding</p> <p>Setelah diplamir tunggu tembok sampai benar – benar kering. Untuk hasil maksimal tunggu sampai 24 jam. Setelah kering, maka langkah selanjutnya adalah melakukan pengamplasan. Gunakan kertas amplas yang memiliki tekstur yang lebih halus dan amplas jangan terlalu keras. Hal ini bertujuan supaya plamir tembok yang sudah kering tidak mengelupas dan rusak akibat tekstur kertas amplas yang kasar.</p> <p>5. Cek Hasil Plamir</p> <p>Setelah diamplas cek hasil akhir plamir.Pastikan bahwa tembok sudah tertutup secara sempurna dan tidak ada tekstur tembok yang bergelombang. Jika masih ada bagian tembok yang belum sempurna, maka bisa mengulang proses plamir pada bagian-bagian yang dirasa kurang sempurna.</p>

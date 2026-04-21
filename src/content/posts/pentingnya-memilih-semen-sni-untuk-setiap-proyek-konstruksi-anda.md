@@ -1,10 +1,11 @@
 ---
-title: "Pentingnya Memilih Semen SNI untuk Setiap Proyek Konstruksi Anda"
-slug: "pentingnya-memilih-semen-sni-untuk-setiap-proyek-konstruksi-anda"
-date: "2023-08-24 08:38:02"
-excerpt: "Demi menjamin kualitas dan mutu produk, pemerintah menerapkan SNI atau Standar Nasional Indonesia yang merupakan satu-satunya standar yang berlaku secara nasional. SNI ini ditetapkan oleh Badan Standa"
-wordpress_id: 3748
-image: "/uploads/2023/08/2.-SNI-Semen.jfif_.jpeg"
+  category: "Bahan Bangunan"
+  title: "Pentingnya Memilih Semen SNI untuk Setiap Proyek Konstruksi Anda"
+  slug: "pentingnya-memilih-semen-sni-untuk-setiap-proyek-konstruksi-anda"
+  date: "2023-08-24 08:38:02"
+  excerpt: "Demi menjamin kualitas dan mutu produk, pemerintah menerapkan SNI atau Standar Nasional Indonesia yang merupakan satu-satunya standar yang berlaku secara nasional. SNI ini ditetapkan oleh Badan Standa"
+  wordpress_id: 3748
+  image: "/uploads/2023/08/2.-SNI-Semen.jfif_.jpeg"
 ---
 
 <p>Demi menjamin kualitas dan mutu produk, pemerintah menerapkan SNI atau Standar Nasional Indonesia yang merupakan satu-satunya standar yang berlaku secara nasional. SNI ini ditetapkan oleh Badan Standarisasi Nasional (BSN), ada beberapa kategori produk yang wajib memenuhi SNI ini lho, salah satunya adalah semen.</p> <p>Sejak tahun 2007 silam, SNI Semen menjadi salah satu hal wajib di Indonesia karena menyangkut keamanan dan keselamatan masyarakat banyak. Peraturan mengenai hal ini sendiri tertuang dalam Peraturan Menteri Perindustrian No.35/M-IND/PER/4/2007 tentang Pemberlakuan Standar Nasional Indonesia Semen Secara Wajib.</p> <p>Hal ini tak hanya berlaku untuk semen produksi dalam negeri saja, melainkan juga untuk semen impor yang masuk ke Indonesia. Ada kurang lebih 20 standar yang diterbitkan oleh BSN terkait dengan semen, namun hanya 6 diantaranya yang sifatnya wajib. Yakni: SNI 15-3500-2004 untuk Semen Portland Campur, SNI 15-3758-2004 untuk Semen Masonry, SNI 15-0129-2004 untuk Semen Portland Putih, SNI 2049:2015 untuk Semen Portland, SNI 0302:2014 untuk Semen Portland Pozolan, dan SNI 7064:2014 untuk Semen Portland Komposit.</p> <p>Semua perusahaan yang memproduksi kategori semen diatas, wajib untuk melakukan Standarisasi Nasional Indonesia. Perusahaan tersebut juga harus memiliki SPPT-SNI Semen (Sertifikat Produk Penggunaan Tanda SNI Semen). Logo SNI juga harus dicantumkan dalam kemasan produk, sehingga masyarakat bisa melihat dan membedakan produk semen mana yang sudah SNI dan belum.</p> <p>Dengan adanya SNI ini, masyarakat tentunya akan lebih terbantu dalam memilih produk semen berkualitas. Anda juga bisa terhindar dari produk-produk semen tidak bermutu yang membahayakan keselamatan dan keamanan manusia atau lingkungan di sekitarnya.</p> <p>Bagaimanapun juga, semen nantinya akan digunakan dalam berbagai proyek konstruksi. Mutu semen memiliki pengaruh besar terhadap kualitas konstruksi itu sendiri. Jadi, jangan sampai Anda salah pilih semen ya. Pilihlah semen SNI yang sudah terjamin mutu dan kualitasnya supaya bangunan Anda lebih kokoh dan tidak mudah roboh sehingga aman dan tidak membahayakan orang di sekitar.</p> <p>Cari semen SNI? Yuk, hubungi distributor semen terpercaya, Beruang Perkasa!</p> <p>Email: info@beruangperkasa.id</p> <p>Telp: 031-8704593 / 031-8721992 / 031-8796430</p> <p>Alamat: Jl. Rungkut Mapan Tengah IX Blok Ci No.30 Surabaya – Indonesia</p>

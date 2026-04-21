@@ -1,10 +1,11 @@
 ---
-title: "Ini Dia Tips Memasang Plamir Tembok Sendiri"
-slug: "ini-dia-tips-memasang-plamir-tembok-sendiri"
-date: "2022-09-01 06:03:43"
-excerpt: "Sebagian&nbsp;orang&nbsp;mungkin masih bertanya-tanya apa itu&nbsp;plamir tembok. Plamir pada tembok&nbsp;sebenarnya&nbsp;merupakan&nbsp;bahan yang menutupi dinding sebelum dicat.&nbsp;Plamir atau ple"
-wordpress_id: 3355
-image: "/uploads/2022/09/texture-gfb73e1d49_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Ini Dia Tips Memasang Plamir Tembok Sendiri"
+  slug: "ini-dia-tips-memasang-plamir-tembok-sendiri"
+  date: "2022-09-01 06:03:43"
+  excerpt: "Sebagian&nbsp;orang&nbsp;mungkin masih bertanya-tanya apa itu&nbsp;plamir tembok. Plamir pada tembok&nbsp;sebenarnya&nbsp;merupakan&nbsp;bahan yang menutupi dinding sebelum dicat.&nbsp;Plamir atau ple"
+  wordpress_id: 3355
+  image: "/uploads/2022/09/texture-gfb73e1d49_1280.jpg"
 ---
 
 <p>Sebagian&nbsp;orang&nbsp;mungkin masih bertanya-tanya apa itu&nbsp;plamir tembok. Plamir pada tembok&nbsp;sebenarnya&nbsp;merupakan&nbsp;bahan yang menutupi dinding sebelum dicat.&nbsp;Plamir atau plester dinding biasanya berupa cairan berwarna putih yang terbuat dari campuran kalsium, lem, dan air.</p> <p><strong>Tips</strong><strong>&nbsp;</strong><strong>M</strong><strong>emasang&nbsp;</strong><strong>Plamir Tembok Sendiri</strong></p> <p>Dinding Plamir sendiri merupakan dinding halus yang biasanya bertekstur, berlubang atau tidak rata. Plamir&nbsp;pada tembok&nbsp;memudahkan pengecatan dan mempercantik tampilan dinding&nbsp;bangunan.&nbsp;Bahkan, Anda bisa dengan mudah mengecat dinding dengan cara yang benar tanpa menggunakan jasa profesional.1.&nbsp;Bersihkan dinding terlebih dahulu</p> <p>Langkah pertama ini dimaksudkan agar plester dinding menempel sempurna, karena kotoran dan debu pada dinding dapat mengurangi daya rekat plester dinding. Selain itu, tekstur debu dan kotoran dapat menyebabkan&nbsp;ketidakrataanpada permukaan dinding.</p> <p>Jika dinding sudah dicat, sebaiknya cat lama dihilangkan terlebih dahulu agar proses pengecatan selanjutnya lebih sempurna tanpa residu.2.&nbsp;Membuat Dinding Plamir</p> <p>Ada dua cara untuk&nbsp;melakukan proses&nbsp;plamir&nbsp;pada tembok yaitu dengan&nbsp;membuatnya sendiri atau membelinya dari toko perlengkapan bangunan. Anda dapat membuat&nbsp;plamir tembokdengan&nbsp;cara&nbsp;mencampurkam&nbsp;kalsium, lem dan air dengan takaran&nbsp;tertentu. Semen putih dapat digunakan&nbsp;untuk menggantikan&nbsp;kalsium, tetapi hal ini tidak dianjurkan.3.&nbsp;Tempelkan dua kumis ke dinding</p> <p>Ini adalah proses dasar&nbsp;yaitu melakukan aplikasi&nbsp;plamir langsung ke tembok bangunan. Tuang&nbsp;plair&nbsp;untuk tembok&nbsp;ke dalam mangkuk agar mudah digunakan. Gunakan jubah, sejenis alat yang mengikis cat kering, dengan bagian utama tanjung adalah besi berupa alas segitiga.</p> <p>Setelah proses pengaplikasian&nbsp;plamir atau&nbsp;plester ke dinding selesai, tunggu hingga&nbsp;semuanya&nbsp;mengering. Proses ini biasanya memakan waktu 24 jam untuk memastikan&nbsp;bahwa&nbsp;plamir sudah kering dengan sempurna.</p> <p>Proses akhir ini dimaksudkan agar permukaan dinding rata dan bebas dari lubang-lubang yang tidak tertutup seluruhnya. Selain itu, periksa tekstur dindingnya. Periksa untuk melihat apakah dindingnya halus atau masih bergelombang dan mengurangi keindahannya.</p>

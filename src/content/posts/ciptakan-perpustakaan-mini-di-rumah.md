@@ -1,10 +1,11 @@
 ---
-title: "Ciptakan Perpustakaan Mini di Rumah"
-slug: "ciptakan-perpustakaan-mini-di-rumah"
-date: "2024-04-24 16:15:21"
-excerpt: "Bagi Anda yang hobi membaca tentu salah satu impian Anda adalah memiliki perpustakaan pribadi atau mini di rumah. Hal tersebut bisa terwujud dengan memanfaatkan sedikit ruang kosong tanpa mengeluarkan"
-wordpress_id: 3970
-image: "/uploads/2024/04/istockphoto-950788034-612x612-1.jpg"
+  category: "Tips & Trick"
+  title: "Ciptakan Perpustakaan Mini di Rumah"
+  slug: "ciptakan-perpustakaan-mini-di-rumah"
+  date: "2024-04-24 16:15:21"
+  excerpt: "Bagi Anda yang hobi membaca tentu salah satu impian Anda adalah memiliki perpustakaan pribadi atau mini di rumah. Hal tersebut bisa terwujud dengan memanfaatkan sedikit ruang kosong tanpa mengeluarkan"
+  wordpress_id: 3970
+  image: "/uploads/2024/04/istockphoto-950788034-612x612-1.jpg"
 ---
 
 <p>Bagi Anda yang hobi membaca tentu salah satu impian Anda adalah memiliki perpustakaan pribadi atau mini di rumah. Hal tersebut bisa terwujud dengan memanfaatkan sedikit ruang kosong tanpa mengeluarkan banyak biaya. Simak beberapa tipsnya.</p> <p><br>1. Tentukan Letak Perpustakaan</p> <p>Hal pertama yang harus dilakukan adalah menentukan letak atau posisi. Jika ruang kosong yang Anda miliki luas, maka dapat mengatur letak furniture seperti rak, kursi, dan meja dengan leluasa. Jika ruang kosong yang Anda miliki terbatas, maka pilihan terbaik adalah menata rak yang menempel di dinding.</p> <p><br>2. Atur Tempat Duduk yang Nyaman</p> <p>Salah satu penyebab betah membaca adalah posisi duduk yang nyaman. Pilihlah tempat duduk terbaik sesuai dengan kondisi perpustakaan Anda. Jika ruangannya luas sediakan meja dan kursi duduk yang nyaman. Atau jika Anda lebih suka lesehan, sediakan meja kecil dan bantal lesehan yang empuk.<br><br>3. Tentukan Jenis dan Letak Rak Buku<br>Untuk menyimpan semua koleksi buku, pastinya kamu membutuhkan rak buku. Jika kamu ingin tampilan minimalis tanpa rak buku besar, kamu bisa menggunakan beberapa rak buku gantung. Lalu lakukan instalasi di bagian yang cukup tinggi. Gunakan rak-rak buku gantung ini untuk menutup semua bagian dinding.<br><br>4. Tata Buku Sesuai Kategori Tertentu<br>Jika koleksi buku Anda banyak, tata koleksi buka Anda sesuai kategori agar tidak menyulitkan dan tidak menjadi berantakan saat akan dibaca. Tata berdasarkan urutan abjad ataupun kategori buku seperti fiksi dan non fiksi. Bisa juga ditata berdasarkan warna sampul buku agar terlihat lebih seragam.<br><br>5. Tingkatkan Pencahayaan<br>Untuk membaca buku, diperlukan pencahayaan yang cukup agar mata tidak cepat lelah. Jika pencahayaan di perpustakaan tersebut tidak baik, maka resikonya Kesehatan mata berkurang. Tingkatkan kualitas pencahayaan di perpustakaan mini Anda. Untuk menimbulkan kesan luas dan terang, kamu bisa menggunakan warna-warna netral. Misalnya putih, abu-abu, muda atau warna-warna pastel. Tambahkan pencahayaan dengan lampu baca, lampu gantung, atau memiliki jendela dan ventilasi yang baik.<br><br><br><br><br></p>

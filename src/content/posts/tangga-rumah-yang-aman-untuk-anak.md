@@ -1,10 +1,11 @@
 ---
-title: "Tangga Rumah yang Aman Untuk Anak"
-slug: "tangga-rumah-yang-aman-untuk-anak"
-date: "2022-06-27 08:14:30"
-excerpt: "Memiliki hunian lebih dari satu lantai merupakan kebutuhanuntuk saat ini. Terlebih jika Anda tinggal di kota besar yang padat penduduk. Dengan keterbatasan lahan dan kepadatanpenduduk maka memiliki ru"
-wordpress_id: 3285
-image: "/uploads/2022/06/interior-ge17fa066f_1280.jpg"
+  category: "Tips & Trick"
+  title: "Tangga Rumah yang Aman Untuk Anak"
+  slug: "tangga-rumah-yang-aman-untuk-anak"
+  date: "2022-06-27 08:14:30"
+  excerpt: "Memiliki hunian lebih dari satu lantai merupakan kebutuhanuntuk saat ini. Terlebih jika Anda tinggal di kota besar yang padat penduduk. Dengan keterbatasan lahan dan kepadatanpenduduk maka memiliki ru"
+  wordpress_id: 3285
+  image: "/uploads/2022/06/interior-ge17fa066f_1280.jpg"
 ---
 
 <p>Memiliki hunian lebih dari satu lantai merupakan kebutuhanuntuk saat ini. Terlebih jika Anda tinggal di kota besar yang padat penduduk. Dengan keterbatasan lahan dan kepadatanpenduduk maka memiliki rumah lebih dari satu lantai adalah opsi terbaik. Selain itu juga menghemat biaya pembelian lahanyang cukup tinggi menjadi faktor yang cukup besar pula.</p> <p>Jika&nbsp;Anda&nbsp;adalah&nbsp;pasangan&nbsp;muda&nbsp;yang&nbsp;baru&nbsp;menikah,&nbsp;makaAnda&nbsp;juga&nbsp;harus&nbsp;pikirkan&nbsp;tangga&nbsp;di&nbsp;rumah&nbsp;Anda.&nbsp;Pada&nbsp;umumnyapasangan&nbsp;muda&nbsp;akan&nbsp;memiliki&nbsp;anak.&nbsp;Anda&nbsp;dan&nbsp;saya&nbsp;pastisepakat&nbsp;bahwa&nbsp;anak&nbsp;harus&nbsp;dijaga&nbsp;betul&nbsp;keselamatannya.</p> <p>Anak-anak memiliki faktor resiko kecelakaan di tangga yang cukup besar, hal ini karena keaktifan anak yang lebih besardibanding orang dewasa, selain itu kemampuan dan pemahamanyang kurang akan resiko yang dihadapi. Untuk itu ada beberapahal yang bisa orang tua lakukan untuk meminimalkan resikokecelakaan anak.</p> <p>1. Buat <em>handrail</em> tambahan</p> <p><em>Handrail</em> ini dibuat supaya anak bisa memegang sendiri handle tangga ketika naik atau turun tangga, tentunya untuk awalpengenalan harus didampingi orang tua.</p> <p>2. Jeruji tangga yang rapat</p> <p>Postur tubuh anak yang masih kecil membuat anak bisamemasuki area-area yang sempit, yang tentunya hal initerkadang tidak terduga oleh orang tua. Pemasangan jerujipembatas tangga harus dibuat rapat untuk menghindari anak bisamenerobos pembatas tangga, tentunya hal ini sangat berbahayauntuk keselamatan anak.</p> <p>3. Pagar pada tangga</p> <p>Pada tahap usia anak belajar berjalan, biasanya keaktifan anakakan bertambah. Dan terkadang orang tua merasa lelah sehinggaanak dibiarkan untuk beraktifitas sampai orang tua lalaimengawasi si anak. Untuk itu disarankan untuk memasang pagardi depan tangga, supaya anak tidak bisa memasuki tangga tanpasepengetahuan orang tua ataupun penjaganya.</p> <p>Pastikan untuk selalu memilih bahan material bangunan yang berkualitas seperti semen, semen instan, plamir, dan pengeras beton Beruang Perkasa. Dapatkan informasi lebih lanjut melalui email dan kontak yang terdapat pada website Beruang Perkasa.</p>

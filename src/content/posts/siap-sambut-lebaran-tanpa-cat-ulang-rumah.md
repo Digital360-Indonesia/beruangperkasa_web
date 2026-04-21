@@ -1,10 +1,11 @@
 ---
-title: "Siap Sambut Lebaran Tanpa Cat Ulang Rumah"
-slug: "siap-sambut-lebaran-tanpa-cat-ulang-rumah"
-date: "2024-03-26 18:52:51"
-excerpt: "Tak terasa kita sudah melewati bulan Ramadhan selama dua pekan dan hari lebaran sebentar lagi. Tentu saat lebaran banyak tamu yang akan berkunjung ke rumah. Tak jarang kita juga menyiapkan suasana bar"
-wordpress_id: 3947
-image: "/uploads/2024/03/istockphoto-1295250677-612x612-1.jpg"
+  category: "Bahan Bangunan"
+  title: "Siap Sambut Lebaran Tanpa Cat Ulang Rumah"
+  slug: "siap-sambut-lebaran-tanpa-cat-ulang-rumah"
+  date: "2024-03-26 18:52:51"
+  excerpt: "Tak terasa kita sudah melewati bulan Ramadhan selama dua pekan dan hari lebaran sebentar lagi. Tentu saat lebaran banyak tamu yang akan berkunjung ke rumah. Tak jarang kita juga menyiapkan suasana bar"
+  wordpress_id: 3947
+  image: "/uploads/2024/03/istockphoto-1295250677-612x612-1.jpg"
 ---
 
 <p>Tak terasa kita sudah melewati bulan Ramadhan selama dua pekan dan hari lebaran sebentar lagi. Tentu saat lebaran banyak tamu yang akan berkunjung ke rumah. Tak jarang kita juga menyiapkan suasana baru dan sampai melakukan pengecatan ulang dinding. Nah bagi Anda yang cat dindingnya masih layak tapi tetap ingin tampilan rumah baru dan segar, berikut tipsnya:</p> <p><strong>1. Dekorasi Dinding dengan DIY</strong></p> <p>https://geo.dailymotion.com/player/xdgu3.html?video=x8556mc&amp;actionInfo=false&amp;mute=true&amp;dmPubtool=new-cdn-ce-v2 Cara menyegarkan tampilan rumah tanpa renovasi yang pertama, bisa memanfaatkan majalah-majalah lama dan guntingan gambar yang sudah tidak di gunakan lagi. Tempelkan gambar yang diinginkan menggunakan lem pada dinding. Anda juga bisa tambahkan hiasan dinding seperti lukisan atau hiasan yang <em>aesthetic</em>. Atau juga bisa menambahkan lukisan-lukisan ilustrasi berukuran kecil yang digantung di dinding.</p> <p><strong>2. Mengganti Susunan Furnitur Rumah</strong></p> <p>Cara selanjutnya adalah dengan mengganti susunan furnitur di rumah. Anda bisa mengubah atau menukar letak furnitur-furnitur agar penampilan rumah terlihat berbeda. Selain mengganti susunan furniturtambahkan juga benda-benda dekoratif, seperti bantal kursi, karpet, atau gorden. Pilihlah warna dan corak yang baru, atau mencoba warna yang berbeda dari karpet atau tirai yang sebelumnya digunakan.</p> <p><strong>3. Menambahkan Tanaman Hias </strong></p> <p>Tanaman hias dapat menambah pada rumah. Anda bisa memasang tanaman hias di dalam rumah untuk menyegarkan tampilan rumah tanpa renovasi. Letakkan tanaman hias kecil di meja makan, meja tamu, dan dapur. Sedangkan tanaman yang agak besar bisa diletakkan di teras rumah atau ruang tamu. Pilihlah tanaman hias, buah orkid, atau tanaman yang kecil sehingga mudah dirawat. Tanaman dapat memberikan kenyamanan pada penghuni rumah dengan udara yang lebih segar dan alami.</p>

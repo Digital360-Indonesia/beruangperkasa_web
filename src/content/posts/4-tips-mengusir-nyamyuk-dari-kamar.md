@@ -1,10 +1,11 @@
 ---
-title: "4 Tips Mengusir Nyamyuk Dari Kamar"
-slug: "4-tips-mengusir-nyamyuk-dari-kamar"
-date: "2022-04-24 10:29:18"
-excerpt: "Kamar adalah ruangan pribadi yang berfungsi sebagai tempat istirahat dan melakukan banyak aktivitas. Oleh sebab itu, kamar harus selalu rapi dan bersih sehingga membuat penghuninya betah dan nyaman be"
-wordpress_id: 3232
-image: "/uploads/2022/04/mosquito-g85e757981_1280.jpg"
+  category: "Tips & Trick"
+  title: "4 Tips Mengusir Nyamyuk Dari Kamar"
+  slug: "4-tips-mengusir-nyamyuk-dari-kamar"
+  date: "2022-04-24 10:29:18"
+  excerpt: "Kamar adalah ruangan pribadi yang berfungsi sebagai tempat istirahat dan melakukan banyak aktivitas. Oleh sebab itu, kamar harus selalu rapi dan bersih sehingga membuat penghuninya betah dan nyaman be"
+  wordpress_id: 3232
+  image: "/uploads/2022/04/mosquito-g85e757981_1280.jpg"
 ---
 
 <p>Kamar adalah ruangan pribadi yang berfungsi sebagai tempat istirahat dan melakukan banyak aktivitas. Oleh sebab itu, kamar harus selalu rapi dan bersih sehingga membuat penghuninya betah dan nyaman berada di kamar. Namun tak jarang kamar menjadi tidak nyaman karena adanya banyak nyamuk yang mengganggu dan dapat membahayakan kesehatan. Kamar seringkali dijadikan sarang nyamuk karena ruangan yang mungkin terlalu gelap dan lembab. Berikut tips mengusir nyamuk dari kamar yang patut Anda coba.</p> <ol><li>Tutup akses masuk nyamuk<br>Saat sore menjelang malam datang, pastikan Anda tiak lupa untuk menutup seluruh pintu dan jendela kamar Anda agar nyamuk tidak dapat masuk. Jika Anda menemukan celah atau lubang yang masih belum tertutup, sebaiknya Anda segera menutupnya dengan kawat nyamuk untuk meminimalisir nyamuk yang masuk ke kamar.</li><li>Pasang Ultrasonik Serangga<br>Cara kedua yang bisa digunakan untuk mengusir nyamuk dari kamar adalah dengan memasang ultrasonik serangga. Alat ini bekerja dengan cara mengeluarkan suara pada frekuensi tertentu yang hanya dapat didengar oleh serangga, termasuk nyamuk. Cara ini cukup ampuh untuk mengusir nyamuk dari kamar.</li><li>Gunakan Obat Pembasmi Nyamuk<br>Setelah menutup seluruh pintu dan jendela, sebelum tidur ada baiknya Anda menyemprotkan obat nyamuk yang beredar di pasaran ke area yang berpotensi menjadi sarang nyamuk seperti gantungan baju, sela lemari, bawah kasur, dan lain-lain. Kemudian tutup kamar Anda dan biarkan obat nyamuk bekerja. Pastikan obat nyamuk tidak terhirup oleh Anda dan anggota keluarga Anda.</li><li>Jaga Kebersihan Kamar<br>Salah satu penyebab kamar menjadi sarang nyamuk adalah karena kebersihan kamar yang tidak terjaga. Mungkin kamar Anda dalam keadaan lembab atau gelap dan juga terdapat banyak debu dan barang berserakan yang jarang dirapikan dan dibersihkan. Hal seperti inilah yang menyebabkan nyamuk bersarang di kamar Anda dan membuat kamar Anda tidak nyaman. Sebaiknya bersihkan kamar setiap hari dan hindari menyimpan terlalu banyak barang di dalam kamar.</li></ol> <p>Nah, 4 tips di atas dapat Sobat Beruang Perkasa praktikkan untuk mengusir nyamuk dari kamar, sehingga kamar Anda menjadi nyaman untuk beristirahat.</p> <p>Selalu gunakan produk bahan material berkualitas seperti Semen Beruang Perkasa. Hubungi tim marketing Beruang Perkasa untuk penawaran menarik.</p>

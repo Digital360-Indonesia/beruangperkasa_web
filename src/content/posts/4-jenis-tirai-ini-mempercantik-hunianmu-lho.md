@@ -1,10 +1,11 @@
 ---
-title: "4 Jenis Tirai Ini Mempercantik Hunianmu Lho"
-slug: "4-jenis-tirai-ini-mempercantik-hunianmu-lho"
-date: "2023-01-10 08:01:11"
-excerpt: "Mempercantik bagian jendela rumah salah satunya dapat dilakukan dengan memilih tirai atau gorden jendela yang cocok dan sesuai dengan lingkungan rumah. Pemilihan tirai atau gorden jendela ini gampang-"
-wordpress_id: 3444
-image: "/uploads/2023/01/inside-g59db4c7b1_1920.jpg"
+  category: "Inspirasi Rumah"
+  title: "4 Jenis Tirai Ini Mempercantik Hunianmu Lho"
+  slug: "4-jenis-tirai-ini-mempercantik-hunianmu-lho"
+  date: "2023-01-10 08:01:11"
+  excerpt: "Mempercantik bagian jendela rumah salah satunya dapat dilakukan dengan memilih tirai atau gorden jendela yang cocok dan sesuai dengan lingkungan rumah. Pemilihan tirai atau gorden jendela ini gampang-"
+  wordpress_id: 3444
+  image: "/uploads/2023/01/inside-g59db4c7b1_1920.jpg"
 ---
 
 <p>Mempercantik bagian jendela rumah salah satunya dapat dilakukan dengan memilih tirai atau gorden jendela yang cocok dan sesuai dengan lingkungan rumah. Pemilihan tirai atau gorden jendela ini gampang-gampang sudah, karena ada banyak sekali jenis model dan warna yang menimbulkan kesan yang berbeda saat diaplikasikan. Untuk mempermudah Anda memilih tirai yang cocok untuk jendela rumah Anda, berikut ini adalah 5 jenis tirai rumah yang harus Anda ketahui.</p> <ol type="1"><li>Tirai Vertikal</li></ol> <p>Jenis tirai ini memiliki ukuran yang tidak terlalu besar dan baik untuk jalannya cahaya yang akan masuk ke dalam ruang. Bentuknya yang vertikal dan jarang-jarang memudahkan untuk mengatur banyaknya cahaya yang masuk ke dalam rumah.</p> <ul><li>Tirai Horizontal</li></ul> <p>Tirai horizontal biasa diaplikasikan di ruang kantor atau ruang yang memiliki privasi lainnya. Tirai horizontal umumnya terbuat dari bahan PVC berkualitas, sehingga tahan terhadap sinar matahari dan lebih kokoh.</p> <ul><li>Tirai Roller Blind</li></ul> <p>Tirai jenis ini dapat dimanfaatkan untuk menghalau cahaya matahari yang masuk ke dalam ruangan tanpa membuat ruangan menjadi gelap dan kekurangan cahaya. Tirai ini dapat dioperasikan dengan cara menarik dan mengulur rantai yang ada pada sisi samping gorden.</p> <ul><li>Tirai Sheer</li></ul> <p>Tirai sheer adalah tirai yang tembus pandang dibanding tirai jenis lainnya, karena penutup jendela ini berdesain sederhana dan elegan. Keunggulanya, tira jenis ini terlihat lebih estetik dan nyaman ditempati.</p> <p>Diantara 4 jenis tirai di atas, kira-kira tirai mana yang cocok dengan jendela dan rumah Anda? Apabika sudah memilih jenis tirai yang sesuai, Anda dapat memilih warna tirai yang sesuai dengan rumah Anda.</p> <p>Sobat Beruang Perkasa, jangan lupa untuk selalu menggunakan bahan bangunan yang berkualitas seperti produk Semen dari Beruang Perkasa agar rumah Anda selalu kokoh dan tahan lama.</p>

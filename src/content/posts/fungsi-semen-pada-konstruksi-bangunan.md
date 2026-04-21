@@ -1,10 +1,11 @@
 ---
-title: "Fungsi Semen pada Konstruksi Bangunan"
-slug: "fungsi-semen-pada-konstruksi-bangunan"
-date: "2022-05-31 05:41:51"
-excerpt: "Salah satu hal yang sangat merubah dunia perkonstruksian bangunan lebih modern yaitu kemunculan semen. Semen dapat membangun bangunan seperti gedung bertingkat dan pencakar langit lebih kuat serta kok"
-wordpress_id: 3255
-image: "/uploads/2022/05/concrete-pump-ge5024b7f0_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Fungsi Semen pada Konstruksi Bangunan"
+  slug: "fungsi-semen-pada-konstruksi-bangunan"
+  date: "2022-05-31 05:41:51"
+  excerpt: "Salah satu hal yang sangat merubah dunia perkonstruksian bangunan lebih modern yaitu kemunculan semen. Semen dapat membangun bangunan seperti gedung bertingkat dan pencakar langit lebih kuat serta kok"
+  wordpress_id: 3255
+  image: "/uploads/2022/05/concrete-pump-ge5024b7f0_1280.jpg"
 ---
 
 <p>Salah satu hal yang sangat merubah dunia perkonstruksian bangunan lebih modern yaitu kemunculan semen. Semen dapat membangun bangunan seperti gedung bertingkat dan pencakar langit lebih kuat serta kokoh.</p> <p><br>Kehadiran material semen sangat membantu manusia untuk membangun beragam konstruksi seperti jembatan, kampus, kanal, bendungan, sekolah, rumah sakit, hingga terowongan secara permanen.<br>Semen termasuk salah satu bahan kimia yang berfungsi sebagai perekat dan memberikan pengerasan kepada material campuran menjadi lebih kaku dan tahan lama. Semen juga diproduksi dan dikemas sehingga lebih mudah diangkut ke berbagai tempat yang dibutuhkan.</p> <p><br>Bahan Penyusun Semen<br>Semen adalah salah satu bahan perekat paling baik selain beberapa bahan perekat lainnya misalkan polimer, epoksi serta bahan lainnya dengan harga yang lebih murah. Sehingga semen termasuk salah satu bahan wajib dan bisa ditemukan hampir di semua negara.</p> <p><br>Di dalam bubuk semen mengandung banyak bahan kimia serta mineral didalamnya. Kualitas suatu semen instan juga sangat dipengaruhi setiap kandungan bahan didalamnya. Pada umumnya semen merupakan bubuk berwarna keabu-abuan gelap yang terdiri dari Alumina, Alkali, Kapur, Magnesium Oksida, Silika, Sulfur Trioxide, serta Iron Oxide.</p> <p><br>Cara Menggunakan Semen Saat Konstruksi<br>Saat semen instan dicampur dengan air, biasanya akan berubah bentuk menjadi suatu adukan bubur sehingga bisa digunakan buat mengikat serta mengeras. Ini terjadi karena saat semen ditambah air akan tercampur dan terjadi sebuah reaksi kimia serta berbentuk hidrasi</p> <p><br>Campuran semen instan juga akan berubah menjadi adonan bubur yang memiliki kekuatan tinggi serta daya tahan kuat serta mengikat. Supaya semen bisa membuat beton ataupun mortar, timbanglah adukan bubur dan pastikan dicampur dengan air sesuai dengan kebutuhan.</p> <p><br>Pastikan jangan salah saat memilih semen, pilihlah toko yang terpercaya seperti Beruang Perkasa. Menawarkan harga yang terjangkau, beruangperkasa.id juga menyediakan beragam jenis semen. Belilah semen sesuai kebutuhan konstruksi bangunan agar bangunan kokoh dan kuat.</p>

@@ -1,10 +1,11 @@
 ---
-title: "Inilah Cara Menyimpan Semen Putih yang Benar"
-slug: "inilah-cara-menyimpan-semen-putih-yang-benar"
-date: "2022-08-31 16:18:49"
-excerpt: "Salah satu&nbsp;tips&nbsp;memilih semen adalah menentukan jenis semen yang Anda&nbsp;butuhkan. Jangan hanya membeli semen, perhatikan berapa banyak semen yang Anda&nbsp;butuhkan&nbsp;untuk bangunan. D"
-wordpress_id: 3346
-image: "/uploads/2022/08/construction-g72eab2775_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Inilah Cara Menyimpan Semen Putih yang Benar"
+  slug: "inilah-cara-menyimpan-semen-putih-yang-benar"
+  date: "2022-08-31 16:18:49"
+  excerpt: "Salah satu&nbsp;tips&nbsp;memilih semen adalah menentukan jenis semen yang Anda&nbsp;butuhkan. Jangan hanya membeli semen, perhatikan berapa banyak semen yang Anda&nbsp;butuhkan&nbsp;untuk bangunan. D"
+  wordpress_id: 3346
+  image: "/uploads/2022/08/construction-g72eab2775_1280.jpg"
 ---
 
 <p>Salah satu&nbsp;tips&nbsp;memilih semen adalah menentukan jenis semen yang Anda&nbsp;butuhkan. Jangan hanya membeli semen, perhatikan berapa banyak semen yang Anda&nbsp;butuhkan&nbsp;untuk bangunan. Di bawah ini adalah beberapa jenis semen yang ada di pasaran. Dari spesifikasi hingga berbagai kegunaan.-&nbsp;Semen&nbsp;Portland&nbsp;:&nbsp;Semen yang disebut&nbsp;semen&nbsp;abu-abu dan&nbsp;terbuat dari batu kapur. Batuan ini diproses dalam tanur suhu tinggi dan sangat cocok untuk digunakan sebagai perekat dalam proyek konstruksi umum.-&nbsp;Semen Putih&nbsp;:&nbsp;Semen ini digunakan sebagai pelapis saat membangun rumah dan gedung. Bahan bakunya adalah batu kapur murni, yang banyak digunakan di semua jenis konstruksi.-&nbsp;Semen Sumur Minyak&nbsp;:&nbsp;Semen sumur minyak digunakan terutama dalam pengeboran sumber daya alam seperti minyak dan gas.-&nbsp;Semen&nbsp;pozzolan&nbsp;Semen yang mengandung&nbsp;pozzolan&nbsp;yang dihasilkan selama proses pembakaran&nbsp;batubara. Untuk menghasilkan beton yang lebih kuat dan lebih keras, banyak insinyur sipil menggunakan semen&nbsp;pozzolan.</p> <p>Berbagai jenis semen digunakan untuk tujuan konstruksi yang berbeda. Oleh karena itu, untuk memilihnya, pertama-tama kita harus mempertimbangkan jenisnya. Pemilihan semen yang salah dapat mengakibatkan hasil konstruksi kurang optimal.</p> <p><strong>Cara Menyimpan Semen Putih yang Benar</strong></p> <p>Setelah Anda menentukan jenis, merek, dan bahkan jumlah semen yang Anda beli, buat inventaris yang sesuai. Hal ini juga mempengaruhi kualitas semen yang digunakan dalam konstruksi&nbsp;yaitu cara menyimpan semen yang benar adalah sebagai berikut.-&nbsp;Simpan dalam wadah tahan air-&nbsp;Simpan di ruang kering-&nbsp;Hindari tempat penyimpanan yang mungkin terkena air hujan-&nbsp;Sediakan alas&nbsp;papan&nbsp;sebelum peletakan semen-&nbsp;Harap periksa apakah semen masih dalam kondisi baik (gumpal atau tidak) sebelum&nbsp;melakukam&nbsp;proses&nbsp;aplikasi&nbsp;pastikan kualitas semen&nbsp;masih baik.</p> <p>Terapkan pemilihan semen dan&nbsp;tips&nbsp;menyimpan semen putih&nbsp;yang tepat sebelum memulai konstruksi. Dengan cara ini Anda dapat yakin bahwa kualitas bangunan dan konstruksinya terjamin.&nbsp;Selain itu, pastikan membeli semen putih di tempat terpercaya seperti Beruang Perkasa.</p>

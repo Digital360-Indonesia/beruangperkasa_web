@@ -1,10 +1,11 @@
 ---
-title: "4 Tips Menyimpan Peralatan Dapur Agar Terlihat Rapi"
-slug: "4-tips-menyimpan-peralatan-dapur-agar-terlihat-rapi"
-date: "2021-03-29 07:49:22"
-excerpt: "Dapur yang merupakan tempat untuk memasak berbagai macam jenis makanan seringkali adalah bagian rumah yang sulit terlihat rapi dan bersih. Hal ini karena banyaknya perlengkapan untuk memasak, mulai da"
-wordpress_id: 2734
-image: "/uploads/2021/03/dapur-minimalis-scaled.jpg"
+  category: "Tips & Trick"
+  title: "4 Tips Menyimpan Peralatan Dapur Agar Terlihat Rapi"
+  slug: "4-tips-menyimpan-peralatan-dapur-agar-terlihat-rapi"
+  date: "2021-03-29 07:49:22"
+  excerpt: "Dapur yang merupakan tempat untuk memasak berbagai macam jenis makanan seringkali adalah bagian rumah yang sulit terlihat rapi dan bersih. Hal ini karena banyaknya perlengkapan untuk memasak, mulai da"
+  wordpress_id: 2734
+  image: "/uploads/2021/03/dapur-minimalis-scaled.jpg"
 ---
 
 <p>Dapur yang merupakan tempat untuk memasak berbagai macam jenis makanan seringkali adalah bagian rumah yang sulit terlihat rapi dan bersih. Hal ini karena banyaknya perlengkapan untuk memasak, mulai dari peralatan yang berukuran kecil seperti sendok hingga peralatan yang berukuran besar seperti panic dan penggorengan. Tak jarang para ibu rumah tangga mengeluhkan betapa sulitnya menata dapur agar terlihat rapi dan bersih. Nah, Sobat Beruang Perkasa tidak perlu khawatir, simak tips berikut agar dapur minimalis Anda terlihat rapi.</p> <ul type="1"><li>Memanfaatkan Dinding Sebagai Tempat Penyimpanan</li></ul> <p>Untuk memanfaatkan dinding dapur, Anda hanya perlu membeli rak gantung atau wadah lainnya yang dapat dipasang di dinding. Letakkan beberapa perabotan dapur seperti sendok, garpu, dan alat lainnya yang bisa diletakkan pada wadah tersebut. Pastikan Anda telah memasang kait rak gantung dengan kuat agar dapat menahan berat isi rak tersebut.</p> <ul><li>Bagi Laci Penyimpanan Menjadi Beberapa Bagian</li></ul> <p>Meskipun telah menyimpan peralatan dapur di laci, terkadang tidak menjamin peralatan tersebut akan selalu rapi. Sebaiknya Anda membagi laci tersebut menjadi beberapa bagian agar mudah ditata dan dirapikan. Contohnya, Anda bisa memisahkan bagian perlauatan makan seperti piring dan sendok agar tidak berantakan saat diambil dari laci.</p> <ul><li>Manfaatkan <em>Furniture</em></li></ul> <p>Dapur minimalis agar dapat menyimpan banyak peralatan dapat diatasi dengan memanfaatkan berbagai furniture yang sudah tidak terpakai seperti loker, rak buku, atau lemari kecil. Namun sebelumnya pastikan perabotan tersebut dalam keadaan baik dan layak pakai. Anda dapat menyimpan piring, sendok, wajan dan perlatan lainnya di dalam <em>furniture </em>teresebut.</p> <ul><li>Gantung Gelas</li></ul> <p>Bagi Anda yang hobi mengoleksi gelas dan memiliki banyak sekali gelas di dapur, Anda dapat menggantung gelas-gelas tersebut di pintu kabinet. Selain terlihat rapi ternyata menggantung gelas juga menciptakan kesan estetik lho! &nbsp;</p> <p>Ke empat tips di atas akan sangat membantu Anda untuk menyimpan berbagai macam perlengkapan dapur dengan mudah dan rapi. Pastikan Anda juga rajin membersihkan seluruh peralatan agar selalu bersih dan siap digunakan kapan saja.</p> <p>Nah, selain tips di atas Beruang Perkasa juga memiliki rekomendasi bahan bangunan terbaik untuk Anda. Keperluan semen, semen instan, semen putih, acian, plamir, dan lain-lain Anda dapat membelinya di CV. Beruang Perkasa. Selain kualitasnya yang baik, produk Beruang Perkasa juga menawarkan harga yang terjangkau.</p>

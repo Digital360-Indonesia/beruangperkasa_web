@@ -1,10 +1,11 @@
 ---
-title: "Penyebab Cat Dinding Mudah Mengelupas"
-slug: "penyebab-cat-dinding-mudah-mengelupas"
-date: "2024-04-29 18:16:01"
-excerpt: "Mengapa cat dinding mudah mengelupas? Padahal masih baru dicat? “Tukangnya pasti tidak ahli”. Banyak muncul persepsi seperti itu, memang tidak semua tukang itu ahli karena keterbatasan pendidikan atau"
-wordpress_id: 3988
-image: "/uploads/2022/02/paint-brush-g840981ef7_1280.jpg"
+  category: "Bahan Bangunan"
+  title: "Penyebab Cat Dinding Mudah Mengelupas"
+  slug: "penyebab-cat-dinding-mudah-mengelupas"
+  date: "2024-04-29 18:16:01"
+  excerpt: "Mengapa cat dinding mudah mengelupas? Padahal masih baru dicat? “Tukangnya pasti tidak ahli”. Banyak muncul persepsi seperti itu, memang tidak semua tukang itu ahli karena keterbatasan pendidikan atau"
+  wordpress_id: 3988
+  image: "/uploads/2022/02/paint-brush-g840981ef7_1280.jpg"
 ---
 
 <p>Mengapa cat dinding mudah mengelupas? Padahal masih baru dicat? “Tukangnya pasti tidak ahli”. Banyak muncul persepsi seperti itu, memang tidak semua tukang itu ahli karena keterbatasan pendidikan atau faktor lainnya. Namun jangan terlalu dini untuk mengambil kesimpulan, bisa jadi bukan karena salah tukangnya.</p> <p>Masalah mengelupasnya cat dinding memang sering terjadi. Hal ini membuat para pemilik rumah pasti emosi atau kesal, dan akan buru-buru untuk menyalahkan pihak lain, tanpa mencari tahu terlebih dahulu penyebabnya. Hal ini adalah contoh cara berpikir yang salah. Yang diperlukan saat ini adalah solusi untuk masalah ini secepatnya.</p> <p>Lalu bagaimana solusinya? Kami Beruang Perkasa akan mencoba membantu Anda. Yang perlu diketahui terlebih dahulu adalah cari sumber masalahnya. Berikut ini adalah penyebab-penyebab yang dapat membuat cat mengelupas:</p> <ul><li><strong>Kondisi dinding yang lembab</strong></li></ul> <p>Hal ini karena banyak faktor</p> <ol type="a"><li>Semen dinding tidak kering secara sempurna waktu pembangunan (biasanya 2-3 minggu pengeringan).</li><li>kebocoran pipa air dalam dinding.</li><li>bisa karena rembesan air dari talang, rembesan dari kamar mandi, dari taman, atau bisa dari air hujan.</li></ol> <p>Solusi untuk hal ini ya anda harus segera memperbaiki kebocoran. Untuk dinding yang terlanjur basah/lembab harus direnovasi (bongkar ulang) pada area yang basah.</p> <ul><li><strong>Penggunaan plamir atau acian kualitas rendah</strong>, kualitas rendah membuat plamir atau acian mudah rontok, sehingga cat akan terkelupas juga. Bila pakai plamir atau acian yang bagus, anda juga harus pastikan sudah kering sempurna sebelum di cat.</li><li><strong>Tidak memakai cat dasar atau plamir atau acian</strong>, cat dasar ini penting untuk mencegah alkali (air garam dari semen) bereaksi dengan cat, sehingga dapat merusak.</li><li><strong>Permukaan dinding yang kotor</strong>, bisa disebabkan debu, minyak, atau kotoran lainnya. Anda harus bersihkan semua terlebih dahulu sebelum proses cat.</li><li><strong>Pengecatan ulang</strong>, ini mungkin adalah hal yang paling sering terjadi. Apabila akan melakukan ganti cat dinding, anda harus bersihkan cat sebelumnya, karena akan mempengaruhi daya rekat cat itu sendiri.</li></ul>

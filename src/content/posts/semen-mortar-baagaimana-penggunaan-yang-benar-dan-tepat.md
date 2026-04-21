@@ -1,10 +1,11 @@
 ---
-title: "Semen Mortar, Bagaimana Penggunaan yang Benar dan Tepat?"
-slug: "semen-mortar-baagaimana-penggunaan-yang-benar-dan-tepat"
-date: "2021-07-22 03:32:27"
-excerpt: "Semen instan yang sering juga disebut dengan semen mortar adalah semen siap pakai yang tidak perlu dicampur dengan bahan-bahan lain agar siap pakai. Semen instan cukup dicampur dengan air bersih saja"
-wordpress_id: 2906
-image: "/uploads/2021/07/infia-dot-co.jpg"
+  category: "Bahan Bangunan"
+  title: "Semen Mortar, Bagaimana Penggunaan yang Benar dan Tepat?"
+  slug: "semen-mortar-baagaimana-penggunaan-yang-benar-dan-tepat"
+  date: "2021-07-22 03:32:27"
+  excerpt: "Semen instan yang sering juga disebut dengan semen mortar adalah semen siap pakai yang tidak perlu dicampur dengan bahan-bahan lain agar siap pakai. Semen instan cukup dicampur dengan air bersih saja"
+  wordpress_id: 2906
+  image: "/uploads/2021/07/infia-dot-co.jpg"
 ---
 
 <p>Semen instan yang sering juga disebut dengan semen mortar adalah semen siap pakai yang tidak perlu dicampur dengan bahan-bahan lain agar siap pakai. Semen instan cukup dicampur dengan air bersih saja agar dapat diaplikasikan pada bangunan. Rasio campuran antara semen instan dan air bersih tergantung pada peruntukan tipe pekerjaan atau tujuan penggunaannya.</p> <p>Semen instan atau semen mortar tentu berbeda dengan semen konvensional. Semen konvensional hanya menggunakan satu bahan baku saja, sedangkan semen instan sudah dicampur dengan pasir silika, zat aditif, serta bahan-bahan lain seperti kapur agar lebih padat serta memiliki daya rekat yang kuat. Sayangnya, harganya lebih mahal dibandingkan dengan semen konvensional. Namun jika dilihat dari waktu pengerjaan, berkerja dengan semen instan atau semen mortar dapat lebih cepat.</p> <p>Semen instan atau semen mortar punya berguna untuk bermacam-macam hal, seperti perekat antar bata, plesteran pada dinding, acian dinding, pengisi celah dan perekat keramik, hingga pelapis dinding baru. Dalam penggunaannya, semen instan atau mortar memerlukan jumlah takaran yang special, karena salah takaran akan berakibat pada hasil akhirnya.</p> <p>Langkah Pencampuran Semen Instan atau Semen Mortar</p> <p>Mortar dicampur di tempat dalam mixer mekanis tetapi dapat dicampur dalam jumlah yang lebih kecil dengan tangan, menggunakan cangkul dan bak pencampur.</p> <ol type="1"><li>Basahi dulu ember sebelum mengisinya dengan mortar.</li><li>Siapkan ember dengan dasar datar, permukaan padat, dan sisi yang tinggi untuk mencampur mortar, jika dicampur dengan tangan.</li><li>Tambahkan semen batu, kapur, dan pasir dalam jumlah yang sesuai ke wadah pencampuran, lalu tambahkan air di atas bahan kering.</li><li>Lipat campuran mortar dari dasar ke dalam air, saat mencampur dengan tangan. Terus campur sampai air tercampur. Terus tambahkan air sampai semen mortar mencapai konsistensi yang halus.</li><li>Hentikan pencampuran ketika mortar cukup basah untuk dengan mudah terlepas dari sekop tetapi tahan bentuknya jika membuat lubang di campuran.</li></ol> <p>Mudah bukan? Ingat, pilih semen instan, ya semen beruang perkasa! Hubungi kami untuk keterangan produk lebih lanjut.</p>

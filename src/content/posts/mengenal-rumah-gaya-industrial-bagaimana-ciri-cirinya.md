@@ -1,10 +1,11 @@
 ---
-title: "Mengenal Rumah Gaya Industrial, Bagaimana Ciri-Cirinya?"
-slug: "mengenal-rumah-gaya-industrial-bagaimana-ciri-cirinya"
-date: "2021-03-27 06:06:24"
-excerpt: "Mungkin Sebagian Sobat Beruang Perkasa sudah mengenal ap aitu rumah gaya industrial. Rumah gaya industrial sedang menjadi tren pada akhir waktu ini, terutama di kalangan milenial. Rumah gaya industria"
-wordpress_id: 2728
-image: "/uploads/2021/03/industrial.jpg"
+  category: "Tips & Trick"
+  title: "Mengenal Rumah Gaya Industrial, Bagaimana Ciri-Cirinya?"
+  slug: "mengenal-rumah-gaya-industrial-bagaimana-ciri-cirinya"
+  date: "2021-03-27 06:06:24"
+  excerpt: "Mungkin Sebagian Sobat Beruang Perkasa sudah mengenal ap aitu rumah gaya industrial. Rumah gaya industrial sedang menjadi tren pada akhir waktu ini, terutama di kalangan milenial. Rumah gaya industria"
+  wordpress_id: 2728
+  image: "/uploads/2021/03/industrial.jpg"
 ---
 
 <p>Mungkin Sebagian Sobat Beruang Perkasa sudah mengenal ap aitu rumah gaya industrial. Rumah gaya industrial sedang menjadi tren pada akhir waktu ini, terutama di kalangan milenial. Rumah gaya industrial berkonsep unik dengan gayanya yang <em>to the point</em> atau simpel. Konsep rumah gaya industrial ini identik menggunakan batu bata, metal, atau material daur ulang lainnya sebagai aspek arsitekturnya. Nah, selain untuk rumah umumnya gaya industrial diterapkan untuk desain bisnis seperti kafe. Agar lebih mengenal gaya industrial, yuk simak ciri-cirinya berikut ini.</p> <ul type="1"><li>Material</li></ul> <p>Bahan yang digunakan pada rumah gaya industrial umumnya bersifat kokoh, tahan lama, dan memiliki daya daur ulang yang multi fungsi. Contohnya adalah furniture antic dari bahan kayu, alumunium, batu, dan dinding yang terbuat dari semen tanpa dicat.</p> <ul><li>Warna</li></ul> <p>Rumah dengan konsep gaya industrial memiliki palet warna yang dominan netral, misalnya abu, hitam, dan putih. Supaya lebih variatif, Anda bisa mencoba memasukkan warna lain seperti warna yang lebih terang atau warna kontras lainnya agar terlihat fresh dan lebih indah.</p> <ul><li>Siluet</li></ul> <p>Ciri khas lain dari gaya industrial adalah adanya garis lurus dan struktur tegas. Tetapi hal ini tidak menutup kemungkinan bahwa gaya industrial menghadirkan nuansa kurva atau pola abstrak.</p> <ul><li>Dekorasi</li></ul> <p>Selain dari segi bangunan, rumah yang berkonsep gaya industrial juga dapat dilengkapi dengan dekorasi yang bertema minimalis, bersih, dan rapi. Hal ini akan menciptakan kesan simpel dan luas.</p> <p>Bagaimana Sobat Beruang Perkasa, tertarik untuk menerapkan gaya industrial pada hunian Anda? Tentu membuat rumah dengan gaya industrial juga harus menggunakan material dan bahan yang berkualitas seperti semen, semen putih, semen instan, dan material lainnya. Untuk Anda yang berlokasi di Surabaya, Sidoarjo, Gresik, dan kota-kota lainnya, Anda dapat menghubungi Beruang Perkasa sebagai produsen dan <em>supplier</em> semen terbaik di Jawa Timur.</p>
