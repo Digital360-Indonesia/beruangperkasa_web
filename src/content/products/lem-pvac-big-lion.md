@@ -2,7 +2,7 @@
 title: "LEM PVAC BIG LION®️"
 solution: "Furnitur & Kerajinan"
 category: "Pengikat & Lem"
-image: "/uploads/2020/12/big-lion-lem-pvac_MG_8069.jpg"
+image: "/uploads/products/big-lion-lem-pvac_MG_8069.jpg"
 excerpt: "Lem PVAC BIG LION®️ adalah lem yang berkualitas tinggi, sangat cocok untuk plamir, tekstur, kayu, kertas, dan bahan lainnya. Memiliki daya rekat yang lebih tinggi &amp; fleksibilitas tinggi dari lem P"
 ---
 
@@ -15,6 +15,6 @@ Keunggulan Sebagai Plamir
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

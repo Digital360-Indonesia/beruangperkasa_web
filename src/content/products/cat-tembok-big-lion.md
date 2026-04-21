@@ -2,7 +2,7 @@
 title: "CAT TEMBOK BIG LION®️"
 solution: "Rumah"
 category: "Cat Tembok"
-image: "/uploads/2020/12/cat-tembok.jpg"
+image: "/uploads/products/cat-tembok.jpg"
 excerpt: "BIG LION®️ Cat Tembok adalah produk inovatif dengan kualitas yang tidak perlu diragukan lagi. Daya sebar yang lebih luas, tahan lama, tahan cuaca &amp; mengandung anti jamur dengan harga yang sangat e"
 ---
 
@@ -16,6 +16,6 @@ BIG LION®️ Cat Tembok adalah produk inovatif dengan kualitas yang tidak perlu
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

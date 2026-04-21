@@ -2,7 +2,7 @@
 title: "SKIM COAT BIG LION®️"
 solution: "Rumah"
 category: "Plamir & Acian"
-image: "/uploads/2020/12/ACIAN-Big-Lion-depan-scaled.jpg"
+image: "/uploads/products/ACIAN-Big-Lion-depan-scaled.jpg"
 excerpt: "Bahan pelapis dinding bagian exterior dan interior untuk mendapatkan hasil permukaan yang lebih halus &amp; cara kerja yang lebih praktis serta Modern. Memiliki kualitas tinggi dan extra kuat. Brosur"
 ---
 
@@ -16,6 +16,6 @@ Skim Coat BIG LION®️ telah memenuhi standar sertifikasi:
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

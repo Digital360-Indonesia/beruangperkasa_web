@@ -2,7 +2,7 @@
 title: "COATING ANTI REMBES BIG LION®️"
 solution: "Anti Bocor"
 category: "Cat Tembok"
-image: "/uploads/2020/12/coating.png"
+image: "/uploads/products/coating.png"
 excerpt: "Pelapis Anti Rembes Tahan gores untuk lapisan atas Dak Beton / Kolam Renang Produk ini digunakan untuk pelapis anti rembes paling atas khusus untuk permukaan setelah pemakaian waterproof powder BIG LI"
 ---
 
@@ -29,6 +29,6 @@ Coating Anti Rembes BIG LION®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

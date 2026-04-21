@@ -2,7 +2,7 @@
 title: "CAT GENTENG BIG LION®️"
 solution: "Anti Bocor"
 category: "Cat Tembok"
-image: "/uploads/2020/12/Cat-Genteng.jpg"
+image: "/uploads/products/Cat-Genteng.jpg"
 excerpt: "Cat Genteng Big Lion Produk ini digunakan untuk genteng, asbes, seng, triplek, list-plank kayu, tembok luar yang sering kena air, lapangan tennis, dan dekorasi untuk taman, tembok, kolam ikan / air Ke"
 ---
 
@@ -21,6 +21,6 @@ Produk ini tersedia dalam **berbagai kemasan** antara lain :
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

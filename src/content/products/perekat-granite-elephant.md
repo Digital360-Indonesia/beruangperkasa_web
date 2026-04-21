@@ -2,7 +2,7 @@
 title: "PEREKAT GRANITE ELEPHANT®️"
 solution: "Area Terbuka"
 category: "Perekat Bata Ringan"
-image: "/uploads/2023/03/elephant-besar-M.png"
+image: "/uploads/products/elephant-besar-M.png"
 excerpt: "Perekat granite ELEPHANT®️ sangat cocok untuk pemasangan granite / homogeneous tile, marmer, mosaik, batu alam, dan lainnya, baik pada lantai ataupun dinding dengan daya rekat \"INSTAN\" , tidak melorot"
 ---
 
@@ -18,6 +18,6 @@ Perekat Granite ELEPHANT®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

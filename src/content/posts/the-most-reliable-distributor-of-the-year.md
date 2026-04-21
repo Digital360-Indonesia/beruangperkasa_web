@@ -5,7 +5,7 @@
   date: "2020-12-07 09:05:58"
   excerpt: "Beruang Perkasa, distributor bahan bangunan mendapatkan penghargaan The Most Reliable Distributor of the Year. Penghargaan tersebut merupakan satu di antara sebelas kategori penghargaan yang dibagikan"
   wordpress_id: 1855
-  image: "/uploads/2020/12/the-most-reliable-distributor.jpg"
+  image: "/uploads/awards/The Most Reliable Distributor of the Year.webp""
 ---
 
 <div class="wp-block-group"><div class="wp-block-group__inner-container">

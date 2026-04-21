@@ -2,7 +2,7 @@
 title: "PLAMIR WATERPROOF BIG LION®️"
 solution: "Anti Bocor"
 category: "Plamir & Acian"
-image: "/uploads/2020/12/big-lion-plamir-waterproof-0U0A7764.jpg"
+image: "/uploads/products/big-lion-plamir-waterproof-0U0A7764.jpg"
 excerpt: "Pelapis anti bocor sekaligus plamir untuk segala tempat  Produk berkwalitas tinggi Tidak mudah retak Hanya tambah air saja langsung pakai  Brosur Produk"
 ---
 
@@ -23,6 +23,6 @@ Plamir Waterproof BIG LION®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

@@ -2,7 +2,7 @@
 title: "CALCIUM CARBONATE GUNUNG MAS®️"
 solution: "Ramah Lingkungan"
 category: "Produk Pendukung"
-image: "/uploads/2020/12/CALSIUM-Gunung-Mas-depan-3-scaled.jpg"
+image: "/uploads/products/CALSIUM-Gunung-Mas-depan-3-scaled.jpg"
 excerpt: "Calcium GUNUNG MAS®️ dapat digunakan untuk berbagai kebutuhan seperti : – Campuran pupuk – Campuran karet – Industri kertas, plastik, gelas, keramik, perminyakan, kesehatan, makanan, cat dinding, dll."
 ---
 
@@ -15,6 +15,6 @@ Calcium GUNUNG MAS®️ ini tersedia dalam kemasan 40 kg yang dikemas dalam zak 
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

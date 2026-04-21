@@ -2,7 +2,7 @@
 title: "PEREKAT GRANITE & BATU ALAM BLACK BULL®️"
 solution: "Area Terbuka"
 category: "Perekat Bata Ringan"
-image: "/uploads/2023/03/Black-Bull-Biru-M.png"
+image: "/uploads/products/Black-Bull-Biru-M.png"
 excerpt: "Perekat granite BLACK BULL®️ sangat cocok untuk pemasangan bata ringan grianite/homogenous tile, marmer, mosaik, batu alam, dan lainnya, baik pada lantai ataupun dinding dengan daya rekat INSTAN, tida"
 ---
 
@@ -20,6 +20,6 @@ Perekat Granite & Batu Alam BLACK BULL®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

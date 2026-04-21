@@ -2,7 +2,7 @@
 title: "CORNICE ADHESIVE BIG LION®️"
 solution: "Furnitur & Kerajinan"
 category: "Pengikat & Lem"
-image: "/uploads/2020/12/cornice-adhesive-20kg-01.jpg"
+image: "/uploads/products/cornice-adhesive-20kg-01.jpg"
 excerpt: "Adhesive perekat menggunakan teknologi modern yang praktis dan berkwalitas  Sangat cocok untuk segala jenis ornamen dekoratif, list profil dan papan gipsum Melekatkan dengan sempurna Mudah penggunaan"
 ---
 
@@ -21,6 +21,6 @@ Kegunaan
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

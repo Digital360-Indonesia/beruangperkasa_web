@@ -2,7 +2,7 @@
 title: "SEMEN PUTIH GARUDA®️"
 solution: "Furnitur & Kerajinan"
 category: "Semen Putih"
-image: "/uploads/2020/12/garuda-semen-putih-0U0A7904.jpg"
+image: "/uploads/products/garuda-semen-putih-0U0A7904.jpg"
 excerpt: "SEMEN PUTIH GARUDA®️ adalah semen putih yang digunakan oleh para kontraktor yang memilih nilai ekonomis, kualitas terpercaya dan kepraktisan."
 ---
 
@@ -10,6 +10,6 @@ SEMEN PUTIH GARUDA®️ merupakan jenis spesifikasi yang digunakan untuk plamir 
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

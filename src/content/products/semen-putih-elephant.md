@@ -2,7 +2,7 @@
 title: "SEMEN PUTIH ELEPHANT®️"
 solution: "Furnitur & Kerajinan"
 category: "Semen Putih"
-image: "/uploads/2020/12/elephant-semen-putih-0U0A7896.jpg"
+image: "/uploads/products/elephant-semen-putih-0U0A7896.jpg"
 excerpt: "SEMEN PUTIH ELEPHANT®️ atau dikenal masyarakat dengan nama semen putih cap Gajah, telah beredar di Indonesia sejak belasan tahun yang lalu dengan kepercayaan konsumen belasan tahun membuat produk ELEP"
 ---
 
@@ -10,6 +10,6 @@ SEMEN PUTIH ELEPHANT®️ merupakan semen putih campuran dengan teknologi terbar
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

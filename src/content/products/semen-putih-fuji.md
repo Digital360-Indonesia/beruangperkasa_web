@@ -2,7 +2,7 @@
 title: "SEMEN PUTIH FUJI®️"
 solution: "Furnitur & Kerajinan"
 category: "Semen Putih"
-image: "/uploads/2020/12/fuji-calcium-calcium-mesh-1200.jpg"
+image: "/uploads/products/fuji-calcium-calcium-mesh-1200.jpg"
 excerpt: "SEMEN PUTIH FUJI®️ adalah semen putih jenis spesifikasi yang digunakan untuk plamir tembok, plafond, gypsum."
 ---
 
@@ -10,6 +10,6 @@ Tersedia dalam kemasan sak OPP yang tahan air dengan logo Gunung Fuji dengan ber
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

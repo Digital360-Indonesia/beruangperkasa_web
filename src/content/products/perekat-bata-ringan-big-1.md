@@ -2,7 +2,7 @@
 title: "PEREKAT BATA RINGAN BIG-1"
 solution: "Rumah"
 category: "Perekat Bata Ringan"
-image: "/uploads/2020/12/big-lion-big-1-DSCF0468.jpg"
+image: "/uploads/products/big-lion-big-1-DSCF0468.jpg"
 excerpt: "BIG LION®️ BIG-1 adalah semen instan siap pakai cukup tambah air saja, sehingga mampu merekatkan bata ringan dengan kuat &amp; cepat dengan kwalitas tinggi &amp; di proses dengan technology modern, Be"
 ---
 
@@ -17,6 +17,6 @@ Perekat Bata Ringan Big-1 telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

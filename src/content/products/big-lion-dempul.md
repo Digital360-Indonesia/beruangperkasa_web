@@ -2,7 +2,7 @@
 title: "BIG LION® DEMPUL"
 solution: "Rumah"
 category: "Plamir & Acian"
-image: "/uploads/2021/01/dempul-e1610200768580.png"
+image: "/uploads/products/dempul-e1610200768580.png"
 excerpt: "BIG LION® Polyester Putty adalah dempul polyester 2 komponen yang digunakan khusus untuk menutup lubang dan memperbaiki permukaan yang tidak rata dengan daya rekat yang bagus terhadap macam-macam subs"
 ---
 
@@ -21,6 +21,6 @@ Persiapan: Selalu bersihkan permukaan dari debu, kotoran, dan kontaminan sebelum
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

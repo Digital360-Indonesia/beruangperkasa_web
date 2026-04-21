@@ -2,7 +2,7 @@
 title: "ACIAN BLACK BULL®️"
 solution: "Rumah"
 category: "Plamir & Acian"
-image: "/uploads/2020/12/ACIAN-Black-Bull-depan-revisi-1-scaled.jpg"
+image: "/uploads/products/ACIAN-Black-Bull-depan-revisi-1-scaled.jpg"
 excerpt: "ACIAN BLACK BULL®️ adalah produk finishing yang berkualitas dan hanya tambah air saja bisa langsung pakai, formula dan bahan additive khusus menghasilkan Acian yang dapat diaplikasikan dengan ketebala"
 ---
 
@@ -27,6 +27,6 @@ Keuntungan yang diperoleh dalam pemakaian ACIAN BLACK BULL®️ di dalam suatu p
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

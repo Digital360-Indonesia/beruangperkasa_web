@@ -2,7 +2,7 @@
 title: "SKIM COAT ELEPHANT®️"
 solution: "Rumah"
 category: "Plamir & Acian"
-image: "/uploads/2020/12/elephant-skim-coat-0U0A7875.jpg"
+image: "/uploads/products/elephant-skim-coat-0U0A7875.jpg"
 excerpt: "Skim Coat ELEPHANT®️ merupakan semen dengan bahan dasar standart teknologi modern. sangat cocok untuk permukaan beton, baik Interior maupun Exterior. Tersedia dalam dua warna abu - abu &amp; putih. Sk"
 ---
 
@@ -16,6 +16,6 @@ Keuntungan: Menjamin dlam pemakaian dapat menghasilkan campuran yang baik. masuk
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

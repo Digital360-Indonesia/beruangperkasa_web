@@ -2,7 +2,7 @@
 title: "PEREKAT BATA RINGAN & PLESTER ELEPHANT®️"
 solution: "Rumah"
 category: "Perekat Bata Ringan"
-image: "/uploads/2020/12/elephant-perekat-bata-ringan-DSCF0461.jpg"
+image: "/uploads/products/elephant-perekat-bata-ringan-DSCF0461.jpg"
 excerpt: "ELEPHANT®️ Perekat Bata Ringan &amp; Plester untuk pekerjaan pemasangan bata ringan (AAC) &amp; plesteran dengan ketebalan 10mm . Berbahan dasar semen, filler, calsium, &amp; bahan - bahan additif lai"
 ---
 
@@ -17,6 +17,6 @@ Perekat Bata Ringan & Plester ELEPHANT®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

@@ -2,7 +2,7 @@
 title: "PEMBANTU SEMEN DIAMOND®️"
 solution: "Anti Bocor"
 category: "Produk Pendukung"
-image: "/uploads/2020/12/diamond-alkasit-0U0A7792.jpg"
+image: "/uploads/products/diamond-alkasit-0U0A7792.jpg"
 excerpt: "Bahan Untuk Mempertinggi Daya Rekat Semen dan Mencegah Keretakan Pada Plesteran Mempermudah Pengerjaan Menghemat Tenaga dan Bahan Tahan Terhadap Kapur dan Semen Tahan Terhadap Cuaca"
 ---
 
@@ -23,6 +23,6 @@ excerpt: "Bahan Untuk Mempertinggi Daya Rekat Semen dan Mencegah Keretakan Pada 
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

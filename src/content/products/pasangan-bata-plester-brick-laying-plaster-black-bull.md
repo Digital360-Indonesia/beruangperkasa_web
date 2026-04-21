@@ -2,7 +2,7 @@
 title: "PASANGAN BATA & PLESTER BLACK BULL®️"
 solution: "Rumah"
 category: "Produk Pendukung"
-image: "/uploads/2023/03/black-bull-kuning-merah-M.png"
+image: "/uploads/products/black-bull-kuning-merah-M.png"
 excerpt: "Perekat bata ringan &amp; plester BLACK BULL®️ sangat cocok untuk pemasangan bata ringan, bata merah, dan sekaligus plester (3 in 1). Berbahan dasar semen, pasir pilihan, filler dan aditif khusus yang"
 ---
 
@@ -17,6 +17,6 @@ Pasangan Bata & Plester BLACK BULL®️ telah memenuhi standar sertifikasi:
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

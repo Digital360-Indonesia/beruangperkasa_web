@@ -2,7 +2,7 @@
 title: "PENGERAS BETON (OBAT COR) BIG LION®️"
 solution: "Rumah"
 category: "Produk Pendukung"
-image: "/uploads/2020/12/5L-center.png"
+image: "/uploads/blog/5L-center.png"
 excerpt: "Bahan pembantu untuk mempercepat pengerasan beton Tersedia dalam dua jenis : 1. BIG LION®️ Pengeras Beton 1 Liter 2. BIG LION®️ Pengeras Beton 5 Liter Kegunaan : 1. Membantu mempercepat pengerasan bet"
 ---
 
@@ -17,6 +17,6 @@ Pengeras Beton (Obat Cor) BIG LION®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

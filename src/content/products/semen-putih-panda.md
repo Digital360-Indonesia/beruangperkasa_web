@@ -2,7 +2,7 @@
 title: "SEMEN PUTIH PANDA®️"
 solution: "Furnitur & Kerajinan"
 category: "Semen Putih"
-image: "/uploads/2020/12/panda-semen-putih-0U0A7901.jpg"
+image: "/uploads/products/panda-semen-putih-0U0A7901.jpg"
 excerpt: "SEMEN PUTIH PANDA®️ adalah semen putih paling terjangkau yang banyak ditemui di toko-toko di daerah dan pinggiran kota yang mencari produk ekonomis dengan kualitas terpercaya."
 ---
 
@@ -10,6 +10,6 @@ Mengutamakan teknologi partikel micro putih yang dipercaya masyarakat sebagai ca
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

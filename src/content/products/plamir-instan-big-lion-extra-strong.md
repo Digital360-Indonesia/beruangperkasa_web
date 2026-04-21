@@ -2,7 +2,7 @@
 title: "PLAMIR INSTAN BIG LION®️ EXTRA STRONG"
 solution: "Anti Bocor"
 category: "Plamir & Acian"
-image: "/uploads/2020/12/big-lion-plamir-extra-strong-0U0A7831.jpg"
+image: "/uploads/products/big-lion-plamir-extra-strong-0U0A7831.jpg"
 excerpt: "PLAMIR INSTAN BIG LION®️ BIG LION®️ Plamir Instan Powder adalah produk yang benar – benar praktis, Ekonomis, dan berkualitas. Untuk plamir Tembok rumah anda dengan Big Lion Plamir Instant Anda hanya c"
 ---
 
@@ -24,6 +24,6 @@ PLAMIR INSTAN BIG LION®️ telah memenuhi standar sertifikasi
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)

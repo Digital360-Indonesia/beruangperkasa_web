@@ -2,7 +2,7 @@
 title: "PEREKAT KERAMIK DI ATAS KERAMIK BLACK BULL®️"
 solution: "Rumah"
 category: "Perekat Bata Ringan"
-image: "/uploads/2023/03/black-bull-merah-M.png"
+image: "/uploads/products/black-bull-merah-M.png"
 excerpt: "Semen instan untuk pekerjaan pemasangan keramik atau Homogeneous Tile, di atas keramik yang telah terpasang pada dinding atupun lantai. Berbahan dasar pasir pilihan, semen, dan aditif yang tercampur s"
 ---
 
@@ -19,6 +19,6 @@ Perekat Keramik di Atas Keramik BLACK BULL®️ telah memenuhi standar sertifika
 
 **Standar Sertifikasi:**
 
-![AIMSCB](/uploads/sertifikasi/aimscb.jpg)
-![ICS QMS](/uploads/sertifikasi/ics-qms.jpg)
-![ICS](/uploads/sertifikasi/ics.jpg)
+![AIMSCB](/uploads/certifications/aimscb.jpg)
+![ICS QMS](/uploads/certifications/ics-qms.jpg)
+![ICS](/uploads/certifications/ics.jpg)
