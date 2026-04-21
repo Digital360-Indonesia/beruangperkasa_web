@@ -22,6 +22,8 @@ const productsCollection = defineCollection({
     excerpt: z.string().optional(),
     image: z.string().optional(),
     wordpress_id: z.number().optional(),
+    solution: z.string().optional(),
+    category: z.string().optional(),
   }),
 });
 
