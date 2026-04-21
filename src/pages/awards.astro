@@ -1,0 +1,186 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const awards = [
+  {
+    title: "Indonesian Best of the Best Award 2012",
+    subtitle: "The Best Service Excellent of the Year",
+    description: "CV. Beruang Perkasa mendapatkan gelar The Best Service Excellent of the Year dalam Excellent Award 2012 yang berlangsung di Hotel Novotel Surabaya.",
+    date: "27 April 2012",
+    source: "Jawa Pos, Kamis 3 Mei 2012",
+    image: "/uploads/award/Indonesian Best of the Best Award 2012.webp"
+  },
+  {
+    title: "The Most Reliable Distributor of the Year",
+    subtitle: "Tre Uno Organizer Award",
+    description: "CV. Beruang Perkasa, distributor bahan bangunan mendapatkan penghargaan The Most Reliable Distributor of the Year. Penghargaan tersebut merupakan satu di antara sebelas kategori penghargaan yang dibagikan Tre Uno Organizer.",
+    date: "13 Juli 2012",
+    source: "Jawa Pos, Kamis 19 Juli 2012",
+    image: "/uploads/award/The Most Reliable Distributor of the Year.webp"
+  },
+  {
+    title: "Indonesia Brand Prestige Award 2012",
+    subtitle: "Best Excellent - Indonesia Industry Award Winner",
+    description: "CV. Beruang Perkasa mendapatkan penghargaan Best Excellent dari Rajasa Event Organiser untuk kategori Indonesia Industry Award Winner 2012.",
+    date: "2 November 2012",
+    source: "Jawa Pos, Senin 5 November 2012",
+    image: "/uploads/award/Indonesia Brand Prestige Award 2012.webp"
+  },
+  {
+    title: "Creative & Innovative Award 2012",
+    subtitle: "Inovasi Produk dan Ide Kreatif",
+    description: "Penghargaan ini diberikan pada perusahaan-perusahaan yang telah menciptakan inovasi produk dan ide kreatif di bidangnya. CV. Beruang Perkasa telah menciptakan produk inovatif untuk memenuhi keinginan masyarakat yang ingin serba praktis, modern, dan berkualitas.",
+    date: "2012",
+    source: "",
+    image: "/uploads/award/Creative & Innovative Award 2012.webp"
+  }
+];
+---
+
+<BaseLayout title="Penghargaan" description="Penghargaan yang diterima CV Beruang Perkasa sebagai distributor bahan bangunan terpercaya">
+  <section class="py-16">
+    <div class="container mx-auto px-4">
+      <div class="text-center mb-12">
+        <h1 class="text-3xl md:text-4xl font-bold mb-4">Penghargaan</h1>
+        <p class="text-gray-600 max-w-2xl mx-auto">Penghargaan yang telah diterima CV. Beruang Perkasa sebagai bentuk reconhecimento atas dedikasi dan kualitas layanan kami</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+        {awards.map((award, index) => (
+          <div class="award-card">
+            <div class="award-image">
+              <img src={award.image} alt={award.title} />
+            </div>
+            <div class="award-content">
+              <span class="award-year">{award.date}</span>
+              <h2 class="award-title">{award.title}</h2>
+              <p class="award-subtitle">{award.subtitle}</p>
+              <p class="award-description">{award.description}</p>
+              {award.source && (
+                <p class="award-source">Sumber: {award.source}</p>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <div class="mt-8 text-center">
+        <a href="/about" class="back-link">
+          <svg style="width: 20px; height: 20px; fill: none; stroke: var(--primary);" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+          </svg>
+          Kembali ke Tentang Kami
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .award-card {
+    background: var(--white);
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+  }
+
+  .award-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  }
+
+  .award-image {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+  }
+
+  .award-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  .award-content {
+    padding: 1.5rem;
+  }
+
+  .award-year {
+    display: inline-block;
+    background: var(--primary);
+    color: var(--white);
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  .award-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
+
+  .award-subtitle {
+    font-size: 0.9375rem;
+    color: var(--primary);
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+
+  .award-description {
+    font-size: 0.9375rem;
+    color: #6b7280;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+  }
+
+  .award-source {
+    font-size: 0.8125rem;
+    color: #9ca3af;
+    font-style: italic;
+  }
+
+  .back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 0.9375rem;
+    transition: color 0.2s;
+    white-space: nowrap;
+  }
+
+  .back-link:hover {
+    color: var(--primary-dark);
+  }
+
+  .back-link svg {
+    fill: var(--primary);
+    transition: transform 0.2s;
+  }
+
+  .back-link:hover svg {
+    transform: translateX(-4px);
+  }
+
+  @media (max-width: 768px) {
+    .award-card {
+      max-width: 480px;
+      margin: 0 auto;
+    }
+  }
+</style>
