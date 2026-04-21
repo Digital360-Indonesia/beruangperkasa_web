@@ -427,7 +427,6 @@ a {
 .article-date {
   color: var(--text-gray);
   font-size: 0.875rem;
-  margin-bottom: 2rem;
 }
 
 .article-content {
@@ -505,6 +504,8 @@ a {
 .mt-4 { margin-top: 1rem; }
 .mt-6 { margin-top: 1.5rem; }
 .mt-8 { margin-top: 2rem; }
+.mt-10 { margin-top: 2.5rem; }
+.mt-12 { margin-top: 3rem; }
 .mb-0 { margin-bottom: 0; }
 .mb-2 { margin-bottom: 0.5rem; }
 .mb-4 { margin-bottom: 1rem; }
@@ -530,6 +531,8 @@ a {
 .py-16 { padding-top: 4rem; padding-bottom: 4rem; }
 .py-20 { padding-top: 5rem; padding-bottom: 5rem; }
 .pt-4 { padding-top: 1rem; }
+.pt-8 { padding-top: 2rem; }
+.pt-12 { padding-top: 3rem; }
 .pb-4 { padding-bottom: 1rem; }
 
 /* Sizing */
