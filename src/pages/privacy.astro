@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Kebijakan Privasi" description="Kebijakan Privasi CV Beruang Perkasa">
+  <section class="section py-16">
+    <div class="container mx-auto px-4 max-w-4xl">
+      <h1 class="text-3xl md:text-4xl font-bold mb-8 text-center">Kebijakan Privasi</h1>
+      <p class="text-gray text-sm mb-8 text-center">Terakhir diperbarui: 2024</p>
+
+      <div class="article-content space-y-6">
+        <h2 class="text-xl font-semibold">1. Pengumpulan Informasi</h2>
+        <p>Kami mengumpulkan informasi yang Anda berikan langsung kepada kami, seperti nama, alamat email, nomor telepon, dan alamat pengiriman saat Anda melakukan pemesanan atau mendaftar di situs kami.</p>
+
+        <h2 class="text-xl font-semibold">2. Penggunaan Informasi</h2>
+        <p>Informasi yang kami kumpulkan digunakan untuk:</p>
+        <ul class="list-disc pl-6">
+          <li>Memproses dan mengirimkan pesanan Anda</li>
+          <li>Menghubungi Anda mengenai pesanan atau layanan kami</li>
+          <li>Mengirimkan informasi produk dan promosi</li>
+          <li>Memperbaiki layanan dan pengalaman pelanggan</li>
+        </ul>
+
+        <h2 class="text-xl font-semibold">3. Perlindungan Data</h2>
+        <p>Kami menerapkan langkah-langkah keamanan yang sesuai untuk melindungi informasi pribadi Anda dari akses yang tidak sah, pengubahan, pengungkapan, atau penghancuran.</p>
+
+        <h2 class="text-xl font-semibold">4. Sharing Informasi</h2>
+        <p>Kami tidak menjual atau membagikan informasi pribadi Anda kepada pihak ketiga, kecuali diperlukan untuk menyelesaikan transaksi atau sebagaimana disyaratkan oleh hukum.</p>
+
+        <h2 class="text-xl font-semibold">5. Hak Anda</h2>
+        <p>Anda berhak untuk mengakses, memperbaiki, atau menghapus informasi pribadi Anda. Hubungi kami di <a href="mailto:info@beruangperkasa.id" class="text-primary hover:underline">info@beruangperkasa.id</a> untuk permintaan terkait data Anda.</p>
+
+        <h2 class="text-xl font-semibold">6. Kontak</h2>
+        <p>Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami di:</p>
+        <p>
+          <strong>CV Beruang Perkasa</strong><br />
+          Jl. Rungkut Mapan Tengah IX Blok Ci No.30<br />
+          Surabaya – Indonesia<br />
+          Email: info@beruangperkasa.id<br />
+          Telepon: 031-8704593
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .article-content h2 {
+    margin-top: 2rem;
+    color: var(--text-dark);
+  }
+
+  .article-content p {
+    line-height: 1.8;
+    color: var(--text-gray);
+  }
+
+  .article-content ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+    color: var(--text-gray);
+  }
+
+  .article-content li {
+    margin-bottom: 0.5rem;
+  }
+
+  .article-content a {
+    color: var(--primary);
+  }
+
+  .article-content a:hover {
+    text-decoration: underline;
+  }
+
+  .text-primary {
+    color: var(--primary);
+  }
+</style>

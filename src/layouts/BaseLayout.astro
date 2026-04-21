@@ -17,67 +17,663 @@ const { title, description = 'CV Beruang Perkasa - Distributor Semen Putih dan B
     <link rel="icon" type="image/png" href="/uploads/2020/12/logo-bulat.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Martel:wght@400;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/styles/global.css" />
   </head>
   <body>
-    <header class="header">
-      <nav class="header-nav">
-        <a href="/" class="header-logo">
-          <img src="/uploads/2020/12/logo.png" alt="Beruang Perkasa" />
-          <span class="header-brand">Beruang Perkasa</span>
-        </a>
-        <ul class="header-menu">
-          <li><a href="/">Home</a></li>
-          <li><a href="/products">Produk</a></li>
-          <li><a href="/posts">Blog</a></li>
-          <li><a href="/about">Tentang Kami</a></li>
-          <li><a href="/contact">Kontak</a></li>
-        </ul>
-      </nav>
+    <header class="navbar">
+      <div class="navbar_batik">
+      </div>
+      <div class="padding-vertical padding-small">
+        <div class="padding-horizontal padding-large">
+          <div class="navbar_container">
+            <a href="/" class="navbar_logo_wrapper">
+              <img src="/uploads/2020/12/logo.png" alt="Beruang Perkasa" class="navbar_logo" />
+            </a>
+            <nav class="navbar_menu">
+              <a href="/about" class="navbar_link">Tentang Kami</a>
+              <div class="navbar_link_wrapper">
+                <a href="/products" class="navbar_link flex row gap-xsmall left_center">
+                  Produk
+                  <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                </a>
+                <div class="navbar_popup_hover_wrapper product">
+                  <div class="padding-vertical padding-large full-width">
+                    <div class="padding-horizontal padding-large">
+                      <div class="navbar_product_container">
+                        <div class="navbar_product_link_wrapper">
+                          <h2 class="navbar_product_title">
+                            Pilih Produk Berdasarkan
+                            <span class="font-semibold text_green">Solusi</span>
+                          </h2>
+                          <div class="divider_horizontal bg_gray"></div>
+                          <div class="navbar_product_link">
+                            <a href="/products" class="navbar_popup_link"><p>Rumah</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Anti Bocor</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Ramah Lingkungan</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Area Terbuka</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Furnitur & Kerajinan</p></a>
+                          </div>
+                        </div>
+                        <div class="navbar_product_link_wrapper">
+                          <h2 class="navbar_product_title">
+                            Pilih Produk Berdasarkan
+                            <span class="font-semibold text_green">Kategori</span>
+                          </h2>
+                          <div class="divider_horizontal bg_gray"></div>
+                          <div class="navbar_product_link">
+                            <a href="/products" class="navbar_popup_link"><p>Semen Putih</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Perekat Bata Ringan</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Plamir & Acian</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Cat Tembok</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Pengikat & Lem</p></a>
+                            <a href="/products" class="navbar_popup_link"><p>Produk Pendukung</p></a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <a href="/posts" class="navbar_link">Blog</a>
+              <a href="/contact" class="navbar_link">Kontak</a>
+              <a href="/about" class="navbar_link navbar_link-highlight">Penghargaan</a>
+              <a href="/about" class="navbar_link navbar_link-anniversary">15th Anniversary</a>
+            </nav>
+            <div class="navbar_right">
+              <div class="navbar_language_wrapper">
+                <a href="#" class="text_black transition-ease lang-active"><p>ID</p></a>
+                <div class="circle"></div>
+                <a href="#" class="text_black transition-ease"><p>EN</p></a>
+              </div>
+              <div class="navbar_menu_tablet_wrapper">
+                <div class="menu_hamburger">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </header>
 
     <main>
       <slot />
     </main>
 
-    <footer class="footer">
-      <div class="container">
-        <div class="footer-grid">
-          <div>
-            <img src="/uploads/2020/12/logo.png" alt="Beruang Perkasa" style="height: 3rem; margin-bottom: 1rem;" />
-            <p>Distributor bahan bangunan berkualitas untuk seluruh Indonesia.</p>
-          </div>
-          <div>
-            <h4>Produk</h4>
-            <ul>
-              <li><a href="/products">Semen Putih</a></li>
-              <li><a href="/products">Perekat Bata Ringan</a></li>
-              <li><a href="/products">Plamir & Acian</a></li>
-              <li><a href="/products">Skim Coat</a></li>
-            </ul>
-          </div>
-          <div>
-            <h4>Perusahaan</h4>
-            <ul>
-              <li><a href="/about">Tentang Kami</a></li>
-              <li><a href="/contact">Kontak</a></li>
-              <li><a href="/posts">Blog</a></li>
-            </ul>
-          </div>
-          <div>
-            <h4>Kontak</h4>
-            <p>Surabaya, Indonesia</p>
-            <ul style="margin-top: 0.5rem;">
-              <li><a href="https://facebook.com/CV-Beruang-Perkasa-Group-100822325102507">Facebook</a></li>
-              <li><a href="https://www.instagram.com/beruangperkasa/">Instagram</a></li>
-            </ul>
+<footer class="footer">
+      <div class="footer-top">
+        <div class="footer-badge">
+          <span>Berpengalaman Lebih dari 15 Tahun</span>
+        </div>
+      </div>
+      <div class="footer-main">
+        <div class="container">
+          <div class="footer-content">
+            <div class="footer-brand">
+              <img src="/uploads/2020/12/logo.png" alt="Beruang Perkasa" class="footer-logo" />
+              <p class="footer-desc">Distributor bahan bangunan terpercaya untuk proyek-proyek Konstruksi di Indonesia.</p>
+              <div class="footer-social">
+                <a href="https://facebook.com/CV-Beruang-Perkasa-Group-100822325102507" class="social-icon" aria-label="Facebook">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                </a>
+                <a href="https://www.instagram.com/beruangperkasa/" class="social-icon" aria-label="Instagram">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0-5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                </a>
+                <a href="https://wa.me/6281234567890" class="social-icon" aria-label="WhatsApp">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                </a>
+              </div>
+            </div>
+            <div class="footer-nav-group">
+              <h4>Produk</h4>
+              <ul>
+                <li><a href="/products">Semen Putih</a></li>
+                <li><a href="/products">Perekat Bata Ringan</a></li>
+                <li><a href="/products">Plamir & Acian</a></li>
+                <li><a href="/products">Skim Coat</a></li>
+              </ul>
+            </div>
+            <div class="footer-nav-group">
+              <h4>Perusahaan</h4>
+              <ul>
+                <li><a href="/about">Tentang Kami</a></li>
+                <li><a href="/contact">Kontak</a></li>
+                <li><a href="/posts">Blog</a></li>
+              </ul>
+            </div>
+            <div class="footer-contact-group">
+              <h4>Hubungi Kami</h4>
+              <div class="contact-list">
+                <div class="contact-item">
+                  <span class="contact-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+                  </span>
+                  <div>
+                    <span class="contact-label">Email</span>
+                    <a href="mailto:info@beruangperkasa.id">info@beruangperkasa.id</a>
+                  </div>
+                </div>
+                <div class="contact-item">
+                  <span class="contact-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                  </span>
+                  <div>
+                    <span class="contact-label">Telepon</span>
+                    <span>031-8704593 / 031-8721992 / 031-8796430</span>
+                  </div>
+                </div>
+                <div class="contact-item">
+                  <span class="contact-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                  </span>
+                  <div>
+                    <span class="contact-label">Kantor</span>
+                    <span>Jl. Rungkut Mapan Tengah IX Blok Ci No.30<br />Surabaya – Indonesia</span>
+                  </div>
+                </div>
+                <div class="contact-item">
+                  <span class="contact-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                  </span>
+                  <div>
+                    <span class="contact-label">Showroom</span>
+                    <span>Jl. Brigjen Katamso No. 164 – 165, Waru, Sidoarjo – Indonesia</span>
+                    <span>031-76523495 / 081333333871</span>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="footer-bottom">
-          <p>&copy; 2024 Beruang Perkasa. All rights reserved.</p>
+      </div>
+      <div class="footer-bottom">
+        <div class="container">
+          <div class="footer-bottom-content">
+            <p>&copy; 2024 Beruang Perkasa. All rights reserved.</p>
+            <div class="footer-links">
+              <a href="/privacy">Kebijakan Privasi</a>
+              <span class="divider">|</span>
+              <a href="/terms">Syarat & Ketentuan</a>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
   </body>
 </html>
+
+<style>
+  .flex {
+    display: flex;
+  }
+
+  .flex.row {
+    flex-direction: row;
+  }
+
+  .flex.col {
+    flex-direction: column;
+  }
+
+  .gap-xsmall {
+    gap: 0.25rem;
+  }
+
+  .left_center {
+    align-items: center;
+  }
+
+  .padding-vertical {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+
+  .padding-small {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .padding-medium {
+    padding: 1rem;
+  }
+
+  .padding-large {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .padding-horizontal {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .full-width {
+    width: 100%;
+  }
+
+  .navbar_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .navbar_logo_wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar_logo {
+    height: 3rem;
+  }
+
+  .navbar_menu {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .navbar_link {
+    font-weight: 500;
+    font-size: 0.9375rem;
+    transition: color 0.2s;
+    color: var(--text-dark);
+  }
+
+  .navbar_link:hover {
+    color: var(--primary);
+  }
+
+  .navbar_link_wrapper {
+    position: relative;
+  }
+
+  .navbar_link-highlight {
+    color: var(--accent-green);
+    font-weight: 600;
+  }
+
+  .navbar_link-highlight:hover {
+    color: var(--primary);
+  }
+
+  .navbar_link-anniversary {
+    background: var(--primary);
+    color: var(--white);
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    font-weight: 600;
+  }
+
+  .navbar_link-anniversary:hover {
+    background: var(--primary-dark);
+    color: var(--white);
+  }
+
+  .navbar_popup_hover_wrapper {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 400px;
+    background: var(--white);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.25s ease;
+    z-index: 100;
+  }
+
+  .navbar_link_wrapper:hover .navbar_popup_hover_wrapper {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .navbar_product_container {
+    display: flex;
+    gap: 2.5rem;
+  }
+
+  .navbar_product_link_wrapper {
+    min-width: 160px;
+  }
+
+  .navbar_product_title {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 0.5rem;
+  }
+
+  .navbar_popup_link {
+    display: block;
+    padding: 0.25rem 0;
+  }
+
+  .navbar_popup_link p {
+    font-size: 0.875rem;
+    color: var(--text-gray);
+    transition: color 0.2s;
+  }
+
+  .navbar_popup_link:hover p {
+    color: var(--primary);
+  }
+
+  .divider_horizontal {
+    height: 1px;
+    margin: 0.5rem 0;
+  }
+
+  .divider_horizontal.bg_gray {
+    background: #e5e7eb;
+  }
+
+  .text_green {
+    color: var(--accent-green);
+  }
+
+  .font-semibold {
+    font-weight: 600;
+  }
+
+  /* Footer Styles */
+  .footer {
+    background: var(--secondary);
+    color: var(--white);
+  }
+
+  .footer-top {
+    background: linear-gradient(135deg, var(--primary) 0%, #b81017 100%);
+    padding: 1.5rem 0;
+    text-align: center;
+  }
+
+  .footer-badge {
+    display: inline-block;
+  }
+
+  .footer-badge span {
+    color: var(--white);
+    font-size: 1.125rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+  }
+
+  .footer-main {
+    padding: 40px 0 0 0;
+  }
+
+  .footer-content {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr 1.6fr;
+    gap: 4rem;
+  }
+
+  .footer-brand .footer-logo {
+    height: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .footer-brand .footer-desc {
+    color: #9ca3af;
+    font-size: 0.9375rem;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+  }
+
+  .footer-social {
+    display: flex;
+    gap: 0.75rem;
+  }
+
+  .social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.08);
+    color: #d1d5db;
+    transition: all 0.3s;
+  }
+
+  .social-icon:hover {
+    background: var(--primary);
+    color: var(--white);
+    transform: translateY(-2px);
+  }
+
+  .footer-nav-group h4,
+  .footer-contact-group h4 {
+    color: var(--white);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid rgba(255,255,255,0.1);
+  }
+
+  .footer-nav-group ul {
+    list-style: none;
+  }
+
+  .footer-nav-group ul li {
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-nav-group ul li a {
+    color: #9ca3af;
+    font-size: 0.9375rem;
+    transition: all 0.2s;
+    display: inline-block;
+  }
+
+  .footer-nav-group ul li a:hover {
+    color: var(--white);
+    padding-left: 0.5rem;
+  }
+
+  .contact-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .contact-list .contact-item {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .contact-list .contact-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    background: rgba(255,255,255,0.08);
+    color: var(--primary);
+    flex-shrink: 0;
+    position: relative;
+  }
+
+  .contact-list .contact-icon svg {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 14px;
+    height: 14px;
+  }
+
+  .contact-list .contact-label {
+    display: block;
+    color: #6b7280;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+  }
+
+  .contact-list .contact-item span,
+  .contact-list .contact-item a {
+    display: block;
+    color: #d1d5db;
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+
+  .contact-list .contact-item a:hover {
+    color: var(--white);
+  }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.08);
+    padding: 1.5rem 0;
+    background: rgba(0,0,0,0.15);
+  }
+
+  .footer-bottom-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .footer-bottom p {
+    color: #6b7280;
+    font-size: 0.875rem;
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .footer-links a {
+    color: #6b7280;
+    font-size: 0.875rem;
+    transition: color 0.2s;
+  }
+
+  .footer-links a:hover {
+    color: var(--white);
+  }
+
+  .footer-links .divider {
+    color: #4b5563;
+  }
+
+  @media (max-width: 1024px) {
+    .footer-content {
+      grid-template-columns: 1fr 1fr;
+      gap: 3rem;
+    }
+
+    .footer-brand {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .footer-content {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+
+    .footer-badge span {
+      font-size: 1rem;
+    }
+
+    .footer-main {
+      padding: 3rem 0;
+    }
+
+    .footer-bottom-content {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+
+  .navbar_right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .navbar_language_wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .navbar_language_wrapper a {
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .navbar_language_wrapper .lang-active {
+    color: var(--primary);
+  }
+
+  .navbar_language_wrapper .circle {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--text-gray);
+  }
+
+  .transition-ease {
+    transition: color 0.2s;
+  }
+
+  .text_black {
+    color: var(--text-dark);
+  }
+
+  .navbar_menu_tablet_wrapper {
+    display: none;
+  }
+
+  .menu_hamburger {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    cursor: pointer;
+    padding: 8px;
+  }
+
+  .menu_hamburger span {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: var(--text-dark);
+  }
+
+  @media (max-width: 991px) {
+    .navbar_menu {
+      display: none;
+    }
+
+    .navbar_language_wrapper {
+      display: none;
+    }
+
+    .navbar_menu_tablet_wrapper {
+      display: block;
+    }
+  }
+</style>
