@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const pages = await getCollection('pages');
+const aboutPage = pages.find(p => p.slug === 'about-us' || p.slug === 'profil');
+---
+
+<BaseLayout title="Tentang Kami" description="CV Beruang Perkasa - Distributor Bahan Bangunan Berkualitas di Surabaya">
+  <section class="py-16">
+    <div class="container mx-auto px-4 max-w-3xl">
+      <h1 class="text-4xl font-bold mb-8">Tentang CV Beruang Perkasa</h1>
+
+      <div class="prose prose-lg max-w-none">
+        <p class="text-lg text-gray-600 mb-6">
+          CV. Beruang Perkasa adalah perusahaan distributor bahan bangunan yang telah berdiri dan dipercaya
+          sejak tahun 2010. Kami melayani distribusi berbagai produk bahan bangunan berkualitas ke seluruh Indonesia.
+        </p>
+
+        <h2 class="text-2xl font-bold mt-8 mb-4">Visi Kami</h2>
+        <p>Menjadi distributor bahan bangunan terpercaya yang menyediakan produk berkualitas dengan harga kompetitif untuk seluruh Indonesia.</p>
+
+        <h2 class="text-2xl font-bold mt-8 mb-4">Misi Kami</h2>
+        <ul>
+          <li>Menyediakan produk bahan bangunan berkualitas tinggi</li>
+          <li>Membangun hubungan jangka panjang dengan pelanggan</li>
+          <li>Mengembangkan jaringan distribusi ke seluruh Indonesia</li>
+          <li>Memberikan layanan terbaik dan konsultasi teknis</li>
+        </ul>
+
+        <h2 class="text-2xl font-bold mt-8 mb-4">Produk Kami</h2>
+        <p>Kami menyediakan berbagai produk bahan bangunan termasuk:</p>
+        <ul>
+          <li>Semen Putih (Black Bull, Elephant, Panda, Garuda, Fuji)</li>
+          <li>Perekat Bata Ringan (Big Lion, Elephant)</li>
+          <li>Plamir Instant dan Waterproof (Big Lion)</li>
+          <li>Acian dan Skim Coat (Black Bull, Big Lion, Elephant, Asian)</li>
+          <li>LEM PVAC, Calcium Carbonate, Cat Tembok, dan lainnya</li>
+        </ul>
+
+        <h2 class="text-2xl font-bold mt-8 mb-4">Penghargaan</h2>
+        <p>Kami bangga telah mendapat kepercayaan dari pelanggan dan berbagai penghargaan termasuk:</p>
+        <ul>
+          <li>Golden Properti Awards 2022 - Favorite Brand</li>
+          <li>Indonesia Prestige Brand Award 2012</li>
+          <li>The Best Service Excellent of the Year</li>
+          <li>The Most Reliable Distributor of the Year</li>
+        </ul>
+      </div>
+
+      <div class="mt-12 pt-8 border-t">
+        <a href="/contact" class="bg-red-600 text-white px-6 py-3 rounded font-semibold hover:bg-red-700 transition">
+          Hubungi Kami
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

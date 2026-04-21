@@ -1,0 +1,46 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((post) => ({
+    params: { slug: post.data.slug || post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<BaseLayout title={post.data.title} description={post.data.excerpt}>
+  <article class="py-16">
+    <div class="container mx-auto px-4 max-w-3xl">
+      {post.data.image && (
+        <div class="mb-8">
+          <img src={post.data.image} alt={post.data.title} class="w-full max-h-96 object-cover rounded-lg" />
+        </div>
+      )}
+      {post.data.date && (
+        <p class="text-gray-500 mb-4">
+          {new Date(post.data.date).toLocaleDateString('id-ID', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+          })}
+        </p>
+      )}
+
+      <h1 class="text-4xl font-bold mb-8">{post.data.title}</h1>
+
+      <div class="prose prose-lg max-w-none">
+        <Content />
+      </div>
+
+      <div class="mt-12 pt-8 border-t">
+        <a href="/posts" class="text-red-600 hover:underline">&larr; Kembali ke Blog</a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>

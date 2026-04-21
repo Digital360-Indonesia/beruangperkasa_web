@@ -1,0 +1,10 @@
+---
+title: "Rekomendasi Acian Berkualitas, Acian Black Bull"
+slug: "rekomendasi-acian-berkualitas-acian-black-bull"
+date: "2024-02-19 22:11:12"
+excerpt: "Dalam dunia kontruksi tentu tidak asing dengan namanya acian. Acian merupakan proses pekerjaan dinding yang bertujuan untuk menutupi semua pori - pori dan juga memperhalus hasil plesteran. Dapat dikat"
+wordpress_id: 3911
+image: "/uploads/2024/01/istockphoto-506840393-612x612-1.jpg"
+---
+
+<p>Dalam dunia kontruksi tentu tidak asing dengan namanya acian. Acian merupakan proses pekerjaan dinding yang bertujuan untuk menutupi semua pori - pori dan juga memperhalus hasil plesteran. Dapat dikatakan bahwa proses acian ini dilakukan setelah hasil plesteran kering sempurna. Material yang digunakan pun berbeda dengan proses plesteran karena dalam proses acian ini tidak menggunakan pasir hanya menggunakan campuran semen dan air saja.&nbsp;</p> <p>Di pasaran memang terdapat banyak produk acian, bagi kita yang masih awam dengan kontruksi pasti asal memilih. Salah satu produk acia yang familiar dan berkualitas tentunya acian black bull.</p> <p>Acian black bull adalah produk <em>finishing</em> yang berkualitas dengan pengaplikasian yang mudah, hanya menambah air saja bisa langsung pakai. Acian ini memiliki formula dan bahan <em>additive</em> khusus menghasilkan acian yang dapat diaplikasikan dengan ketebalan lebih tipis (1 – 2 mm) dan tanpa terjadi retak rambut, hasil akhir yang putih, lembut dan halus.</p> <p>Nah, agar semen acian dapat teraplikasikan dengan baik, berikut tips cara penggunaanya</p> <ul><li>Buat adonan semen dengan perbandingan campuran powder acian dan air sebesar 2 : 1</li><li>Kemudian basahi dulu permukaan dinding, plafon dak atau kolom sebelum pengaplikasian acian</li><li>Lalu aplikasikan acian menggunakan roskam besi atau kapi plastik</li><li>Setelah acian setengah kering gosok dengan kertas zak semen atau karet busa</li><li>Dan setelah acian kering (24 Jam) dapat langsung dilakukan pengecatan tanpa perlu lapisan plamir</li></ul> <p>Dengan penggunaan sesuai prosedur diatas, proses acian akan terasa mudah. Dan tentunya hasil acian sangat memuaskan.</p>

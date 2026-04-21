@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const recentPosts = allPosts
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+  .slice(0, 6);
+---
+
+<BaseLayout title="Home" description="CV Beruang Perkasa - Distributor Semen Putih, Perekat Bata Ringan, Plamir, Acian dan Bahan Bangunan Berkualitas">
+  <section class="bg-gradient-to-r from-gray-900 to-gray-800 text-white py-20">
+    <div class="container mx-auto px-4 text-center">
+      <h1 class="text-4xl md:text-6xl font-bold mb-6" style="font-family: 'Martel', serif;">
+        Profesional Dan Komitmen<br />
+        Menguasai Pangsa Pasar<br />
+        Hampir Seluruh Indonesia
+      </h1>
+      <p class="text-xl text-gray-300 mb-8">Melalui Distribusi Bahan Bangunan Berkualitas</p>
+      <div class="flex gap-4 justify-center">
+        <a href="/products" class="bg-red-600 text-white px-8 py-3 rounded font-semibold hover:bg-red-700 transition">
+          Lihat Produk
+        </a>
+        <a href="/contact" class="bg-transparent border-2 border-white px-8 py-3 rounded font-semibold hover:bg-white hover:text-gray-900 transition">
+          Hubungi Kami
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 bg-gray-50">
+    <div class="container mx-auto px-4">
+      <h2 class="text-3xl font-bold text-center mb-12">Produk Unggulan</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="bg-white p-6 rounded-lg shadow-md">
+          <div class="h-48 bg-gray-200 rounded mb-4 flex items-center justify-center">
+            <span class="text-gray-500">Semen Putih</span>
+          </div>
+          <h3 class="font-bold text-lg mb-2">Semen Putih Black Bull</h3>
+          <p class="text-gray-600 text-sm">Semen putih berkualitas tinggi untuk finishing dan dekorasi bangunan.</p>
+          <a href="/products" class="text-red-600 mt-4 inline-block hover:underline">Selengkapnya &rarr;</a>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow-md">
+          <div class="h-48 bg-gray-200 rounded mb-4 flex items-center justify-center">
+            <span class="text-gray-500">Perekat Bata</span>
+          </div>
+          <h3 class="font-bold text-lg mb-2">Perekat Bata Ringan Big Lion</h3>
+          <p class="text-gray-600 text-sm">Perekat bata ringan 5 in 1 untuk berbagai jenis pasangan.</p>
+          <a href="/products" class="text-red-600 mt-4 inline-block hover:underline">Selengkapnya &rarr;</a>
+        </div>
+        <div class="bg-white p-6 rounded-lg shadow-md">
+          <div class="h-48 bg-gray-200 rounded mb-4 flex items-center justify-center">
+            <span class="text-gray-500">Plamir</span>
+          </div>
+          <h3 class="font-bold text-lg mb-2">Plamir Instant Big Lion</h3>
+          <p class="text-gray-600 text-sm">Plamir siap pakai untuk finishing dinding yang rata dan halus.</p>
+          <a href="/products" class="text-red-600 mt-4 inline-block hover:underline">Selengkapnya &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16">
+    <div class="container mx-auto px-4">
+      <h2 class="text-3xl font-bold text-center mb-12">Artikel Terbaru</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {recentPosts.map((post) => {
+          const slug = post.data.slug || post.id;
+          return (
+            <a href={`/posts/${slug}`} class="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
+              <div class="p-6">
+                <h3 class="font-bold text-lg mb-2 line-clamp-2">{post.data.title}</h3>
+                <p class="text-gray-600 text-sm line-clamp-3">{post.data.excerpt || 'Baca artikel lengkap tentang bahan bangunan...'}</p>
+                <span class="text-red-600 mt-4 inline-block text-sm">Baca Selengkapnya &rarr;</span>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+      <div class="text-center mt-8">
+        <a href="/posts" class="bg-red-600 text-white px-8 py-3 rounded font-semibold hover:bg-red-700 transition">
+          Lihat Semua Artikel
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16 bg-red-600 text-white">
+    <div class="container mx-auto px-4 text-center">
+      <h2 class="text-3xl font-bold mb-4">Tentang CV Beruang Perkasa</h2>
+      <p class="text-lg mb-8 max-w-2xl mx-auto">
+        Telah dipercaya sejak 2010 sebagai distributor bahan bangunan terpercaya di Surabaya dan seluruh Indonesia.
+        Produk kami包括 Semen Putih, Perekat Bata Ringan, Plamir, Acian, dan berbagai bahan bangunan berkualitas lainnya.
+      </p>
+      <a href="/about" class="bg-white text-red-600 px-8 py-3 rounded font-semibold hover:bg-gray-100 transition">
+        Pelajari Lebih Lanjut
+      </a>
+    </div>
+  </section>
+</BaseLayout>

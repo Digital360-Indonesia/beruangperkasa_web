@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://beruangperkasa.id
+Data file = /home/beruangp/public_html/wp-content/themes/intoria/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = /home/beruangp/public_html/wp-content/themes/intoria/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+intoria_theme_options -> /home/beruangp/public_html/wp-content/themes/intoria/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog sidebar : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Apus Recent Posts Widget - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+Apus Socials - Follow us - Imported
+
+Contact sidebar : 
+
+Custom HTML - Get In Touch - Imported
+Apus Contact Info Widget - Contact Info - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: intoria_theme_options finished successfully!
+
+---pt-ocdi/after_import---
+
