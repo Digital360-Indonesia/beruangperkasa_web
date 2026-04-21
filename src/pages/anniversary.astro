@@ -1,0 +1,326 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const apageImages = [
+  { src: "/uploads/15th-anniversary/apage-1-2.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-3-4.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-5-6.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-7-8.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-9-10.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-11-12.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-13-14.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-17-18.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-19-20.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/apage-21-22.webp", alt: "15th Anniversary" },
+];
+
+const galleryImages = [
+  { src: "/uploads/15th-anniversary/DSC_8423.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8563.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8682.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8711.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8721.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8725.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8767.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8863.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8889.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8890.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8890 (1).webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8904.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8940.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_8942.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9012.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9095.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9113.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9139.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9148.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9150.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9159.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9185.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9225.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9280.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9283.webp", alt: "15th Anniversary" },
+  { src: "/uploads/15th-anniversary/DSC_9310.webp", alt: "15th Anniversary" },
+];
+---
+
+<BaseLayout title="15th Anniversary" description="Perayaan 15 Tahun Beruang Perkasa - Distributor Bahan Bangunan">
+  <section class="anniversary">
+    <div class="slider-container">
+      <div class="slider" id="slider">
+        {apageImages.map((img, index) => (
+          <div class="slide" data-index={index}>
+            <img src={img.src} alt={img.alt} />
+          </div>
+        ))}
+      </div>
+      <button class="slider-btn prev" id="prevBtn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+      </button>
+      <button class="slider-btn next" id="nextBtn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M9 18l6-6-6-6"/>
+        </svg>
+      </button>
+      <div class="slider-dots" id="sliderDots">
+        {apageImages.map((_, index) => (
+          <span class="dot" data-index={index}></span>
+        ))}
+      </div>
+    </div>
+
+    <div class="container mx-auto px-4">
+      <div class="text-center mb-8">
+        <h1 class="text-2xl md:text-3xl font-bold mb-2">15th Anniversary</h1>
+        <p class="text-gray-600 text-sm">Perayaan 15 Tahun Beruang Perkasa</p>
+      </div>
+
+      <div class="metro-gallery">
+        {galleryImages.map((img, index) => (
+          <div class="metro-item">
+            <img src={img.src} alt={img.alt} loading="lazy" />
+          </div>
+        ))}
+      </div>
+
+      <div class="mt-6 text-center">
+        <a href="/about" class="back-link">
+          <svg style="width: 20px; height: 20px; fill: none; stroke: var(--primary);" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+          </svg>
+          Kembali ke Tentang Kami
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .anniversary {
+    padding: 1rem 0 3rem;
+  }
+
+  .slider-container {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 30px auto 30px;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    max-height: 400px;
+  }
+
+  .slider {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
+
+  .slide {
+    min-width: 100%;
+  }
+
+  .slide img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: contain;
+  }
+
+  .slider-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    z-index: 10;
+  }
+
+  .slider-btn:hover {
+    background: var(--primary);
+    color: white;
+  }
+
+  .slider-btn svg {
+    width: 24px;
+    height: 24px;
+    stroke: currentColor;
+  }
+
+  .slider-btn.prev {
+    left: 1rem;
+  }
+
+  .slider-btn.next {
+    right: 1rem;
+  }
+
+  .slider-dots {
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 0.5rem;
+    z-index: 10;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .dot.active {
+    background: var(--primary);
+    transform: scale(1.2);
+  }
+
+  .metro-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .metro-item {
+    aspect-ratio: 1;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    background: #f3f4f6;
+  }
+
+  .metro-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+
+  .metro-item:hover img {
+    transform: scale(1.05);
+  }
+
+  .metro-item:nth-child(5),
+  .metro-item:nth-child(10),
+  .metro-item:nth-child(15),
+  .metro-item:nth-child(20) {
+    grid-column: span 2;
+    aspect-ratio: 2/1;
+  }
+
+  .back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 0.9375rem;
+    transition: color 0.2s;
+    white-space: nowrap;
+  }
+
+  .back-link:hover {
+    color: var(--primary-dark);
+  }
+
+  .back-link svg {
+    transition: transform 0.2s;
+  }
+
+  .back-link:hover svg {
+    transform: translateX(-4px);
+  }
+
+  @media (max-width: 1024px) {
+    .metro-gallery {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .slider-container {
+      border-radius: 0;
+      margin-left: -1rem;
+      margin-right: -1rem;
+    }
+
+    .metro-gallery {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .metro-item:nth-child(5),
+    .metro-item:nth-child(10),
+    .metro-item:nth-child(15),
+    .metro-item:nth-child(20) {
+      grid-column: span 1;
+      aspect-ratio: 1;
+    }
+  }
+</style>
+
+<script>
+  const slider = document.getElementById('slider');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const dots = document.querySelectorAll('.dot');
+  let currentIndex = 0;
+  const totalSlides = dots.length;
+
+  function updateSlider() {
+    if (slider) {
+      slider.style.transform = `translateX(-${currentIndex * 100}%)`;
+    }
+    dots.forEach((dot, index) => {
+      dot.classList.toggle('active', index === currentIndex);
+    });
+  }
+
+  prevBtn?.addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+    updateSlider();
+  });
+
+  nextBtn?.addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % totalSlides;
+    updateSlider();
+  });
+
+  dots.forEach((dot, index) => {
+    dot.addEventListener('click', () => {
+      currentIndex = index;
+      updateSlider();
+    });
+  });
+
+  let autoSlideInterval = setInterval(() => {
+    currentIndex = (currentIndex + 1) % totalSlides;
+    updateSlider();
+  }, 5000);
+
+  const sliderContainer = document.querySelector('.slider-container');
+  sliderContainer?.addEventListener('mouseenter', () => {
+    clearInterval(autoSlideInterval);
+  });
+  sliderContainer?.addEventListener('mouseleave', () => {
+    autoSlideInterval = setInterval(() => {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlider();
+    }, 5000);
+  });
+
+  dots[0]?.classList.add('active');
+</script>
