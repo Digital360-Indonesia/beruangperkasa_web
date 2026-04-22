@@ -1,58 +1,480 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
 
-const pages = await getCollection('pages');
-const aboutPage = pages.find(p => p.slug === 'about-us' || p.slug === 'profil');
+const milestones = [
+  { year: '1996', title: 'Awal Berdiri', description: 'Beruang Perkasa memulai usaha sebagai distributor semen putih' },
+  { year: '2000', title: 'Ekspansi Produk', description: 'Mendistribusikan BLACK BULL dan ELEPHANT dengan respon pasar yang antusias' },
+  { year: '2010', title: 'CV Beruang Perkasa', description: 'Berkembang menjadi perusahaan profesional dengan legalitas lengkap' },
+  { year: '2012', title: 'Penghargaan Perdana', description: 'Meraih berbagai penghargaan bergengsi nasional' },
+  { year: '2024', title: '15th Anniversary', description: 'Memperingati 15 tahun perjalanan dengan penuh semangat' },
+];
 ---
 
 <BaseLayout title="Tentang Kami" description="CV Beruang Perkasa - Distributor Bahan Bangunan Berkualitas di Surabaya">
-  <section class="py-16">
-    <div class="container mx-auto px-4 max-w-3xl">
-      <h1 class="text-4xl font-bold mb-8">Tentang CV Beruang Perkasa</h1>
-
-      <div class="prose prose-lg max-w-none">
-        <p class="text-lg text-gray-600 mb-6">
-          CV. Beruang Perkasa adalah perusahaan distributor bahan bangunan yang telah berdiri dan dipercaya
-          sejak tahun 2010. Kami melayani distribusi berbagai produk bahan bangunan berkualitas ke seluruh Indonesia.
-        </p>
-
-        <h2 class="text-2xl font-bold mt-8 mb-4">Visi Kami</h2>
-        <p>Menjadi distributor bahan bangunan terpercaya yang menyediakan produk berkualitas dengan harga kompetitif untuk seluruh Indonesia.</p>
-
-        <h2 class="text-2xl font-bold mt-8 mb-4">Misi Kami</h2>
-        <ul>
-          <li>Menyediakan produk bahan bangunan berkualitas tinggi</li>
-          <li>Membangun hubungan jangka panjang dengan pelanggan</li>
-          <li>Mengembangkan jaringan distribusi ke seluruh Indonesia</li>
-          <li>Memberikan layanan terbaik dan konsultasi teknis</li>
-        </ul>
-
-        <h2 class="text-2xl font-bold mt-8 mb-4">Produk Kami</h2>
-        <p>Kami menyediakan berbagai produk bahan bangunan termasuk:</p>
-        <ul>
-          <li>Semen Putih (Black Bull, Elephant, Panda, Garuda, Fuji)</li>
-          <li>Perekat Bata Ringan (Big Lion, Elephant)</li>
-          <li>Plamir Instant dan Waterproof (Big Lion)</li>
-          <li>Acian dan Skim Coat (Black Bull, Big Lion, Elephant, Asian)</li>
-          <li>LEM PVAC, Calcium Carbonate, Cat Tembok, dan lainnya</li>
-        </ul>
-
-        <h2 class="text-2xl font-bold mt-8 mb-4">Penghargaan</h2>
-        <p>Kami bangga telah mendapat kepercayaan dari pelanggan dan berbagai penghargaan.</p>
-        <a href="/awards" class="inline-flex items-center gap-2 text-red-600 hover:text-red-700 font-semibold mt-2">
-          Lihat Semua Penghargaan
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-          </svg>
-        </a>
-      </div>
-
-      <div class="mt-12 pt-8 border-t">
-        <a href="/contact" class="bg-red-600 text-white px-6 py-3 rounded font-semibold hover:bg-red-700 transition">
-          Hubungi Kami
-        </a>
+  <section class="about-hero">
+    <div class="container-xl mx-auto px-4">
+      <div class="text-center">
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">Tentang Kami</h1>
+        <p class="text-gray text-lg max-w-2xl mx-auto">Distributor bahan bangunan terpercaya sejak 1996, melayani distribusi ke seluruh Indonesia</p>
       </div>
     </div>
   </section>
+
+  
+
+  <section class="py-16 bg-gray-50">
+    <div class="container-xl mx-auto px-4 max-w-3xl mx-auto">
+      <div class="bg-white rounded-xl p-8 shadow-md">
+        <div class="flex flex-col items-center gap-8">
+          <div class="about-image-container">
+            <img src="/uploads/anniversary/DSC_9310.webp" alt="Tentang Beruang Perkasa" class="about-image" />
+          </div>
+          <div class="prose-content text-center">
+            <p class="text-lg text-gray-600 mb-4">
+              Perjalanan <strong>Beruang Perkasa</strong>, dimulai sejak tahun 1996.
+            </p>
+            <p class="text-gray mb-4">
+              Beruang Perkasa memulai usaha sebagai perusahaan Distributor Semen Putih jenis spesifikasi plamir tembok berawal di toko-toko bahan bangunan di wilayah Surabaya, kemudian pangsa pasarnya berkembang sampai ke seluruh pelosok Tanah Air.
+            </p>
+            <p class="text-gray mb-4">
+              Beruang Perkasa memulai distribusi perdananya dengan semen putih merk BLACK BULL dan semen putih merk ELEPHANT pada tahun 2000. Dengan respon pasar yang antusias di daerah luar Surabaya, kemudian melebarkan sayap dengan merambah daerah-daerah sekitarnya.
+            </p>
+            <p class="text-gray">
+              Saat ini, Beruang Perkasa menguasai pangsa pasar hampir di seluruh Indonesia, mendistribusikan ratusan ribu ton semen putih dan dikenal sebagai distributor semen putih jenis spesifikasi plamir terbaik yang bermutu tinggi.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16">
+    <div class="container-xl mx-auto px-4">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Visi & Misi</h2>
+        <p class="text-gray text-lg max-w-xl mx-auto">Komitmen kami untuk selalu memberikan yang terbaik</p>
+      </div>
+      <div class="vm-grid">
+        <div class="vm-card vm-vision">
+          <div class="vm-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/>
+              <circle cx="12" cy="12" r="3"/>
+            </svg>
+          </div>
+          <h3 class="vm-title">Visi</h3>
+          <p class="vm-text">Memberikan pelayanan terbaik dengan mutu terjamin</p>
+        </div>
+        <div class="vm-card vm-mission">
+          <div class="vm-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+            </svg>
+          </div>
+          <h3 class="vm-title">Misi</h3>
+          <p class="vm-text">Selalu memberikan inovasi produk terbaru dan terdepan dengan teknologi modern</p>
+        </div>
+      </div>
+    </div>
+</section>
+
+  <section class="py-16">
+    <div class="container-xl mx-auto px-4">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Perjalanan Kami</h2>
+        <p class="text-gray text-lg max-w-xl mx-auto">Menandai momen-momen penting dalam sejarah Beruang Perkasa</p>
+      </div>
+      <div class="timeline">
+        {milestones.map((item, index) => (
+          <div class="timeline-item">
+            <div class="timeline-year">{item.year}</div>
+            <div class="timeline-content">
+              <h3 class="timeline-title">{item.title}</h3>
+              <p class="timeline-desc">{item.description}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16">
+    <div class="container-xl mx-auto px-4">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold mb-4">Nilai Perusahaan</h2>
+        <p class="text-gray text-lg max-w-xl mx-auto">Prinsip yang menjungi standar kerja kami</p>
+      </div>
+      <div class="values-grid">
+        <div class="value-card">
+          <div class="value-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+              <polyline points="22 4 12 14.01 9 11.01"/>
+            </svg>
+          </div>
+          <h3 class="value-title">Mutu Terjamin</h3>
+          <p class="value-desc">Produk-produk berkualitas tinggi dengan standar internasional</p>
+        </div>
+        <div class="value-card">
+          <div class="value-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+              <circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+              <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+          </div>
+          <h3 class="value-title">Pelayanan Prima</h3>
+          <p class="value-desc">Mengutamakan kepuasan pelanggan dalam setiap transaksi</p>
+        </div>
+        <div class="value-card">
+          <div class="value-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="12" y1="8" x2="12" y2="12"/>
+              <line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+          </div>
+          <h3 class="value-title">Inovasi Berkelanjutan</h3>
+          <p class="value-desc">Terus mengembangkan produk dan layanan terbaru</p>
+        </div>
+        <div class="value-card">
+          <div class="value-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+              <circle cx="12" cy="10" r="3"/>
+            </svg>
+          </div>
+          <h3 class="value-title">Jangkauan Nasional</h3>
+          <p class="value-desc">Distribusi ke seluruh pelosok Indonesia</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  </section>
 </BaseLayout>
+
+<style>
+  .about-hero {
+    background: linear-gradient(135deg, var(--secondary) 0%, #2a4a4e 100%);
+    padding: 4rem 0;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .about-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .about-hero p {
+    color: #d1d5db;
+    font-size: 1.125rem;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .stat-card {
+    background: var(--white);
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  }
+
+  .stat-value {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+  }
+
+  .stat-label {
+    font-size: 0.875rem;
+    color: var(--text-gray);
+    font-weight: 500;
+  }
+
+  .prose-content p {
+    line-height: 1.8;
+    color: var(--text-gray);
+  }
+
+  .prose-content strong {
+    color: var(--text-dark);
+  }
+
+  .about-image-container {
+    position: relative;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+  }
+
+  .about-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.5s ease;
+  }
+
+  .about-image-container:hover .about-image {
+    transform: scale(1.05);
+  }
+
+  .vm-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .vm-card {
+    background: var(--white);
+    border-radius: 1rem;
+    padding: 2.5rem;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+  }
+
+  .vm-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  }
+
+  .vm-vision {
+    border-color: var(--primary);
+  }
+
+  .vm-mission {
+    border-color: var(--accent-green);
+  }
+
+  .vm-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+  }
+
+  .vm-vision .vm-icon {
+    background: rgba(228, 21, 32, 0.1);
+    color: var(--primary);
+  }
+
+  .vm-mission .vm-icon {
+    background: rgba(0, 104, 95, 0.1);
+    color: var(--accent-green);
+  }
+
+  .vm-icon svg {
+    width: 28px;
+    height: 28px;
+  }
+
+  .vm-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--text-dark);
+  }
+
+  .vm-text {
+    font-size: 1rem;
+    color: var(--text-gray);
+    line-height: 1.7;
+  }
+
+  .timeline {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 80px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--primary) 0%, var(--accent-green) 100%);
+  }
+
+  .timeline-item {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+  }
+
+  .timeline-year {
+    min-width: 60px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--primary);
+    text-align: right;
+    padding-top: 0.25rem;
+  }
+
+  .timeline-content {
+    background: var(--white);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    flex: 1;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border-left: 4px solid var(--primary);
+  }
+
+  .timeline-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text-dark);
+  }
+
+  .timeline-desc {
+    font-size: 0.9375rem;
+    color: var(--text-gray);
+    line-height: 1.6;
+  }
+
+  .values-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .value-card {
+    background: var(--white);
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+  }
+
+  .value-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  }
+
+  .value-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: rgba(228, 21, 32, 0.1);
+    color: var(--primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.25rem;
+  }
+
+  .value-icon svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .value-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: var(--text-dark);
+  }
+
+  .value-desc {
+    font-size: 0.875rem;
+    color: var(--text-gray);
+    line-height: 1.6;
+  }
+
+  .btn-outline {
+    background: transparent;
+    border: 2px solid var(--white);
+    color: var(--white);
+  }
+
+  .btn-outline:hover {
+    background: var(--white);
+    color: var(--primary);
+  }
+
+  @media (max-width: 1024px) {
+    .stats-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .values-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .timeline::before {
+      left: 60px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .about-hero {
+      padding: 3rem 0;
+    }
+
+    .stats-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+
+    .stat-card {
+      padding: 1.5rem;
+    }
+
+    .stat-value {
+      font-size: 2rem;
+    }
+
+    .vm-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .timeline {
+      padding-left: 1rem;
+    }
+
+    .timeline::before {
+      left: 20px;
+    }
+
+    .timeline-year {
+      min-width: 40px;
+      font-size: 1rem;
+    }
+
+    .values-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
