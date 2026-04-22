@@ -5,6 +5,7 @@ interface Props {
 }
 
 const { title, description = 'CV Beruang Perkasa - Distributor Semen Putih dan Bahan Bangunan Berkualitas' } = Astro.props;
+const currentPath = Astro.url.pathname;
 ---
 
 <!doctype html>
@@ -31,10 +32,10 @@ const { title, description = 'CV Beruang Perkasa - Distributor Semen Putih dan B
               <img src="/uploads/logos/logo.png" alt="Beruang Perkasa" class="navbar_logo" />
             </a>
             <nav class="navbar_menu">
-              <a href="/about" class="navbar_link">Tentang Kami</a>
-              <a href="/awards" class="navbar_link navbar_link-highlight">Penghargaan</a>
+              <a href="/about" class:list={["navbar_link", { "navbar_link-active": currentPath === "/about" }]}>Tentang Kami</a>
+              <a href="/awards" class:list={["navbar_link", "navbar_link-highlight", { "navbar_link-active": currentPath === "/awards" }]}>Penghargaan</a>
               <div class="navbar_link_wrapper">
-                <a href="/products" class="navbar_link flex row gap-xsmall left_center">
+                <a href="/products" class:list={["navbar_link", "flex", "row", "gap-xsmall", "left_center", { "navbar_link-active": currentPath.startsWith("/products") }]}>
                   Produk
                   <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -78,9 +79,9 @@ const { title, description = 'CV Beruang Perkasa - Distributor Semen Putih dan B
                   </div>
                 </div>
               </div>
-              <a href="/posts" class="navbar_link">Blog</a>
-              <a href="/contact" class="navbar_link">Kontak</a>
-              <a href="/anniversary" class="navbar_link navbar_link-anniversary">15th Anniversary</a>
+              <a href="/posts" class:list={["navbar_link", { "navbar_link-active": currentPath === "/posts" }]}>Blog</a>
+              <a href="/contact" class:list={["navbar_link", { "navbar_link-active": currentPath === "/contact" }]}>Kontak</a>
+              <a href="/anniversary" class:list={["navbar_link", "navbar_link-anniversary", { "navbar_link-active": currentPath === "/anniversary" }]}>15th Anniversary</a>
             </nav>
             <div class="navbar_right">
               <div class="navbar_language_wrapper">
@@ -326,12 +327,20 @@ const { title, description = 'CV Beruang Perkasa - Distributor Semen Putih dan B
   }
 
   .navbar_link-highlight {
-    color: var(--accent-green);
-    font-weight: 600;
+    color: var(--text-dark);
   }
 
   .navbar_link-highlight:hover {
     color: var(--primary);
+  }
+
+  .navbar_link-highlight.navbar_link-active {
+    color: var(--primary);
+  }
+
+  .navbar_link-active {
+    color: var(--primary);
+    font-weight: 600;
   }
 
   .navbar_link-anniversary {

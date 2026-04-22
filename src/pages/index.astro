@@ -5,59 +5,96 @@ import { getCollection } from 'astro:content';
 const allPosts = await getCollection('posts');
 const recentPosts = allPosts
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
-  .slice(0, 6);
+  .slice(0, 3);
 
-const products = [
-  { name: 'Semen Putih Black Bull', category: 'Semen', excerpt: 'Semen putih berkualitas tinggi untuk finishing dan dekorasi bangunan.' },
-  { name: 'Perekat Bata Ringan Big Lion', category: 'Perekat', excerpt: 'Perekat bata ringan 5 in 1 untuk berbagai jenis pasangan.' },
-  { name: 'Plamir Instant Big Lion', category: 'Plamir', excerpt: 'Plamir siap pakai untuk finishing dinding yang rata dan halus.' },
-  { name: 'Acian Abu-abu Giant Mortar', category: 'Acian', excerpt: 'Acian siap pakai untuk interior dan eksterior.' },
-  { name: 'Super Joint Compound', category: 'Plamir', excerpt: 'Plamir dengan daya rekat tinggi untuk permukaan dinding.' },
-  { name: 'Wall Care', category: 'Perawatan', excerpt: 'Pelindung dinding agar tetap bersih dan tahan lama.' },
+const featuredProducts = [
+  { 
+    name: 'Semen Putih Black Bull', 
+    category: 'Semen', 
+    excerpt: 'Semen putih berkualitas tinggi untuk finishing dan dekorasi bangunan.',
+    image: '/uploads/products/semen-black-bull.png'
+  },
+  { 
+    name: 'Perekat Bata Ringan Big Lion', 
+    category: 'Perekat', 
+    excerpt: 'Perekat bata ringan 5 in 1 untuk berbagai jenis pasangan.',
+    image: '/uploads/products/black-bull-merah-M.png'
+  },
+  { 
+    name: 'Plamir Instant Big Lion', 
+    category: 'Plamir', 
+    excerpt: 'Plamir siap pakai untuk finishing dinding yang rata dan halus.',
+    image: '/uploads/products/dempul-e1610200768580.png'
+  },
+  { 
+    name: 'Waterproofing Solution', 
+    category: 'Pelindung', 
+    excerpt: 'Solusi anti bocor untuk area yang sering terkena air dan kelembaban.',
+    image: '/uploads/products/waterproof.png'
+  },
+];
+
+const stats = [
+  { value: '15+', label: 'Tahun Pengalaman' },
+  { value: '30+', label: 'Jenis Produk' },
+  { value: '100%', label: 'Jangkauan Nasional' },
 ];
 ---
 
 <BaseLayout title="Home" description="CV Beruang Perkasa - Distributor Semen Putih, Perekat Bata Ringan, Plamir, Acian dan Bahan Bangunan Berkualitas">
-  <section class="hero">
-    <div class="container-xl mx-auto px-4 text-center">
-      <h1 class="text-4xl md:text-6xl font-bold mb-6">
-        Profesional Dan Komitmen<br />
-        Menguasai Pangsa Pasar<br />
-        Hampir Seluruh Indonesia
-      </h1>
-      <p class="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-        Melalui Distribusi Bahan Bangunan Berkualitas
-      </p>
-      <div class="flex gap-4 justify-center">
-        <a href="/products" class="btn btn-primary">
-          Lihat Produk
-          <span class="hero-arrow">&#8594;</span>
-        </a>
-        <a href="/contact" class="btn btn-outline">
-          Hubungi Kami
-        </a>
+
+  <section class="hero-section">
+    <div class="container-xl mx-auto px-4">
+      <div class="hero-content">
+        <div class="hero-badge">Berpengalaman Sejak 1996</div>
+        <h1 class="hero-title">
+          Distributor Bahan Bangunan<br />
+          <span class="text-primary">Terpercaya</span> di Indonesia
+        </h1>
+        <p class="hero-subtitle">
+          Menyediakan produk berkualitas tinggi: Semen Putih, Perekat Bata Ringan, Plamir, Acian, dan bahan bangunan lainnya untuk proyek konstruksi Anda.
+        </p>
+        <div class="hero-stats">
+          {stats.map((stat) => (
+            <div class="stat-item">
+              <span class="stat-value">{stat.value}</span>
+              <span class="stat-label">{stat.label}</span>
+            </div>
+          ))}
+        </div>
+        <div class="hero-actions">
+          <a href="/products" class="btn btn-primary">
+            Lihat Produk
+          </a>
+          <a href="/contact" class="btn btn-outline-dark">
+            Hubungi Kami
+          </a>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="/uploads/anniversary/DSC_8423.webp" alt="Beruang Perkasa" />
       </div>
     </div>
   </section>
 
-  <section class="py-16 bg-gray-50">
+  <section class="py-16">
     <div class="container-xl mx-auto px-4">
-      <div class="text-center mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold mb-4">Produk Unggulan</h2>
-        <p class="text-gray text-lg max-w-xl mx-auto">Bahan bangunan berkualitas tinggi untuk kebutuhan konstruksi Anda</p>
+      <div class="section-header">
+        <h2 class="text-3xl md:text-4xl font-bold mb-3">Produk Unggulan</h2>
+        <p class="text-gray text-lg max-w-xl mx-auto">Bahan bangunan berkualitas untuk kebutuhan konstruksi Anda</p>
       </div>
       <div class="product-grid">
-        {products.map((product) => (
+        {featuredProducts.map((product) => (
           <div class="product-card">
             <div class="product-card-image">
-              <span class="text-gray-400">{product.category}</span>
+              <img src={product.image} alt={product.name} />
             </div>
             <div class="product-card-body">
-              <span class="badge mb-2">{product.category}</span>
-              <h3 class="product-card-title mt-2">{product.name}</h3>
+              <span class="badge">{product.category}</span>
+              <h3 class="product-card-title">{product.name}</h3>
               <p class="product-card-text">{product.excerpt}</p>
               <a href="/products" class="product-card-link">
-                Selengkapnya <span>&#8594;</span>
+                Selengkapnya <span>→</span>
               </a>
             </div>
           </div>
@@ -71,21 +108,27 @@ const products = [
     </div>
   </section>
 
-  <section class="py-16">
+  <section class="py-16 bg-gray-50">
     <div class="container-xl mx-auto px-4">
-      <div class="text-center mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold mb-4">Artikel Terbaru</h2>
+      <div class="section-header">
+        <h2 class="text-3xl md:text-4xl font-bold mb-3">Artikel Terbaru</h2>
         <p class="text-gray text-lg max-w-xl mx-auto">Tips dan informasi seputar bahan bangunan</p>
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         {recentPosts.map((post) => {
           const slug = post.data.slug || post.id;
+          const image = post.data.image || '/uploads/blog/placeholder.jpg';
           return (
-            <a href={`/posts/${slug}`} class="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
-              <div class="p-6">
-                <h3 class="font-bold text-lg mb-2 line-clamp-2">{post.data.title}</h3>
-                <p class="text-gray text-sm line-clamp-3">{post.data.excerpt || 'Baca artikel lengkap tentang bahan bangunan...'}</p>
-                <span class="text-red mt-4 inline-block text-sm font-medium">Baca Selengkapnya &#8594;</span>
+            <a href={`/posts/${slug}`} class="blog-card">
+              <div class="blog-card-image">
+                <img src={image} alt={post.data.title} />
+                <span class="blog-card-category">{post.data.category || 'Bahan Bangunan'}</span>
+              </div>
+              <div class="blog-card-body">
+                <h3 class="blog-card-title">{post.data.title}</h3>
+                <p class="blog-card-date">{new Date(post.data.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}</p>
+                <p class="blog-card-excerpt">{post.data.excerpt || 'Baca artikel lengkap tentang bahan bangunan...'}</p>
+                <span class="blog-card-link">Baca Selengkapnya →</span>
               </div>
             </a>
           );
@@ -99,28 +142,40 @@ const products = [
     </div>
   </section>
 
-  <section class="py-16 bg-primary text-white">
-    <div class="container-xl mx-auto px-4 text-center">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4">Tentang CV Beruang Perkasa</h2>
-      <p class="text-lg mb-8 max-w-2xl mx-auto text-white opacity-90">
-        Telah dipercaya sejak 2010 sebagai distributor bahan bangunan terpercaya di Surabaya dan seluruh Indonesia.
-        Produk kami meliputi Semen Putih, Perekat Bata Ringan, Plamir, Acian, dan berbagai bahan bangunan berkualitas lainnya.
-      </p>
-      <a href="/about" class="btn bg-white text-primary hover:bg-gray-100">
-        Pelajari Lebih Lanjut
-      </a>
+  <section class="py-16">
+    <div class="container-xl mx-auto px-4 max-w-5xl mx-auto">
+      <div class="about-card">
+        <div class="about-card-content">
+          <span class="about-badge">Tentang Kami</span>
+          <h2 class="about-title">CV Beruang Perkasa</h2>
+          <p class="about-desc">
+            Telah dipercaya sejak 1996 sebagai distributor bahan bangunan terpercaya di Surabaya dan seluruh Indonesia. Produk kami meliputi Semen Putih Black Bull, Perekat Bata Ringan Big Lion, Plamir, Acian, Waterproofing, dan berbagai bahan bangunan berkualitas lainnya.
+          </p>
+          <div class="about-actions">
+            <a href="/about" class="btn btn-primary">
+              Pelajari Lebih Lanjut
+            </a>
+            <a href="/awards" class="btn btn-outline-primary">
+              Lihat Penghargaan
+            </a>
+          </div>
+        </div>
+        <div class="about-card-image">
+          <img src="/uploads/anniversary/DSC_8563.webp" alt="Tentang Beruang Perkasa" />
+        </div>
+      </div>
     </div>
   </section>
 
   <section class="py-16 bg-gray-50">
     <div class="container-xl mx-auto px-4">
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-        <div>
+      <div class="contact-grid">
+        <div class="contact-content">
           <h2 class="text-3xl md:text-4xl font-bold mb-4">Hubungi Kami</h2>
           <p class="text-gray text-lg mb-6">
             Konsultasikan kebutuhan bahan bangunan Anda dengan tim kami. Kami siap membantu memberikan rekomendasi produk yang tepat untuk proyek Anda.
           </p>
-          <div class="flex gap-4">
+          <div class="contact-actions">
             <a href="/contact" class="btn btn-primary">
               Hubungi Kami
             </a>
@@ -129,13 +184,565 @@ const products = [
             </a>
           </div>
         </div>
-        <div class="bg-white rounded-lg shadow-md p-8">
-          <h3 class="font-bold text-xl mb-4">Kontak</h3>
-          <p class="text-gray mb-2">Surabaya, Indonesia</p>
-          <p class="text-gray mb-2">Email: info@beruangperkasa.com</p>
-          <p class="text-gray">WhatsApp: +62 812 3456 7890</p>
+        <div class="contact-card">
+          <h3 class="contact-card-title">Informasi Kontak</h3>
+          <div class="contact-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+              <circle cx="12" cy="10" r="3"/>
+            </svg>
+            <div>
+              <span class="contact-label">Kantor</span>
+              <p>Jl. Rungkut Mapan Tengah IX Blok Ci No.30, Surabaya</p>
+            </div>
+          </div>
+          <div class="contact-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            </svg>
+            <div>
+              <span class="contact-label">Showroom</span>
+              <p>Jl. Brigjen Katamso No. 164 – 165, Waru, Sidoarjo</p>
+            </div>
+          </div>
+          <div class="contact-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            <div>
+              <span>info@beruangperkasa.id</span>
+            </div>
+          </div>
+          <div class="contact-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72"/>
+            </svg>
+            <div>
+              <span>031-8704593 / 031-8721992</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </section>
+
+  <section class="map-fullwidth">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.1710551738065!2d112.77589979999999!3d-7.3346781000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fac56e20b875%3A0x6561ab1c48f252b6!2sCV.%20Beruang%20Perkasa!5e0!3m2!1sid!2sid!4v1776753726975!5m2!1sid!2sid"
+      width="100%" 
+      height="400" 
+      style="border:0;" 
+      allowfullscreen="" 
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      title="Lokasi Beruang Perkasa"
+    ></iframe>
+  </section>
 </BaseLayout>
+
+<style>
+  .footer {
+    margin-top: 0 !important;
+  }
+
+  .map-fullwidth {
+    width: 100%;
+  }
+
+  .map-fullwidth iframe {
+    display: block;
+  }
+
+  .hero-section {
+    background: var(--white);
+    padding: 5rem 0;
+  }
+
+  .hero-section .container-xl {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    background: var(--primary);
+    color: var(--white);
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-title {
+    font-size: 2.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+  }
+
+  .text-primary {
+    color: var(--primary);
+  }
+
+  .hero-subtitle {
+    font-size: 1.125rem;
+    color: var(--text-gray);
+    line-height: 1.8;
+    margin-bottom: 2rem;
+  }
+
+  .hero-stats {
+    display: flex;
+    gap: 3rem;
+    margin-bottom: 2.5rem;
+    padding: 1.5rem 0;
+    border-top: 1px solid #e5e7eb;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-value {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--primary);
+  }
+
+  .stat-label {
+    font-size: 0.875rem;
+    color: var(--text-gray);
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .hero-image {
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 25px 60px rgba(0,0,0,0.25);
+    margin-left: 2rem;
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 0.875rem 2rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    font-size: 0.9375rem;
+    transition: all 0.2s;
+    text-decoration: none;
+  }
+
+  .btn-primary {
+    background: var(--primary);
+    color: var(--white);
+  }
+
+  .btn-primary:hover {
+    background: var(--primary-dark);
+  }
+
+  .btn-outline {
+    background: transparent;
+    border: 2px solid var(--white);
+    color: var(--white);
+  }
+
+  .btn-outline:hover {
+    background: var(--white);
+    color: var(--text-dark);
+  }
+
+  .btn-outline-dark {
+    background: transparent;
+    border: 2px solid var(--primary);
+    color: var(--primary);
+  }
+
+  .btn-outline-dark:hover {
+    background: var(--primary);
+    color: var(--white);
+  }
+
+  .btn-outline-primary {
+    background: transparent;
+    border: 2px solid var(--primary);
+    color: var(--primary);
+  }
+
+  .btn-outline-primary:hover {
+    background: var(--primary);
+    color: var(--white);
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+  }
+
+  .product-card {
+    background: var(--white);
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    border: 1px solid rgba(0,0,0,0.06);
+    transition: all 0.3s ease;
+  }
+
+  .product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.12);
+  }
+
+  .product-card-image {
+    width: 100%;
+    height: 160px;
+    background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .product-card-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  .product-card-body {
+    padding: 1.25rem;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: var(--accent-green);
+    color: var(--white);
+    margin-bottom: 0.75rem;
+  }
+
+  .product-card-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 0.5rem;
+  }
+
+  .product-card-text {
+    font-size: 0.875rem;
+    color: var(--text-gray);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .product-card-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--primary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  }
+
+  .product-card-link:hover {
+    color: var(--primary-dark);
+  }
+
+  .product-card-link span {
+    transition: transform 0.2s;
+  }
+
+  .product-card:hover .product-card-link span {
+    transform: translateX(4px);
+  }
+
+  .blog-card {
+    background: var(--white);
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    border: 1px solid rgba(0,0,0,0.06);
+    transition: all 0.3s ease;
+  }
+
+  .blog-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.12);
+  }
+
+  .blog-card-image {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+  }
+
+  .blog-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .blog-card:hover .blog-card-image img {
+    transform: scale(1.05);
+  }
+
+  .blog-card-category {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    background: var(--primary);
+    color: var(--white);
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  .blog-card-body {
+    padding: 1.25rem;
+  }
+
+  .blog-card-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+  }
+
+  .blog-card-date {
+    font-size: 0.75rem;
+    color: var(--text-gray);
+    margin-bottom: 0.75rem;
+  }
+
+  .blog-card-excerpt {
+    font-size: 0.875rem;
+    color: var(--text-gray);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .blog-card-link {
+    display: inline-block;
+    color: var(--primary);
+    font-size: 0.875rem;
+    font-weight: 600;
+  }
+
+  .about-card {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 3rem;
+    background: var(--white);
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    border: 1px solid rgba(0,0,0,0.06);
+  }
+
+  .about-card-content {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .about-badge {
+    display: inline-block;
+    background: rgba(228, 21, 32, 0.1);
+    color: var(--primary);
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+    width: fit-content;
+  }
+
+  .about-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 1rem;
+  }
+
+  .about-desc {
+    font-size: 1rem;
+    color: var(--text-gray);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+
+  .about-actions {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .about-card-image {
+    overflow: hidden;
+  }
+
+  .about-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .contact-actions {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .contact-card {
+    background: var(--white);
+    border-radius: 1rem;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  }
+
+  .contact-card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 1.5rem;
+  }
+
+  .contact-item {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    margin-bottom: 1.25rem;
+  }
+
+  .contact-item:last-child {
+    margin-bottom: 0;
+  }
+
+  .contact-item svg {
+    width: 20px;
+    height: 20px;
+    color: var(--primary);
+    flex-shrink: 0;
+    margin-top: 0.25rem;
+  }
+
+  .contact-item div {
+    flex: 1;
+  }
+
+  .contact-label {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--text-gray);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+  }
+
+  .contact-item p,
+  .contact-item span {
+    font-size: 0.9375rem;
+    color: var(--text-gray);
+    line-height: 1.5;
+  }
+
+  @media (max-width: 1024px) {
+    .hero-section .container-xl {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+
+    .hero-image {
+      order: -1;
+    }
+
+    .product-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .about-card {
+      grid-template-columns: 1fr;
+    }
+
+    .contact-grid {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero-section {
+      padding: 3rem 0;
+    }
+
+    .hero-title {
+      font-size: 2rem;
+    }
+
+    .hero-stats {
+      gap: 1.5rem;
+    }
+
+    .stat-value {
+      font-size: 1.5rem;
+    }
+
+    .hero-actions {
+      flex-direction: column;
+    }
+
+    .product-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .about-card-content {
+      padding: 2rem;
+    }
+
+    .about-actions {
+      flex-direction: column;
+    }
+  }
+</style>

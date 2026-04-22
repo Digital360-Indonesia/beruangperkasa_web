@@ -352,7 +352,7 @@ a {
   background: var(--secondary);
   color: var(--white);
   padding: 0;
-  margin-top: 5rem;
+  margin-top: 0;
 }
 
 .footer-grid {
