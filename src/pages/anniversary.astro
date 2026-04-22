@@ -49,7 +49,7 @@ const galleryImages = [
       <div class="slider" id="slider">
         {apageImages.map((img, index) => (
           <div class="slide" data-index={index}>
-            <img src={img.src} alt={img.alt} />
+            <img src={img.src} alt={img.alt} width="800" height="400" loading="lazy" decoding="async" />
           </div>
         ))}
       </div>

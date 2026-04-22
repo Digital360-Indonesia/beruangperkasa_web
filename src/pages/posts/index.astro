@@ -30,7 +30,7 @@ const getImage = (imagePath) => {
         <div class="featured-post mb-12">
           <a href={`/posts/${featuredPost.data.slug || featuredPost.id}`} class="featured-card">
             <div class="featured-image">
-              <img src={getImage(featuredPost.data.image)} alt={featuredPost.data.title} />
+              <img src={getImage(featuredPost.data.image)} alt={featuredPost.data.title} width="600" height="350" loading="lazy" decoding="async" />
               <div class="featured-overlay"></div>
             </div>
             <div class="featured-content">
@@ -61,7 +61,7 @@ const getImage = (imagePath) => {
             style={index >= 6 ? 'display: none;' : ''}
           >
             <div class="post-image">
-              <img src={getImage(post.data.image)} alt={post.data.title} />
+              <img src={getImage(post.data.image)} alt={post.data.title} width="400" height="180" loading="lazy" decoding="async" />
             </div>
             <div class="post-content">
               <span class="post-category">{post.data.category || 'Tips & Trick'}</span>

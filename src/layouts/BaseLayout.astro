@@ -29,7 +29,7 @@ const currentPath = Astro.url.pathname;
         <div class="padding-horizontal padding-large">
           <div class="navbar_container">
             <a href="/" class="navbar_logo_wrapper">
-              <img src="/uploads/logos/logo.png" alt="Beruang Perkasa" class="navbar_logo" />
+              <img src="/uploads/logos/logo.png" alt="Beruang Perkasa" class="navbar_logo" loading="lazy" decoding="async" />
             </a>
             <nav class="navbar_menu">
               <a href="/about" class:list={["navbar_link", { "navbar_link-active": currentPath === "/about" }]}>Tentang Kami</a>
@@ -116,7 +116,7 @@ const currentPath = Astro.url.pathname;
         <div class="container">
           <div class="footer-content">
             <div class="footer-brand">
-              <img src="/uploads/logos/logo.png" alt="Beruang Perkasa" class="footer-logo" />
+              <img src="/uploads/logos/logo.png" alt="Beruang Perkasa" class="footer-logo" loading="lazy" decoding="async" />
               <p class="footer-desc">Distributor bahan bangunan terpercaya untuk proyek-proyek Konstruksi di Indonesia.</p>
               <div class="footer-social">
                 <a href="https://facebook.com/CV-Beruang-Perkasa-Group-100822325102507" class="social-icon" aria-label="Facebook">
@@ -200,6 +200,9 @@ const currentPath = Astro.url.pathname;
               <a href="/privacy">Kebijakan Privasi</a>
               <span class="divider">|</span>
               <a href="/terms">Syarat & Ketentuan</a>
+            </div>
+            <div class="footer-credit">
+              Made with ❤️ by <a href="https://digital360.id" target="_blank" rel="noopener noreferrer">Digital360</a>
             </div>
           </div>
         </div>
@@ -610,6 +613,22 @@ const currentPath = Astro.url.pathname;
 
   .footer-links a:hover {
     color: var(--white);
+  }
+
+  .footer-credit {
+    color: #6b7280;
+    font-size: 0.75rem;
+    margin-top: 0.5rem;
+  }
+
+  .footer-credit a {
+    color: #9ca3af;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .footer-credit a:hover {
+    color: var(--primary);
   }
 
   .footer-links .divider {

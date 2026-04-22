@@ -72,7 +72,7 @@ const stats = [
         </div>
       </div>
       <div class="hero-image">
-        <img src="/uploads/anniversary/DSC_8423.webp" alt="Beruang Perkasa" />
+        <img src="/uploads/hero.webp" alt="Beruang Perkasa" width="600" height="400" decoding="async" />
       </div>
     </div>
   </section>
@@ -87,7 +87,7 @@ const stats = [
         {featuredProducts.map((product) => (
           <div class="product-card">
             <div class="product-card-image">
-              <img src={product.image} alt={product.name} />
+              <img src={product.image} alt={product.name} width="300" height="160" loading="lazy" decoding="async" />
             </div>
             <div class="product-card-body">
               <span class="badge">{product.category}</span>
@@ -121,7 +121,7 @@ const stats = [
           return (
             <a href={`/posts/${slug}`} class="blog-card">
               <div class="blog-card-image">
-                <img src={image} alt={post.data.title} />
+                <img src={image} alt={post.data.title} width="400" height="200" loading="lazy" decoding="async" />
                 <span class="blog-card-category">{post.data.category || 'Bahan Bangunan'}</span>
               </div>
               <div class="blog-card-body">
@@ -161,7 +161,7 @@ const stats = [
           </div>
         </div>
         <div class="about-card-image">
-          <img src="/uploads/anniversary/DSC_8563.webp" alt="Tentang Beruang Perkasa" />
+          <img src="/uploads/anniversary/DSC_8563.webp" alt="Tentang Beruang Perkasa" width="500" height="350" loading="lazy" decoding="async" />
         </div>
       </div>
     </div>
@@ -328,7 +328,6 @@ const stats = [
   .hero-image {
     border-radius: 1rem;
     overflow: hidden;
-    box-shadow: 0 25px 60px rgba(0,0,0,0.25);
     margin-left: 2rem;
   }
 
