@@ -11,20 +11,18 @@ const milestones = [
 ---
 
 <BaseLayout title="Tentang Kami" description="CV Beruang Perkasa - Distributor Bahan Bangunan Berkualitas di Surabaya">
-  <section class="about-hero">
-    <div class="container-xl mx-auto px-4">
-      <div class="text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-4">Tentang Kami</h1>
-        <p class="text-gray text-lg max-w-2xl mx-auto">Distributor bahan bangunan terpercaya sejak 1996, melayani distribusi ke seluruh Indonesia</p>
+  <section class="pt-12 pb-16">
+    <div class="container mx-auto px-4">
+      <div class="text-center mb-8">
+        <h1 class="text-3xl md:text-4xl font-bold mb-4">Tentang Kami</h1>
+        <p class="text-gray-600 max-w-2xl mx-auto">Distributor bahan bangunan terpercaya sejak 1996, melayani distribusi ke seluruh Indonesia</p>
       </div>
     </div>
   </section>
 
-  
-
-  <section class="py-16 bg-gray-50">
-    <div class="container-xl mx-auto px-4 max-w-3xl mx-auto">
-      <div class="bg-white rounded-xl p-8 shadow-md">
+  <section class="pb-0">
+    <div class="container mx-auto px-4 max-w-5xl">
+      <div class="bg-white rounded-xl p-6 shadow-md">
         <div class="flex flex-col items-center gap-8">
           <div class="about-image-container">
             <img src="/uploads/anniversary/DSC_9310.webp" alt="Tentang Beruang Perkasa" class="about-image" />
@@ -156,23 +154,6 @@ const milestones = [
 </BaseLayout>
 
 <style>
-  .about-hero {
-    background: linear-gradient(135deg, var(--secondary) 0%, #2a4a4e 100%);
-    padding: 4rem 0;
-    text-align: center;
-    color: var(--white);
-  }
-
-  .about-hero h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
-
-  .about-hero p {
-    color: #d1d5db;
-    font-size: 1.125rem;
-  }
-
   .stats-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -439,10 +420,6 @@ const milestones = [
   }
 
   @media (max-width: 768px) {
-    .about-hero {
-      padding: 3rem 0;
-    }
-
     .stats-grid {
       grid-template-columns: repeat(2, 1fr);
       gap: 1rem;
